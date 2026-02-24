@@ -5,8 +5,7 @@ permissions:
 on:
   workflow_dispatch:
   push:
-    branches:
-      - '*'
+    branches: ["main"]
     paths:
       - 'Containerfile'
       - 'docker-entrypoint.sh'
