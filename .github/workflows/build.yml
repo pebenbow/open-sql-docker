@@ -6,10 +6,6 @@ on:
   workflow_dispatch:
   push:
     branches: ["main"]
-    paths:
-      - 'Containerfile'
-      - 'docker-entrypoint.sh'
-      - 'databases/**'
   
 env:
   REGISTRY: docker.io
