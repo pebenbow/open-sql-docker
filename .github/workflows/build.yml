@@ -10,7 +10,7 @@ on:
     paths:
       - 'Containerfile'
       - 'docker-entrypoint.sh'
-      - 'databases/**'
+      - '/databases/**'
   
 env:
   REGISTRY: docker.io
