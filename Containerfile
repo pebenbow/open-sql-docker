@@ -2,17 +2,16 @@ FROM postgres:17
 
 ENV POSTGRES_PASSWORD=postgres
 
-RUN apt-get update && apt-get install -y --no-install-recommends \
-      dos2unix \
-    && rm -rf /var/lib/apt/lists/*
-
+# Copy database directories
 COPY ./databases/ /docker-entrypoint-initdb.d/
 
-# Normalize line endings
-RUN find /docker-entrypoint-initdb.d -type f -print0 \
-    | xargs -0 -r dos2unix || true
+# Copy the init script
+COPY ./docker-entrypoint-initdb.d/00-load-databases.sh /docker-entrypoint-initdb.d/00-load-databases.sh
 
 # Ensure shell init scripts are executable (SQL files don't need this)
-RUN find /docker-entrypoint-initdb.d -type f -name "*.sh" -exec chmod +x {} \;
+RUN chmod +x /docker-entrypoint-initdb.d/00-load-databases.sh
+
+# Debug: List the contents of the initialization directory to verify files are in place
+RUN ls -laR /docker-entrypoint-initdb.d/
 
 EXPOSE 5432
