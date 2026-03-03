@@ -1,26 +1,18 @@
-FROM ubuntu:22.04
+FROM postgres:17
 
-ENV DEBIAN_FRONTEND=noninteractive
 ENV POSTGRES_PASSWORD=postgres
 
-RUN apt-get update && apt-get install -y \
-    postgresql \
-    postgresql-contrib \
-    sudo \
+RUN apt-get update && apt-get install -y --no-install-recommends \
+      dos2unix \
     && rm -rf /var/lib/apt/lists/*
 
-# Create directory for initialization scripts
-RUN mkdir -p /docker-entrypoint-initdb.d
-
-# Copy database initialization files
 COPY ./databases/ /docker-entrypoint-initdb.d/
 
-# Copy entrypoint script
-COPY docker-entrypoint.sh /docker-entrypoint.sh
+# Normalize line endings
+RUN find /docker-entrypoint-initdb.d -type f -print0 \
+    | xargs -0 -r dos2unix || true
 
-# Ensure script has Unix line endings and is executable
-RUN chmod +x /docker-entrypoint.sh
+# Ensure shell init scripts are executable (SQL files don't need this)
+RUN find /docker-entrypoint-initdb.d -type f -name "*.sh" -exec chmod +x {} \;
 
 EXPOSE 5432
-
-CMD ["/docker-entrypoint.sh"]
