@@ -6,6 +6,11 @@ on:
   workflow_dispatch:
   push:
     branches: ["main"]
+    paths:
+      exclude:
+        - "README.md"
+        - "LICENSE"
+        - ".gitignore"
   
 env:
   REGISTRY: docker.io
