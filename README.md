@@ -54,6 +54,18 @@ I'll explain the `docker run` arguments here:
 
 ### Connecting to the container
 
+Once the container is running, your new PostgreSQL instance will be available via `localhost` on your computer, and you should be able to easily connect to through a script or database IDE of your choice.
+
+For example, to connect with the admin user `postgres` on `port 5432`, you could use the following JDBC connection string:
+
+```
+jdbc:postgresql://localhost:5432/postgres
+```
+
+Or, if connecting from an IDE like DataGrip, you can put `localhost` as the server/host, `5432` as the port, `postgres` as the username, etc.
+
+![](images/datagrip_connect.png)
+
 ### Stopping the container
 
 When you're done using the PostgreSQL container, you can leave it running in the background if you choose. It may consume some of your computer's resources like memory and compute, but otherwise it won't harm anything. 
