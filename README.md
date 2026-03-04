@@ -70,5 +70,5 @@ If you ever reach a point where you no longer need to run the container at all, 
 
 At that point, in order to use the container again, you will need to re-run the `docker run` command above. And, because we used the `-v` argument above to specify a Docker volume for data storage, all your data should still be there!
 
-> [!INFO]
+> [!TIP]
 > Removing the container does not delete the underlying image from your computer, so you should not need to run `docker pull` again unless you are trying to retrieve the latest version from DockerHub.
