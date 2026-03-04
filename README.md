@@ -62,8 +62,6 @@ However, if you want to reclaim some of your computer's resources, you can stop 
 
 After that, you can resume the container anytime by running `docker start my-postgres`.
 
-The important thing to remove about stopping and restarting with `docker stop` and `docker start` is that any changes you make to Postgres (new databases, modified data) will be **preserved**. The container's filesystem remains intact, so any changes you make will persist.
-
 ### Removing the container
 
 If you ever reach a point where you no longer need to run the container at all, you can remove it entirely by running `docker rm my-postgres`. This not only shuts down the container, but it makes it entirely unavailable until you re-run it!
