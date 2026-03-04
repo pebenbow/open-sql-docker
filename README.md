@@ -82,3 +82,9 @@ At that point, in order to use the container again, you will need to re-run the 
 
 > [!TIP]
 > Removing the container does not delete the underlying image from your computer, so you should not need to run `docker pull` again unless you are trying to retrieve the latest version from DockerHub.
+
+## Acknowledgments
+
+Huge thanks to Taehee Kim (@keehtae) for his help with this project, including testing, validation, and writing quality content for the textbook.
+
+Another huge thanks to Michael Blackmon (@possiblyMikeB) for getting me on the Docker bandwagon to begin with. It has been a revelation.
