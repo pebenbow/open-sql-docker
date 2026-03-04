@@ -10,6 +10,7 @@ on:
       - "README.md"
       - "LICENSE"
       - ".gitignore"
+      - "images/**"
   
 env:
   REGISTRY: docker.io
