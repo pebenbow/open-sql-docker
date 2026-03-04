@@ -58,7 +58,7 @@ load_dir_into_db () {
   elif [ ${#sql_files[@]} -gt 0 ]; then
     for f in "${sql_files[@]}"; do
       echo "    psql: $f"
-      psql -v ON_ERROR_STOP=1 --username "$PGUSER" --dbname "$db" -f "$f"
+      psql -v ON_ERROR_STOP=1 --quiet --username "$PGUSER" --dbname "$db" -f "$f"
     done
 
   else
