@@ -3,7 +3,7 @@ CREATE SCHEMA IF NOT EXISTS public;
 -- region
 CREATE TABLE public.region (
     region_description VARCHAR(60),
-    region_id SMALLINT PRIMARY KEY
+    region_id INTEGER PRIMARY KEY
 );
 
 -- categories
@@ -11,7 +11,7 @@ CREATE TABLE public.categories (
     category_name VARCHAR(15),
     description TEXT,
     picture BYTEA,
-    category_id SMALLINT PRIMARY KEY
+    category_id INTEGER PRIMARY KEY
 );
 
 -- customer_demographics
@@ -39,7 +39,7 @@ CREATE TABLE public.customers (
 CREATE TABLE public.shippers (
     company_name VARCHAR(40),
     phone VARCHAR(24),
-    shipper_id SMALLINT PRIMARY KEY
+    shipper_id INTEGER PRIMARY KEY
 );
 
 -- suppliers
@@ -55,7 +55,7 @@ CREATE TABLE public.suppliers (
     phone VARCHAR(24),
     fax VARCHAR(24),
     homepage TEXT,
-    supplier_id SMALLINT PRIMARY KEY
+    supplier_id INTEGER PRIMARY KEY
 );
 
 -- us_states
@@ -63,7 +63,7 @@ CREATE TABLE public.us_states (
     state_name VARCHAR(100),
     state_abbr VARCHAR(2),
     state_region VARCHAR(50),
-    state_id SMALLINT PRIMARY KEY
+    state_id INTEGER PRIMARY KEY
 );
 
 -- employees
@@ -83,9 +83,9 @@ CREATE TABLE public.employees (
     extension VARCHAR(4),
     photo BYTEA,
     notes TEXT,
-    reports_to SMALLINT,
+    reports_to INTEGER,
     photo_path VARCHAR(255),
-    employee_id SMALLINT PRIMARY KEY,
+    employee_id INTEGER PRIMARY KEY,
     CONSTRAINT fk_employees_reports_to
         FOREIGN KEY (reports_to) REFERENCES public.employees (employee_id)
 );
@@ -93,7 +93,7 @@ CREATE TABLE public.employees (
 -- territories
 CREATE TABLE public.territories (
     territory_description VARCHAR(60),
-    region_id SMALLINT,
+    region_id INTEGER,
     territory_id VARCHAR(20) PRIMARY KEY,
     CONSTRAINT fk_territories_region_id
         FOREIGN KEY (region_id) REFERENCES public.region (region_id)
@@ -102,15 +102,15 @@ CREATE TABLE public.territories (
 -- products
 CREATE TABLE public.products (
     product_name VARCHAR(40),
-    supplier_id SMALLINT,
-    category_id SMALLINT,
+    supplier_id INTEGER,
+    category_id INTEGER,
     quantity_per_unit VARCHAR(20),
     unit_price NUMERIC(10,2),
-    units_in_stock SMALLINT,
-    units_on_order SMALLINT,
-    reorder_level SMALLINT,
+    units_in_stock INTEGER,
+    units_on_order INTEGER,
+    reorder_level INTEGER,
     discontinued INTEGER,
-    product_id SMALLINT PRIMARY KEY,
+    product_id INTEGER PRIMARY KEY,
     CONSTRAINT fk_products_supplier_id
         FOREIGN KEY (supplier_id) REFERENCES public.suppliers (supplier_id),
     CONSTRAINT fk_products_category_id
@@ -130,7 +130,7 @@ CREATE TABLE public.customer_customer_demo (
 
 -- employee_territories
 CREATE TABLE public.employee_territories (
-    employee_id SMALLINT,
+    employee_id INTEGER,
     territory_id VARCHAR(20),
     PRIMARY KEY (employee_id, territory_id),
     CONSTRAINT fk_employee_territories_employee_id
@@ -142,11 +142,11 @@ CREATE TABLE public.employee_territories (
 -- orders
 CREATE TABLE public.orders (
     customer_id VARCHAR(5),
-    employee_id SMALLINT,
+    employee_id INTEGER,
     order_date DATE,
     required_date DATE,
     shipped_date DATE,
-    ship_via SMALLINT,
+    ship_via INTEGER,
     freight NUMERIC(10,2),
     ship_name VARCHAR(40),
     ship_address VARCHAR(60),
@@ -154,7 +154,7 @@ CREATE TABLE public.orders (
     ship_region VARCHAR(15),
     ship_postal_code VARCHAR(10),
     ship_country VARCHAR(15),
-    order_id SMALLINT PRIMARY KEY,
+    order_id INTEGER PRIMARY KEY,
     CONSTRAINT fk_orders_customer_id
         FOREIGN KEY (customer_id) REFERENCES public.customers (customer_id),
     CONSTRAINT fk_orders_employee_id
@@ -166,10 +166,10 @@ CREATE TABLE public.orders (
 -- order_details
 CREATE TABLE public.order_details (
     unit_price NUMERIC(9,2),
-    quantity SMALLINT,
+    quantity INTEGER,
     discount NUMERIC(3,2),
-    order_id SMALLINT,
-    product_id SMALLINT,
+    order_id INTEGER,
+    product_id INTEGER,
     PRIMARY KEY (order_id, product_id),
     CONSTRAINT fk_order_details_order_id
         FOREIGN KEY (order_id) REFERENCES public.orders (order_id),
