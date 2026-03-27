@@ -110,7 +110,7 @@ CREATE TABLE public.products (
     units_in_stock INTEGER,
     units_on_order INTEGER,
     reorder_level INTEGER,
-    discontinued INTEGER
+    discontinued INTEGER,
     CONSTRAINT fk_products_supplier_id
         FOREIGN KEY (supplier_id) REFERENCES public.suppliers (supplier_id),
     CONSTRAINT fk_products_category_id
@@ -121,7 +121,7 @@ CREATE TABLE public.products (
 CREATE TABLE public.customer_customer_demo (
     PRIMARY KEY (customer_id, customer_type_id),
     customer_id VARCHAR(5),
-    customer_type_id VARCHAR(5)
+    customer_type_id VARCHAR(5),
     CONSTRAINT fk_customer_customer_demo_customer_id
         FOREIGN KEY (customer_id) REFERENCES public.customers (customer_id),
     CONSTRAINT fk_customer_customer_demo_customer_type_id
