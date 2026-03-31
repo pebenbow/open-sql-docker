@@ -168,7 +168,7 @@ CREATE TABLE public.order_details (
     PRIMARY KEY (order_id, product_id),
     unit_price NUMERIC(9,2),
     quantity INTEGER,
-    discount NUMERIC(3,2),
+    discount NUMERIC(5,2),
     order_id INTEGER,
     product_id INTEGER,
     CONSTRAINT fk_order_details_order_id
