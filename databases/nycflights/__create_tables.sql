@@ -32,7 +32,11 @@ CREATE TABLE public.planes (
 );
 
 -- weather
+-- PK uses (origin, time_hour) rather than (origin, year, month, day, hour) because
+-- the DST fall-back on 2013-11-03 produces two legitimate hour=1 observations at LGA
+-- that are only distinguishable by their UTC time_hour value.
 CREATE TABLE public.weather (
+    PRIMARY KEY (origin, time_hour),
     origin VARCHAR(3),
     year INTEGER,
     month INTEGER,
@@ -47,11 +51,16 @@ CREATE TABLE public.weather (
     precip DOUBLE PRECISION,
     pressure DOUBLE PRECISION,
     visib DOUBLE PRECISION,
-    time_hour TIMESTAMP
+    time_hour TIMESTAMP,
+    CONSTRAINT fk_weather_origin
+        FOREIGN KEY (origin) REFERENCES public.airports (faa)
 );
 
 -- flights
+-- tailnum is intentionally not a FK to planes: ~28k flights reference tailnums
+-- absent from the planes table, a known data gap in the nycflights13 dataset.
 CREATE TABLE public.flights (
+    PRIMARY KEY (year, month, day, carrier, flight, origin),
     year INTEGER,
     month INTEGER,
     day INTEGER,
@@ -70,5 +79,11 @@ CREATE TABLE public.flights (
     distance INTEGER,
     hour INTEGER,
     minute INTEGER,
-    time_hour TIMESTAMP
+    time_hour TIMESTAMP,
+    CONSTRAINT fk_flights_carrier
+        FOREIGN KEY (carrier) REFERENCES public.airlines (carrier),
+    CONSTRAINT fk_flights_origin
+        FOREIGN KEY (origin) REFERENCES public.airports (faa),
+    CONSTRAINT fk_flights_dest
+        FOREIGN KEY (dest) REFERENCES public.airports (faa)
 );
