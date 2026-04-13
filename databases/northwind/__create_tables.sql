@@ -166,11 +166,11 @@ CREATE TABLE public.orders (
 -- order_details
 CREATE TABLE public.order_details (
     PRIMARY KEY (order_id, product_id),
+    order_id INTEGER,
+    product_id INTEGER,
     unit_price NUMERIC(9,2),
     quantity INTEGER,
     discount NUMERIC(5,2),
-    order_id INTEGER,
-    product_id INTEGER,
     CONSTRAINT fk_order_details_order_id
         FOREIGN KEY (order_id) REFERENCES public.orders (order_id),
     CONSTRAINT fk_order_details_product_id
