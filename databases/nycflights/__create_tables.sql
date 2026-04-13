@@ -57,8 +57,10 @@ CREATE TABLE public.weather (
 );
 
 -- flights
--- tailnum is intentionally not a FK to planes: ~28k flights reference tailnums
--- absent from the planes table, a known data gap in the nycflights13 dataset.
+-- tailnum is intentionally not a FK to planes. The nycflights13 dataset uses
+-- synthetic placeholder tailnums (e.g. N3XXAA, N5XXMQ) for aircraft whose real
+-- registrations were unavailable. These do not exist in the FAA registry and
+-- cannot be matched to real planes records, so the FK cannot be fully enforced.
 CREATE TABLE public.flights (
     PRIMARY KEY (year, month, day, carrier, flight, origin),
     year INTEGER,
