@@ -57,10 +57,9 @@ CREATE TABLE public.weather (
 );
 
 -- flights
--- tailnum is intentionally not a FK to planes. The nycflights13 dataset uses
--- synthetic placeholder tailnums (e.g. N3XXAA, N5XXMQ) for aircraft whose real
--- registrations were unavailable. These do not exist in the FAA registry and
--- cannot be matched to real planes records, so the FK cannot be fully enforced.
+-- tailnum FK to planes is added in __load_tables.sql after data load.
+-- Synthetic placeholder tailnums (e.g. N3XXAA, N5XXMQ) that have no matching
+-- planes record are set to NULL before the FK is applied.
 CREATE TABLE public.flights (
     PRIMARY KEY (year, month, day, carrier, flight, origin),
     year INTEGER,
