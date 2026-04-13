@@ -1,0 +1,14 @@
+COPY public.region FROM '/docker-entrypoint-initdb.d/northwind/region.txt' WITH (FORMAT csv, DELIMITER '|', HEADER true);
+COPY public.territories FROM '/docker-entrypoint-initdb.d/northwind/territories.txt' WITH (FORMAT csv, DELIMITER '|', HEADER true);
+COPY public.us_states FROM '/docker-entrypoint-initdb.d/northwind/us_states.txt' WITH (FORMAT csv, DELIMITER '|', HEADER true);
+COPY public.suppliers FROM '/docker-entrypoint-initdb.d/northwind/suppliers.txt' WITH (FORMAT csv, DELIMITER '|', HEADER true);
+COPY public.categories FROM '/docker-entrypoint-initdb.d/northwind/categories.txt' WITH (FORMAT csv, DELIMITER '|', HEADER true);
+COPY public.customers FROM '/docker-entrypoint-initdb.d/northwind/customers.txt' WITH (FORMAT csv, DELIMITER '|', HEADER true);
+COPY public.customer_demographics FROM '/docker-entrypoint-initdb.d/northwind/customer_demographics.txt' WITH (FORMAT csv, DELIMITER '|', HEADER true);
+COPY public.employees FROM '/docker-entrypoint-initdb.d/northwind/employees.txt' WITH (FORMAT csv, DELIMITER '|', HEADER true);
+COPY public.shippers FROM '/docker-entrypoint-initdb.d/northwind/shippers.txt' WITH (FORMAT csv, DELIMITER '|', HEADER true);
+COPY public.products FROM '/docker-entrypoint-initdb.d/northwind/products.txt' WITH (FORMAT csv, DELIMITER '|', HEADER true);
+COPY public.orders FROM '/docker-entrypoint-initdb.d/northwind/orders.txt' WITH (FORMAT csv, DELIMITER '|', HEADER true);
+COPY public.order_details FROM '/docker-entrypoint-initdb.d/northwind/order_details.txt' WITH (FORMAT csv, DELIMITER '|', HEADER true);
+COPY public.employee_territories FROM '/docker-entrypoint-initdb.d/northwind/employee_territories.txt' WITH (FORMAT csv, DELIMITER '|', HEADER true);
+COPY public.customer_customer_demo FROM '/docker-entrypoint-initdb.d/northwind/customer_customer_demo.txt' WITH (FORMAT csv, DELIMITER '|', HEADER true);
