@@ -12,6 +12,9 @@ CREATE TABLE public.actors (
     height_cm         SMALLINT,
     oscar_nominations SMALLINT     NOT NULL DEFAULT 0,
     oscar_wins        SMALLINT     NOT NULL DEFAULT 0,
-    primary_genre     VARCHAR(20)  NOT NULL,
+    primary_genre          VARCHAR(20)   NOT NULL,
+    has_honorary_oscar     BOOLEAN       NOT NULL DEFAULT false,
+    notable_role           TEXT,
+    total_box_office_usd   NUMERIC(12,0),
     CONSTRAINT chk_oscar_wins CHECK (oscar_wins <= oscar_nominations)
 );

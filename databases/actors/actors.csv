@@ -1,200 +1,200 @@
-1,Tom,Hanks,,M,1956-07-09,,USA,183,5,2,Drama
-2,Meryl,Streep,,F,1949-06-22,,USA,168,21,3,Drama
-3,Cate,Blanchett,,F,1969-05-14,,Australia,174,8,2,Drama
-4,Marlon,Brando,,M,1924-04-03,2004-07-01,USA,175,8,2,Drama
-5,Audrey,Hepburn,Audrey Kathleen Ruston,F,1929-05-04,1993-01-20,UK,170,5,1,Romance
-6,Humphrey,Bogart,,M,1899-12-25,1957-01-14,USA,175,3,1,Drama
-7,Katharine,Hepburn,,F,1907-05-12,2003-06-29,USA,168,12,4,Drama
-8,Jack,Nicholson,,M,1937-04-22,,USA,177,12,3,Drama
-9,Denzel,Washington,,M,1954-12-28,,USA,185,9,2,Drama
-10,Ingrid,Bergman,,F,1915-08-29,1982-08-29,Sweden,170,7,3,Drama
-11,James,Stewart,,M,1908-05-20,1997-07-02,USA,188,5,1,Drama
-12,Bette,Davis,,F,1908-04-05,1989-10-06,USA,163,10,2,Drama
-13,Sidney,Poitier,,M,1927-02-20,2022-01-06,USA,188,2,1,Drama
-14,Jane,Fonda,,F,1937-12-21,,USA,170,7,2,Drama
-15,Al,Pacino,,M,1940-04-25,,USA,170,9,1,Drama
-16,Robert,De Niro,,M,1943-08-17,,USA,177,8,2,Drama
-17,Sophia,Loren,Sofia Villani Scicolone,F,1934-09-20,,Italy,170,5,1,Drama
-18,Marcello,Mastroianni,,M,1924-09-28,1996-12-19,Italy,180,3,0,Drama
-19,Jeanne,Moreau,,F,1928-01-23,2017-07-31,France,163,0,0,Drama
-20,Jean-Paul,Belmondo,,M,1933-04-09,2021-09-06,France,180,0,0,Action
-21,Catherine,Deneuve,Catherine Fabienne Dorléac,F,1943-10-22,,France,168,2,0,Drama
-22,Isabelle,Huppert,,F,1953-03-16,,France,160,2,0,Drama
-23,Gérard,Depardieu,,M,1948-12-27,,France,180,1,0,Drama
-24,Alec,Guinness,,M,1914-04-02,2000-08-05,UK,180,5,1,Drama
-25,Peter,Sellers,Richard Henry Sellers,M,1925-09-08,1980-07-24,UK,178,3,0,Comedy
-26,Julie,Andrews,Julia Elizabeth Wells,F,1935-10-01,,UK,168,2,1,Musical
-27,Judi,Dench,,F,1934-12-09,,UK,153,7,1,Drama
-28,Anthony,Hopkins,,M,1937-12-31,,UK,175,6,1,Drama
-29,Colin,Firth,,M,1960-09-10,,UK,185,2,1,Drama
-30,Helena,Bonham Carter,,F,1966-05-26,,UK,158,2,0,Drama
-31,Hugh,Jackman,,M,1968-10-12,,Australia,188,1,0,Action
-32,Nicole,Kidman,,F,1967-06-20,,Australia,180,5,1,Drama
-33,Geoffrey,Rush,,M,1951-07-06,,Australia,185,4,1,Drama
-34,Russell,Crowe,Russell Ira Crowe,M,1964-04-07,,New Zealand,183,3,1,Action
-35,Mel,Gibson,,M,1956-01-03,,USA,177,2,0,Action
-36,Heath,Ledger,Heathcliff Andrew Ledger,M,1979-04-04,2008-01-22,Australia,185,2,1,Drama
-37,Toni,Collette,,F,1972-11-01,,Australia,165,1,0,Horror
-38,Naomi,Watts,,F,1968-09-28,,UK,165,2,0,Drama
-39,Guy,Pearce,,M,1967-10-05,,UK,180,0,0,Thriller
-40,Eric,Bana,,M,1968-08-09,,Australia,188,0,0,Action
-41,Charlize,Theron,,F,1975-08-07,,South Africa,177,2,1,Drama
-42,Lupita,Nyong'o,,F,1983-03-01,,Mexico,165,1,1,Drama
-43,Chiwetel,Ejiofor,,M,1977-07-10,,UK,180,1,0,Drama
-44,Idris,Elba,,M,1972-09-06,,UK,188,0,0,Action
-45,Daniel,Day-Lewis,,M,1957-04-29,,UK,183,6,3,Drama
-46,Ralph,Fiennes,,M,1962-12-22,,UK,180,2,0,Drama
-47,Kate,Winslet,,F,1975-10-05,,UK,168,7,1,Drama
-48,Emma,Thompson,,F,1959-04-15,,UK,170,5,2,Drama
-49,Keira,Knightley,,F,1985-03-26,,UK,168,1,0,Drama
-50,Benedict,Cumberbatch,,M,1976-07-19,,UK,183,1,0,Thriller
-51,Gary,Oldman,,M,1958-03-21,,UK,175,2,1,Drama
-52,Michael,Fassbender,,M,1977-04-02,,Germany,183,0,0,Drama
-53,Christoph,Waltz,,M,1956-10-04,,Germany,175,4,2,Drama
-54,Halle,Berry,,F,1966-08-14,,USA,165,1,1,Action
-55,Viola,Davis,,F,1965-08-11,,USA,165,4,1,Drama
-56,Sandra,Bullock,,F,1964-07-26,,USA,171,2,1,Comedy
-57,Julia,Roberts,,F,1967-10-28,,USA,175,3,1,Drama
-58,Jodie,Foster,Alicia Christian Foster,F,1962-11-19,,USA,163,4,2,Thriller
-59,Sigourney,Weaver,Susan Alexandra Weaver,F,1949-10-08,,USA,182,3,0,Sci-Fi
-60,Glenn,Close,,F,1947-03-19,,USA,165,8,0,Drama
-61,Susan,Sarandon,,F,1946-10-04,,USA,173,5,1,Drama
-62,Jessica,Lange,,F,1949-04-20,,USA,173,5,2,Drama
-63,Sissy,Spacek,Mary Elizabeth Spacek,F,1949-12-25,,USA,163,6,1,Drama
-64,Diane,Keaton,Diane Hall,F,1946-01-05,,USA,168,4,1,Comedy
-65,Faye,Dunaway,,F,1941-01-14,,USA,170,3,1,Drama
-66,Anne,Bancroft,Anna Maria Louisa Italiano,F,1931-09-17,2005-06-06,USA,168,5,1,Drama
-67,Shelley,Winters,Shirley Schrift,F,1920-08-18,2006-01-14,USA,165,4,2,Drama
-68,Thelma,Ritter,,F,1902-02-14,1969-02-05,USA,158,6,0,Comedy
-69,Spencer,Tracy,,M,1900-04-05,1967-06-10,USA,178,9,2,Drama
-70,Henry,Fonda,,M,1905-05-16,1982-08-12,USA,188,2,1,Drama
-71,Gregory,Peck,Eldred Gregory Peck,M,1916-04-05,2003-06-12,USA,191,5,1,Drama
-72,Charlton,Heston,John Charles Carter,M,1923-10-04,2008-04-05,USA,191,1,1,Action
-73,Kirk,Douglas,Issur Danielovitch,M,1916-12-09,2020-02-05,USA,178,3,0,Drama
-74,Burt,Lancaster,,M,1913-11-02,1994-10-20,USA,183,4,1,Drama
-75,Gene,Kelly,Eugene Curran Kelly,M,1912-08-23,1996-02-02,USA,178,1,0,Musical
-76,Fred,Astaire,Frederick Austerlitz,M,1899-05-10,1987-06-22,USA,175,0,0,Musical
-77,Cary,Grant,Archibald Alexander Leach,M,1904-01-18,1986-11-29,UK,183,2,0,Comedy
-78,James,Cagney,,M,1899-07-17,1986-03-30,USA,170,3,1,Drama
-79,Edward,Robinson,Emanuel Goldenberg,M,1893-12-12,1973-01-26,Romania,168,0,0,Drama
-80,Paul,Newman,,M,1925-01-26,2008-09-26,USA,180,10,1,Drama
-81,Steve,McQueen,Terrence Steven McQueen,M,1930-03-24,1980-11-07,USA,178,1,0,Action
-82,Clint,Eastwood,,M,1930-05-31,,USA,193,4,0,Action
-83,Dustin,Hoffman,,M,1937-08-08,,USA,168,7,2,Drama
-84,Gene,Hackman,,M,1930-01-30,,USA,183,5,2,Drama
-85,Warren,Beatty,Henry Warren Beaty,M,1937-03-30,,USA,183,4,0,Drama
-86,Jack,Lemmon,John Uhler Lemmon III,M,1925-02-08,2001-06-27,USA,178,8,2,Comedy
-87,Walter,Matthau,Walter John Matthow,M,1920-10-01,2000-07-01,USA,185,3,1,Comedy
-88,Tony,Curtis,Bernard Schwartz,M,1925-06-03,2010-09-29,USA,180,1,0,Comedy
-89,Marilyn,Monroe,Norma Jeane Mortenson,F,1926-06-01,1962-08-05,USA,163,0,0,Comedy
-90,Doris,Day,Doris Mary Ann Kappelhoff,F,1922-04-03,2019-05-13,USA,165,1,0,Comedy
-91,Grace,Kelly,,F,1929-11-12,1982-09-14,USA,170,3,1,Drama
-92,Vivien,Leigh,Vivian Mary Hartley,F,1913-11-05,1967-07-08,UK,163,5,2,Drama
-93,Joan,Crawford,Lucille Fay LeSueur,F,1904-03-23,1977-05-10,USA,168,3,1,Drama
-94,Bette,Midler,,F,1945-12-01,,USA,153,2,0,Comedy
-95,Whoopi,Goldberg,Caryn Elaine Johnson,F,1955-11-13,,USA,163,2,1,Comedy
-96,Sharon,Stone,,F,1958-03-10,,USA,175,1,0,Thriller
-97,Barbra,Streisand,Barbara Joan Streisand,F,1942-04-24,,USA,163,5,2,Musical
-98,Liza,Minnelli,,F,1946-03-23,,USA,163,1,1,Musical
-99,Elizabeth,Taylor,,F,1932-02-27,2011-03-23,UK,157,5,2,Drama
-100,Viveca,Lindfors,,F,1920-12-29,1995-10-25,Sweden,168,1,0,Drama
-101,Max,von Sydow,Carl Adolf von Sydow,M,1929-04-10,2020-03-08,Sweden,196,2,0,Drama
-102,Bibi,Andersson,,F,1935-11-11,2019-04-14,Sweden,165,0,0,Drama
-103,Liv,Ullmann,,F,1938-12-16,,Norway,170,2,0,Drama
-104,Harriet,Andersson,,F,1932-02-14,,Sweden,163,0,0,Drama
-105,Dirk,Bogarde,Derek Niven van den Bogaerde,M,1921-03-28,1999-05-08,UK,178,0,0,Drama
-106,Michael,Caine,Maurice Joseph Micklewhite,M,1933-03-14,,UK,183,6,2,Thriller
-107,Sean,Connery,Thomas Sean Connery,M,1930-08-25,2020-10-31,UK,188,1,1,Action
-108,Roger,Moore,,M,1927-10-14,2017-05-23,UK,188,0,0,Action
-109,Albert,Finney,,M,1936-05-09,2019-02-07,UK,178,5,0,Drama
-110,Peter,O'Toole,Seamus Peter O'Toole,M,1932-08-02,2013-12-14,Ireland,188,8,0,Drama
-111,Richard,Burton,Richard Walter Jenkins Jr.,M,1925-11-10,1984-08-05,UK,175,7,0,Drama
-112,Rex,Harrison,Reginald Carey Harrison,M,1908-03-05,1990-06-02,UK,183,5,1,Musical
-113,Laurence,Olivier,,M,1907-05-22,1989-07-11,UK,180,10,1,Drama
-114,John,Gielgud,Arthur John Gielgud,M,1904-04-14,2000-05-21,UK,183,1,1,Drama
-115,Alastair,Sim,,M,1900-10-09,1976-08-19,UK,175,0,0,Comedy
-116,Kevin,Bacon,,M,1958-07-08,,USA,178,0,0,Drama
-117,Giancarlo,Giannini,,M,1942-08-01,,Italy,175,1,0,Drama
-118,Roberto,Benigni,,M,1952-10-27,,Italy,163,3,1,Comedy
-119,Monica,Bellucci,,F,1964-09-30,,Italy,170,0,0,Action
-120,Giulietta,Masina,,F,1921-02-22,1994-03-23,Italy,160,0,0,Drama
-121,Anna,Magnani,,F,1908-03-07,1973-09-26,Italy,163,5,1,Drama
-122,Gina,Lollobrigida,,F,1927-07-04,2023-01-16,Italy,163,0,0,Drama
-123,Alberto,Sordi,,M,1920-06-15,2003-02-24,Italy,175,0,0,Comedy
-124,Victoria,Abril,,F,1959-07-04,,Spain,163,0,0,Drama
-125,Penélope,Cruz,Penélope Cruz Sánchez,F,1974-04-28,,Spain,168,4,1,Drama
-126,Javier,Bardem,,M,1969-03-01,,Spain,180,4,1,Drama
-127,Antonio,Banderas,José Antonio Domínguez Bandera,M,1960-08-10,,Spain,175,0,0,Action
-128,Carmen,Maura,,F,1945-09-15,,Spain,165,0,0,Drama
-129,Ana,de Armas,Ana Celia de Armas Caso,F,1988-04-30,,Cuba,168,1,0,Thriller
-130,Gael,García Bernal,,M,1978-11-30,,Mexico,170,0,0,Drama
-131,Salma,Hayek,Salma Hayek Pinault,F,1966-09-02,,Mexico,157,1,0,Drama
-132,Amitabh,Bachchan,,M,1942-10-11,,India,188,0,0,Drama
-133,Shah Rukh,Khan,,M,1965-11-02,,India,170,0,0,Romance
-134,Priyanka,Chopra,,F,1982-07-18,,India,170,0,0,Action
-135,Aishwarya,Rai,,F,1973-11-01,,India,165,0,0,Romance
-136,Toshiro,Mifune,,M,1920-04-01,1997-12-24,Japan,178,0,0,Action
-137,Koji,Yakusho,,M,1956-01-02,,Japan,175,0,0,Drama
-138,Ken,Watanabe,,M,1959-10-21,,Japan,183,1,0,Drama
-139,Rinko,Kikuchi,,F,1981-01-06,,Japan,163,1,0,Drama
-140,Alain,Delon,,M,1935-11-08,2024-08-18,France,180,0,0,Action
-141,Brigitte,Bardot,Camille Javal,F,1934-09-28,,France,163,0,0,Romance
-142,Simone,Signoret,Simone Henriette Charlotte Kaminker,F,1921-03-25,1985-09-30,France,168,5,1,Drama
-143,Louis,de Funès,Louis Germain David de Funès de Galarza,M,1914-07-31,1983-01-27,France,163,0,0,Comedy
-144,Jean,Reno,Juan Moreno y Herrera-Jiménez,M,1948-07-30,,France,188,0,0,Action
-145,Marion,Cotillard,,F,1975-09-30,,France,165,3,1,Drama
-146,Vincent,Cassel,,M,1966-11-23,,France,185,0,0,Thriller
-147,Juliette,Binoche,,F,1964-03-09,,France,167,3,1,Drama
-148,Audrey,Tautou,,F,1976-08-09,,France,163,0,0,Romance
-149,Omar,Sharif,Michel Demitri Shalhoub,M,1932-04-10,2015-07-10,Egypt,183,2,0,Drama
-150,Rami,Malek,,M,1981-05-12,,USA,175,2,1,Drama
-151,Mahershala,Ali,,M,1974-02-16,,USA,188,2,2,Drama
-152,Octavia,Spencer,,F,1972-05-25,,USA,157,3,1,Drama
-153,Michelle,Pfeiffer,,F,1958-04-29,,USA,168,3,0,Drama
-154,Jennifer,Lawrence,,F,1990-08-15,,USA,175,4,1,Drama
-155,Amy,Adams,,F,1974-08-20,,USA,163,6,0,Drama
-156,Natalie,Portman,Neta-Lee Hershlag,F,1981-06-09,,USA,160,3,1,Drama
-157,Reese,Witherspoon,Laura Jeanne Reese Witherspoon,F,1976-03-22,,USA,158,2,1,Drama
-158,Hilary,Swank,,F,1974-07-30,,USA,168,2,2,Drama
-159,Thandiwe,Newton,Thandie Newton,F,1972-11-06,,UK,170,0,0,Drama
-160,Angela,Bassett,,F,1958-08-16,,USA,163,1,0,Drama
-161,Jamie,Foxx,Eric Marlon Bishop,M,1967-12-13,,USA,178,2,1,Drama
-162,Forest,Whitaker,,M,1961-07-15,,USA,188,2,1,Drama
-163,Philip,Hoffman,,M,1967-07-23,2014-02-02,USA,180,4,1,Drama
-164,Chris,Hemsworth,,M,1983-08-11,,Australia,190,0,0,Action
-165,River,Phoenix,River Jude Bottom,M,1970-08-23,1993-10-31,USA,177,1,0,Drama
-166,James,Dean,James Byron Dean,M,1931-02-08,1955-09-30,USA,177,2,0,Drama
-167,Montgomery,Clift,Edward Montgomery Clift,M,1920-10-17,1966-07-23,USA,178,4,0,Drama
-168,Robert,Mitchum,,M,1917-08-06,1997-07-01,USA,185,0,0,Action
-169,George,Scott,,M,1927-10-18,1999-09-22,USA,183,5,1,Drama
-170,Rod,Steiger,,M,1925-04-14,2002-07-09,USA,178,3,1,Drama
-171,Lee,Marvin,,M,1924-02-19,1987-08-29,USA,188,1,1,Action
-172,Walter,Brennan,,M,1894-07-25,1974-09-21,USA,178,4,3,Drama
-173,Karl,Malden,Mladen George Sekulovich,M,1912-03-22,2009-07-01,USA,180,3,1,Drama
-174,Nicolas,Cage,Nicolas Kim Coppola,M,1964-01-07,,USA,183,1,1,Drama
-175,Telly,Savalas,Aristotle Savalas,M,1922-01-21,1994-01-22,USA,180,1,0,Action
-176,Ernest,Borgnine,Ermes Effron Borgnino,M,1917-01-24,2012-07-08,USA,175,1,1,Drama
-177,Lee J.,Cobb,Leo Jacoby,M,1911-12-08,1976-02-11,USA,183,2,0,Drama
-178,Celeste,Holm,,F,1917-04-29,2012-07-15,USA,168,3,1,Comedy
-179,Katy,Jurado,María Cristina Estela Marcela Jurado García,F,1924-01-16,2002-07-05,Mexico,168,1,0,Drama
-180,Maria,Schell,,F,1926-01-15,2005-04-26,Austria,165,2,0,Drama
-181,Shirley,MacLaine,Shirley MacLean Beaty,F,1934-04-24,,USA,168,6,1,Comedy
-182,Debbie,Reynolds,Mary Frances Reynolds,F,1932-04-01,2016-12-28,USA,155,1,0,Musical
-183,Kim,Novak,Marilyn Pauline Novak,F,1933-02-13,,USA,168,0,0,Drama
-184,Janet,Leigh,Jeanette Helen Morrison,F,1927-07-06,2004-10-03,USA,165,1,0,Horror
-185,Donna,Reed,Donna Belle Mullenger,F,1921-01-27,1986-01-14,USA,165,1,1,Drama
-186,Ruth,Gordon,Ruth Gordon Jones,F,1896-10-30,1985-08-28,USA,152,5,1,Horror
-187,Eva Marie,Saint,,F,1924-07-04,,USA,168,2,1,Drama
-188,Geraldine,Page,,F,1924-11-22,1987-06-13,USA,168,8,1,Drama
-189,Tatum,O'Neal,,F,1963-11-05,,USA,165,1,1,Drama
-190,Melissa,Leo,,F,1960-09-14,,USA,165,2,1,Drama
-191,Mira,Sorvino,,F,1967-09-28,,USA,173,1,1,Comedy
-192,Marcia Gay,Harden,,F,1959-08-14,,USA,170,2,1,Drama
-193,Rachel,Weisz,,F,1970-03-07,,UK,165,2,1,Drama
-194,Alicia,Vikander,,F,1988-10-03,,Sweden,165,1,1,Drama
-195,Brie,Larson,Brianne Sidonie Desaulniers,F,1989-10-01,,USA,168,2,1,Drama
-196,Emma,Stone,Emily Jean Stone,F,1988-11-06,,USA,168,3,1,Comedy
-197,Saoirse,Ronan,,F,1994-04-12,,Ireland,168,4,0,Drama
-198,Florence,Pugh,,F,1996-01-03,,UK,163,1,0,Drama
-199,Timothée,Chalamet,,M,2000-12-27,,USA,178,1,0,Drama
-200,Brad,Pitt,William Bradley Pitt,M,1963-12-18,,USA,180,3,1,Drama
+1,Tom,Hanks,,M,1956-07-09,,USA,183,5,2,Drama,false,"Forrest Gump",4800000000
+2,Meryl,Streep,,F,1949-06-22,,USA,168,21,3,Drama,false,"The Devil Wears Prada",2100000000
+3,Cate,Blanchett,,F,1969-05-14,,Australia,174,8,2,Drama,false,"Elizabeth",5100000000
+4,Marlon,Brando,,M,1924-04-03,2004-07-01,USA,175,8,2,Drama,false,"The Godfather",1600000000
+5,Audrey,Hepburn,Audrey Kathleen Ruston,F,1929-05-04,1993-01-20,UK,170,5,1,Romance,true,"Breakfast at Tiffany's",920000000
+6,Humphrey,Bogart,,M,1899-12-25,1957-01-14,USA,175,3,1,Drama,false,"Casablanca",710000000
+7,Katharine,Hepburn,,F,1907-05-12,2003-06-29,USA,168,12,4,Drama,false,"The Philadelphia Story",890000000
+8,Jack,Nicholson,,M,1937-04-22,,USA,177,12,3,Drama,false,"One Flew Over the Cuckoo's Nest",2800000000
+9,Denzel,Washington,,M,1954-12-28,,USA,185,9,2,Drama,false,"Training Day",3200000000
+10,Ingrid,Bergman,,F,1915-08-29,1982-08-29,Sweden,170,7,3,Drama,false,"Casablanca",750000000
+11,James,Stewart,,M,1908-05-20,1997-07-02,USA,188,5,1,Drama,true,"It's a Wonderful Life",980000000
+12,Bette,Davis,,F,1908-04-05,1989-10-06,USA,163,10,2,Drama,false,"All About Eve",620000000
+13,Sidney,Poitier,,M,1927-02-20,2022-01-06,USA,188,2,1,Drama,true,"In the Heat of the Night",670000000
+14,Jane,Fonda,,F,1937-12-21,,USA,170,7,2,Drama,false,"Klute",540000000
+15,Al,Pacino,,M,1940-04-25,,USA,170,9,1,Drama,false,"The Godfather",2400000000
+16,Robert,De Niro,,M,1943-08-17,,USA,177,8,2,Drama,false,"Taxi Driver",3500000000
+17,Sophia,Loren,Sofia Villani Scicolone,F,1934-09-20,,Italy,170,5,1,Drama,true,"Two Women",480000000
+18,Marcello,Mastroianni,,M,1924-09-28,1996-12-19,Italy,180,3,0,Drama,false,"8½",210000000
+19,Jeanne,Moreau,,F,1928-01-23,2017-07-31,France,163,0,0,Drama,false,"Jules and Jim",95000000
+20,Jean-Paul,Belmondo,,M,1933-04-09,2021-09-06,France,180,0,0,Action,false,"Breathless",180000000
+21,Catherine,Deneuve,Catherine Fabienne Dorléac,F,1943-10-22,,France,168,2,0,Drama,false,"Belle de Jour",230000000
+22,Isabelle,Huppert,,F,1953-03-16,,France,160,2,0,Drama,false,"The Piano Teacher",120000000
+23,Gérard,Depardieu,,M,1948-12-27,,France,180,1,0,Drama,false,"Cyrano de Bergerac",310000000
+24,Alec,Guinness,,M,1914-04-02,2000-08-05,UK,180,5,1,Drama,true,"The Bridge on the River Kwai",870000000
+25,Peter,Sellers,Richard Henry Sellers,M,1925-09-08,1980-07-24,UK,178,3,0,Comedy,false,"Dr. Strangelove",620000000
+26,Julie,Andrews,Julia Elizabeth Wells,F,1935-10-01,,UK,168,2,1,Musical,true,"The Sound of Music",1800000000
+27,Judi,Dench,,F,1934-12-09,,UK,153,7,1,Drama,false,"Shakespeare in Love",1200000000
+28,Anthony,Hopkins,,M,1937-12-31,,UK,175,6,1,Drama,false,"The Silence of the Lambs",2700000000
+29,Colin,Firth,,M,1960-09-10,,UK,185,2,1,Drama,false,"The King's Speech",890000000
+30,Helena,Bonham Carter,,F,1966-05-26,,UK,158,2,0,Drama,false,"Fight Club",2200000000
+31,Hugh,Jackman,,M,1968-10-12,,Australia,188,1,0,Action,false,"Logan",4600000000
+32,Nicole,Kidman,,F,1967-06-20,,Australia,180,5,1,Drama,false,"Moulin Rouge!",3800000000
+33,Geoffrey,Rush,,M,1951-07-06,,Australia,185,4,1,Drama,false,"Shine",2100000000
+34,Russell,Crowe,Russell Ira Crowe,M,1964-04-07,,New Zealand,183,3,1,Action,false,"Gladiator",2600000000
+35,Mel,Gibson,,M,1956-01-03,,USA,177,2,0,Action,false,"Braveheart",1900000000
+36,Heath,Ledger,Heathcliff Andrew Ledger,M,1979-04-04,2008-01-22,Australia,185,2,1,Drama,false,"The Dark Knight",1200000000
+37,Toni,Collette,,F,1972-11-01,,Australia,165,1,0,Horror,false,"The Sixth Sense",890000000
+38,Naomi,Watts,,F,1968-09-28,,UK,165,2,0,Drama,false,"Mulholland Drive",850000000
+39,Guy,Pearce,,M,1967-10-05,,UK,180,0,0,Thriller,false,"Memento",670000000
+40,Eric,Bana,,M,1968-08-09,,Australia,188,0,0,Action,false,"Munich",780000000
+41,Charlize,Theron,,F,1975-08-07,,South Africa,177,2,1,Drama,false,"Monster",2400000000
+42,Lupita,Nyong'o,,F,1983-03-01,,Mexico,165,1,1,Drama,false,"12 Years a Slave",1800000000
+43,Chiwetel,Ejiofor,,M,1977-07-10,,UK,180,1,0,Drama,false,"12 Years a Slave",1100000000
+44,Idris,Elba,,M,1972-09-06,,UK,188,0,0,Action,false,"Beasts of No Nation",2900000000
+45,Daniel,Day-Lewis,,M,1957-04-29,,UK,183,6,3,Drama,false,"There Will Be Blood",820000000
+46,Ralph,Fiennes,,M,1962-12-22,,UK,180,2,0,Drama,false,"Schindler's List",2800000000
+47,Kate,Winslet,,F,1975-10-05,,UK,168,7,1,Drama,false,"Titanic",3200000000
+48,Emma,Thompson,,F,1959-04-15,,UK,170,5,2,Drama,false,"Sense and Sensibility",1300000000
+49,Keira,Knightley,,F,1985-03-26,,UK,168,1,0,Drama,false,"Pride & Prejudice",2400000000
+50,Benedict,Cumberbatch,,M,1976-07-19,,UK,183,1,0,Thriller,false,"Doctor Strange",4500000000
+51,Gary,Oldman,,M,1958-03-21,,UK,175,2,1,Drama,false,"Darkest Hour",3200000000
+52,Michael,Fassbender,,M,1977-04-02,,Germany,183,0,0,Drama,false,"Shame",1600000000
+53,Christoph,Waltz,,M,1956-10-04,,Germany,175,4,2,Drama,false,"Inglourious Basterds",2100000000
+54,Halle,Berry,,F,1966-08-14,,USA,165,1,1,Action,false,"Monster's Ball",2600000000
+55,Viola,Davis,,F,1965-08-11,,USA,165,4,1,Drama,false,"Fences",1400000000
+56,Sandra,Bullock,,F,1964-07-26,,USA,171,2,1,Comedy,false,"Speed",3100000000
+57,Julia,Roberts,,F,1967-10-28,,USA,175,3,1,Drama,false,"Erin Brockovich",3400000000
+58,Jodie,Foster,Alicia Christian Foster,F,1962-11-19,,USA,163,4,2,Thriller,false,"The Silence of the Lambs",1800000000
+59,Sigourney,Weaver,Susan Alexandra Weaver,F,1949-10-08,,USA,182,3,0,Sci-Fi,false,"Alien",2900000000
+60,Glenn,Close,,F,1947-03-19,,USA,165,8,0,Drama,false,"Fatal Attraction",870000000
+61,Susan,Sarandon,,F,1946-10-04,,USA,173,5,1,Drama,false,"Thelma & Louise",950000000
+62,Jessica,Lange,,F,1949-04-20,,USA,173,5,2,Drama,false,"Tootsie",780000000
+63,Sissy,Spacek,Mary Elizabeth Spacek,F,1949-12-25,,USA,163,6,1,Drama,false,"Carrie",640000000
+64,Diane,Keaton,Diane Hall,F,1946-01-05,,USA,168,4,1,Comedy,false,"Annie Hall",1200000000
+65,Faye,Dunaway,,F,1941-01-14,,USA,170,3,1,Drama,false,"Chinatown",590000000
+66,Anne,Bancroft,Anna Maria Louisa Italiano,F,1931-09-17,2005-06-06,USA,168,5,1,Drama,false,"The Graduate",710000000
+67,Shelley,Winters,Shirley Schrift,F,1920-08-18,2006-01-14,USA,165,4,2,Drama,false,"A Place in the Sun",440000000
+68,Thelma,Ritter,,F,1902-02-14,1969-02-05,USA,158,6,0,Comedy,false,"All About Eve",320000000
+69,Spencer,Tracy,,M,1900-04-05,1967-06-10,USA,178,9,2,Drama,false,"Guess Who's Coming to Dinner",850000000
+70,Henry,Fonda,,M,1905-05-16,1982-08-12,USA,188,2,1,Drama,false,"On Golden Pond",760000000
+71,Gregory,Peck,Eldred Gregory Peck,M,1916-04-05,2003-06-12,USA,191,5,1,Drama,true,"To Kill a Mockingbird",920000000
+72,Charlton,Heston,John Charles Carter,M,1923-10-04,2008-04-05,USA,191,1,1,Action,true,"Ben-Hur",1100000000
+73,Kirk,Douglas,Issur Danielovitch,M,1916-12-09,2020-02-05,USA,178,3,0,Drama,true,"Spartacus",820000000
+74,Burt,Lancaster,,M,1913-11-02,1994-10-20,USA,183,4,1,Drama,false,"From Here to Eternity",710000000
+75,Gene,Kelly,Eugene Curran Kelly,M,1912-08-23,1996-02-02,USA,178,1,0,Musical,true,"Singin' in the Rain",740000000
+76,Fred,Astaire,Frederick Austerlitz,M,1899-05-10,1987-06-22,USA,175,0,0,Musical,false,"Top Hat",560000000
+77,Cary,Grant,Archibald Alexander Leach,M,1904-01-18,1986-11-29,UK,183,2,0,Comedy,true,"North by Northwest",980000000
+78,James,Cagney,,M,1899-07-17,1986-03-30,USA,170,3,1,Drama,false,"White Heat",510000000
+79,Edward,Robinson,Emanuel Goldenberg,M,1893-12-12,1973-01-26,Romania,168,0,0,Drama,false,"Little Caesar",390000000
+80,Paul,Newman,,M,1925-01-26,2008-09-26,USA,180,10,1,Drama,true,"The Hustler",1400000000
+81,Steve,McQueen,Terrence Steven McQueen,M,1930-03-24,1980-11-07,USA,178,1,0,Action,false,"Bullitt",680000000
+82,Clint,Eastwood,,M,1930-05-31,,USA,193,4,0,Action,true,"Dirty Harry",2800000000
+83,Dustin,Hoffman,,M,1937-08-08,,USA,168,7,2,Drama,false,"Kramer vs. Kramer",1700000000
+84,Gene,Hackman,,M,1930-01-30,,USA,183,5,2,Drama,false,"The French Connection",1300000000
+85,Warren,Beatty,Henry Warren Beaty,M,1937-03-30,,USA,183,4,0,Drama,false,"Bonnie and Clyde",1100000000
+86,Jack,Lemmon,John Uhler Lemmon III,M,1925-02-08,2001-06-27,USA,178,8,2,Comedy,false,"Some Like It Hot",1200000000
+87,Walter,Matthau,Walter John Matthow,M,1920-10-01,2000-07-01,USA,185,3,1,Comedy,false,"The Odd Couple",790000000
+88,Tony,Curtis,Bernard Schwartz,M,1925-06-03,2010-09-29,USA,180,1,0,Comedy,false,"Some Like It Hot",640000000
+89,Marilyn,Monroe,Norma Jeane Mortenson,F,1926-06-01,1962-08-05,USA,163,0,0,Comedy,false,"Some Like It Hot",1300000000
+90,Doris,Day,Doris Mary Ann Kappelhoff,F,1922-04-03,2019-05-13,USA,165,1,0,Comedy,false,"Pillow Talk",560000000
+91,Grace,Kelly,,F,1929-11-12,1982-09-14,USA,170,3,1,Drama,false,"Rear Window",610000000
+92,Vivien,Leigh,Vivian Mary Hartley,F,1913-11-05,1967-07-08,UK,163,5,2,Drama,false,"Gone with the Wind",1100000000
+93,Joan,Crawford,Lucille Fay LeSueur,F,1904-03-23,1977-05-10,USA,168,3,1,Drama,false,"Mildred Pierce",530000000
+94,Bette,Midler,,F,1945-12-01,,USA,153,2,0,Comedy,false,"The Rose",720000000
+95,Whoopi,Goldberg,Caryn Elaine Johnson,F,1955-11-13,,USA,163,2,1,Comedy,true,"Ghost",1800000000
+96,Sharon,Stone,,F,1958-03-10,,USA,175,1,0,Thriller,false,"Basic Instinct",880000000
+97,Barbra,Streisand,Barbara Joan Streisand,F,1942-04-24,,USA,163,5,2,Musical,false,"Funny Girl",1500000000
+98,Liza,Minnelli,,F,1946-03-23,,USA,163,1,1,Musical,false,"Cabaret",430000000
+99,Elizabeth,Taylor,,F,1932-02-27,2011-03-23,UK,157,5,2,Drama,true,"Cleopatra",1400000000
+100,Viveca,Lindfors,,F,1920-12-29,1995-10-25,Sweden,168,1,0,Drama,false,"Adventures of Don Juan",78000000
+101,Max,von Sydow,Carl Adolf von Sydow,M,1929-04-10,2020-03-08,Sweden,196,2,0,Drama,false,"The Seventh Seal",420000000
+102,Bibi,Andersson,,F,1935-11-11,2019-04-14,Sweden,165,0,0,Drama,false,"Persona",85000000
+103,Liv,Ullmann,,F,1938-12-16,,Norway,170,2,0,Drama,false,"Scenes from a Marriage",110000000
+104,Harriet,Andersson,,F,1932-02-14,,Sweden,163,0,0,Drama,false,"Summer with Monika",72000000
+105,Dirk,Bogarde,Derek Niven van den Bogaerde,M,1921-03-28,1999-05-08,UK,178,0,0,Drama,false,"The Servant",190000000
+106,Michael,Caine,Maurice Joseph Micklewhite,M,1933-03-14,,UK,183,6,2,Thriller,false,"Alfie",3400000000
+107,Sean,Connery,Thomas Sean Connery,M,1930-08-25,2020-10-31,UK,188,1,1,Action,false,"Dr. No",2900000000
+108,Roger,Moore,,M,1927-10-14,2017-05-23,UK,188,0,0,Action,false,"The Spy Who Loved Me",1800000000
+109,Albert,Finney,,M,1936-05-09,2019-02-07,UK,178,5,0,Drama,false,"Tom Jones",640000000
+110,Peter,O'Toole,Seamus Peter O'Toole,M,1932-08-02,2013-12-14,Ireland,188,8,0,Drama,true,"Lawrence of Arabia",780000000
+111,Richard,Burton,Richard Walter Jenkins Jr.,M,1925-11-10,1984-08-05,UK,175,7,0,Drama,false,"Who's Afraid of Virginia Woolf?",980000000
+112,Rex,Harrison,Reginald Carey Harrison,M,1908-03-05,1990-06-02,UK,183,5,1,Musical,false,"My Fair Lady",720000000
+113,Laurence,Olivier,,M,1907-05-22,1989-07-11,UK,180,10,1,Drama,true,"Hamlet",870000000
+114,John,Gielgud,Arthur John Gielgud,M,1904-04-14,2000-05-21,UK,183,1,1,Drama,false,"Arthur",710000000
+115,Alastair,Sim,,M,1900-10-09,1976-08-19,UK,175,0,0,Comedy,false,"Scrooge",210000000
+116,Kevin,Bacon,,M,1958-07-08,,USA,178,0,0,Drama,false,"A Few Good Men",1600000000
+117,Giancarlo,Giannini,,M,1942-08-01,,Italy,175,1,0,Drama,false,"Seven Beauties",95000000
+118,Roberto,Benigni,,M,1952-10-27,,Italy,163,3,1,Comedy,false,"Life Is Beautiful",230000000
+119,Monica,Bellucci,,F,1964-09-30,,Italy,170,0,0,Action,false,"Malena",320000000
+120,Giulietta,Masina,,F,1921-02-22,1994-03-23,Italy,160,0,0,Drama,false,"La Strada",140000000
+121,Anna,Magnani,,F,1908-03-07,1973-09-26,Italy,163,5,1,Drama,false,"The Rose Tattoo",210000000
+122,Gina,Lollobrigida,,F,1927-07-04,2023-01-16,Italy,163,0,0,Drama,false,"Bread, Love and Dreams",180000000
+123,Alberto,Sordi,,M,1920-06-15,2003-02-24,Italy,175,0,0,Comedy,false,"The White Sheik",120000000
+124,Victoria,Abril,,F,1959-07-04,,Spain,163,0,0,Drama,false,"Tie Me Up! Tie Me Down!",78000000
+125,Penélope,Cruz,Penélope Cruz Sánchez,F,1974-04-28,,Spain,168,4,1,Drama,false,"Vicky Cristina Barcelona",1800000000
+126,Javier,Bardem,,M,1969-03-01,,Spain,180,4,1,Drama,false,"No Country for Old Men",1600000000
+127,Antonio,Banderas,José Antonio Domínguez Bandera,M,1960-08-10,,Spain,175,0,0,Action,false,"The Mask of Zorro",1900000000
+128,Carmen,Maura,,F,1945-09-15,,Spain,165,0,0,Drama,false,"Women on the Verge of a Nervous Breakdown",85000000
+129,Ana,de Armas,Ana Celia de Armas Caso,F,1988-04-30,,Cuba,168,1,0,Thriller,false,"Knives Out",1200000000
+130,Gael,García Bernal,,M,1978-11-30,,Mexico,170,0,0,Drama,false,"Y Tu Mamá También",160000000
+131,Salma,Hayek,Salma Hayek Pinault,F,1966-09-02,,Mexico,157,1,0,Drama,false,"Frida",1100000000
+132,Amitabh,Bachchan,,M,1942-10-11,,India,188,0,0,Drama,false,"Deewar",2800000000
+133,Shah Rukh,Khan,,M,1965-11-02,,India,170,0,0,Romance,false,"Dilwale Dulhania Le Jayenge",3200000000
+134,Priyanka,Chopra,,F,1982-07-18,,India,170,0,0,Action,false,"Barfi!",890000000
+135,Aishwarya,Rai,,F,1973-11-01,,India,165,0,0,Romance,false,"Devdas",650000000
+136,Toshiro,Mifune,,M,1920-04-01,1997-12-24,Japan,178,0,0,Action,false,"Seven Samurai",380000000
+137,Koji,Yakusho,,M,1956-01-02,,Japan,175,0,0,Drama,false,"Shall We Dance?",160000000
+138,Ken,Watanabe,,M,1959-10-21,,Japan,183,1,0,Drama,false,"The Last Samurai",860000000
+139,Rinko,Kikuchi,,F,1981-01-06,,Japan,163,1,0,Drama,false,"Babel",540000000
+140,Alain,Delon,,M,1935-11-08,2024-08-18,France,180,0,0,Action,false,"Purple Noon",190000000
+141,Brigitte,Bardot,Camille Javal,F,1934-09-28,,France,163,0,0,Romance,false,"And God Created Woman",210000000
+142,Simone,Signoret,Simone Henriette Charlotte Kaminker,F,1921-03-25,1985-09-30,France,168,5,1,Drama,false,"Room at the Top",220000000
+143,Louis,de Funès,Louis Germain David de Funès de Galarza,M,1914-07-31,1983-01-27,France,163,0,0,Comedy,false,"The Mad Adventures of Rabbi Jacob",170000000
+144,Jean,Reno,Juan Moreno y Herrera-Jiménez,M,1948-07-30,,France,188,0,0,Action,false,"The Professional",740000000
+145,Marion,Cotillard,,F,1975-09-30,,France,165,3,1,Drama,false,"La Vie en Rose",1200000000
+146,Vincent,Cassel,,M,1966-11-23,,France,185,0,0,Thriller,false,"Black Swan",780000000
+147,Juliette,Binoche,,F,1964-03-09,,France,167,3,1,Drama,false,"The English Patient",820000000
+148,Audrey,Tautou,,F,1976-08-09,,France,163,0,0,Romance,false,"Amélie",590000000
+149,Omar,Sharif,Michel Demitri Shalhoub,M,1932-04-10,2015-07-10,Egypt,183,2,0,Drama,false,"Lawrence of Arabia",730000000
+150,Rami,Malek,,M,1981-05-12,,USA,175,2,1,Drama,false,"Bohemian Rhapsody",1700000000
+151,Mahershala,Ali,,M,1974-02-16,,USA,188,2,2,Drama,false,"Moonlight",1100000000
+152,Octavia,Spencer,,F,1972-05-25,,USA,157,3,1,Drama,false,"The Help",1200000000
+153,Michelle,Pfeiffer,,F,1958-04-29,,USA,168,3,0,Drama,false,"Scarface",1700000000
+154,Jennifer,Lawrence,,F,1990-08-15,,USA,175,4,1,Drama,false,"Silver Linings Playbook",4200000000
+155,Amy,Adams,,F,1974-08-20,,USA,163,6,0,Drama,false,"Arrival",2100000000
+156,Natalie,Portman,Neta-Lee Hershlag,F,1981-06-09,,USA,160,3,1,Drama,false,"Black Swan",2900000000
+157,Reese,Witherspoon,Laura Jeanne Reese Witherspoon,F,1976-03-22,,USA,158,2,1,Drama,false,"Legally Blonde",2200000000
+158,Hilary,Swank,,F,1974-07-30,,USA,168,2,2,Drama,false,"Boys Don't Cry",780000000
+159,Thandiwe,Newton,Thandie Newton,F,1972-11-06,,UK,170,0,0,Drama,false,"Mission: Impossible 2",1300000000
+160,Angela,Bassett,,F,1958-08-16,,USA,163,1,0,Drama,false,"What's Love Got to Do with It",1600000000
+161,Jamie,Foxx,Eric Marlon Bishop,M,1967-12-13,,USA,178,2,1,Drama,false,"Ray",2100000000
+162,Forest,Whitaker,,M,1961-07-15,,USA,188,2,1,Drama,false,"The Last King of Scotland",1400000000
+163,Philip,Hoffman,,M,1967-07-23,2014-02-02,USA,180,4,1,Drama,false,"Capote",980000000
+164,Chris,Hemsworth,,M,1983-08-11,,Australia,190,0,0,Action,false,"Avengers: Endgame",9200000000
+165,River,Phoenix,River Jude Bottom,M,1970-08-23,1993-10-31,USA,177,1,0,Drama,false,"Stand by Me",180000000
+166,James,Dean,James Byron Dean,M,1931-02-08,1955-09-30,USA,177,2,0,Drama,false,"Rebel Without a Cause",320000000
+167,Montgomery,Clift,Edward Montgomery Clift,M,1920-10-17,1966-07-23,USA,178,4,0,Drama,false,"A Place in the Sun",410000000
+168,Robert,Mitchum,,M,1917-08-06,1997-07-01,USA,185,0,0,Action,false,"The Night of the Hunter",720000000
+169,George,Scott,,M,1927-10-18,1999-09-22,USA,183,5,1,Drama,false,"Patton",630000000
+170,Rod,Steiger,,M,1925-04-14,2002-07-09,USA,178,3,1,Drama,false,"In the Heat of the Night",490000000
+171,Lee,Marvin,,M,1924-02-19,1987-08-29,USA,188,1,1,Action,false,"Cat Ballou",540000000
+172,Walter,Brennan,,M,1894-07-25,1974-09-21,USA,178,4,3,Drama,false,"To Have and Have Not",460000000
+173,Karl,Malden,Mladen George Sekulovich,M,1912-03-22,2009-07-01,USA,180,3,1,Drama,false,"A Streetcar Named Desire",580000000
+174,Nicolas,Cage,Nicolas Kim Coppola,M,1964-01-07,,USA,183,1,1,Drama,false,"Leaving Las Vegas",2600000000
+175,Telly,Savalas,Aristotle Savalas,M,1922-01-21,1994-01-22,USA,180,1,0,Action,false,"The Dirty Dozen",340000000
+176,Ernest,Borgnine,Ermes Effron Borgnino,M,1917-01-24,2012-07-08,USA,175,1,1,Drama,false,"Marty",420000000
+177,Lee J.,Cobb,Leo Jacoby,M,1911-12-08,1976-02-11,USA,183,2,0,Drama,false,"On the Waterfront",340000000
+178,Celeste,Holm,,F,1917-04-29,2012-07-15,USA,168,3,1,Comedy,false,"Gentleman's Agreement",290000000
+179,Katy,Jurado,María Cristina Estela Marcela Jurado García,F,1924-01-16,2002-07-05,Mexico,168,1,0,Drama,false,"High Noon",240000000
+180,Maria,Schell,,F,1926-01-15,2005-04-26,Austria,165,2,0,Drama,false,"Gervaise",170000000
+181,Shirley,MacLaine,Shirley MacLean Beaty,F,1934-04-24,,USA,168,6,1,Comedy,false,"Terms of Endearment",1100000000
+182,Debbie,Reynolds,Mary Frances Reynolds,F,1932-04-01,2016-12-28,USA,155,1,0,Musical,false,"Singin' in the Rain",640000000
+183,Kim,Novak,Marilyn Pauline Novak,F,1933-02-13,,USA,168,0,0,Drama,false,"Vertigo",520000000
+184,Janet,Leigh,Jeanette Helen Morrison,F,1927-07-06,2004-10-03,USA,165,1,0,Horror,false,"Psycho",780000000
+185,Donna,Reed,Donna Belle Mullenger,F,1921-01-27,1986-01-14,USA,165,1,1,Drama,false,"From Here to Eternity",390000000
+186,Ruth,Gordon,Ruth Gordon Jones,F,1896-10-30,1985-08-28,USA,152,5,1,Horror,false,"Rosemary's Baby",430000000
+187,Eva Marie,Saint,,F,1924-07-04,,USA,168,2,1,Drama,false,"On the Waterfront",440000000
+188,Geraldine,Page,,F,1924-11-22,1987-06-13,USA,168,8,1,Drama,false,"The Trip to Bountiful",480000000
+189,Tatum,O'Neal,,F,1963-11-05,,USA,165,1,1,Drama,false,"Paper Moon",340000000
+190,Melissa,Leo,,F,1960-09-14,,USA,165,2,1,Drama,false,"The Fighter",690000000
+191,Mira,Sorvino,,F,1967-09-28,,USA,173,1,1,Comedy,false,"Mighty Aphrodite",420000000
+192,Marcia Gay,Harden,,F,1959-08-14,,USA,170,2,1,Drama,false,"Pollock",580000000
+193,Rachel,Weisz,,F,1970-03-07,,UK,165,2,1,Drama,false,"The Constant Gardener",1300000000
+194,Alicia,Vikander,,F,1988-10-03,,Sweden,165,1,1,Drama,false,"The Danish Girl",980000000
+195,Brie,Larson,Brianne Sidonie Desaulniers,F,1989-10-01,,USA,168,2,1,Drama,false,"Room",2400000000
+196,Emma,Stone,Emily Jean Stone,F,1988-11-06,,USA,168,3,1,Comedy,false,"La La Land",2800000000
+197,Saoirse,Ronan,,F,1994-04-12,,Ireland,168,4,0,Drama,false,"Lady Bird",870000000
+198,Florence,Pugh,,F,1996-01-03,,UK,163,1,0,Drama,false,"Little Women",1100000000
+199,Timothée,Chalamet,,M,2000-12-27,,USA,178,1,0,Drama,false,"Call Me by Your Name",890000000
+200,Brad,Pitt,William Bradley Pitt,M,1963-12-18,,USA,180,3,1,Drama,false,"Fight Club",4100000000
