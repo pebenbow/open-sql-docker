@@ -1,4 +1,4 @@
-FROM postgres:17
+FROM postgres:17-alpine
 
 ENV POSTGRES_PASSWORD=postgres
 
