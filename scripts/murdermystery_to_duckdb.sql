@@ -16,7 +16,7 @@ CREATE TABLE drivers_license (
 CREATE TABLE person (
     id                  INTEGER PRIMARY KEY,
     name                VARCHAR,
-    license_id          INTEGER,
+    license_id          INTEGER REFERENCES drivers_license(id),
     address_number      INTEGER,
     address_street_name VARCHAR,
     ssn                 INTEGER UNIQUE
@@ -31,13 +31,13 @@ CREATE TABLE crime_scene_report (
 );
 
 CREATE TABLE interview (
-    person_id  INTEGER PRIMARY KEY,
+    person_id  INTEGER PRIMARY KEY REFERENCES person(id),
     transcript VARCHAR
 );
 
 CREATE TABLE get_fit_now_member (
     id                    VARCHAR PRIMARY KEY,
-    person_id             INTEGER,
+    person_id             INTEGER REFERENCES person(id),
     name                  VARCHAR,
     membership_start_date DATE,
     membership_status     VARCHAR
@@ -45,20 +45,20 @@ CREATE TABLE get_fit_now_member (
 
 CREATE TABLE get_fit_now_check_in (
     id             INTEGER PRIMARY KEY,
-    membership_id  VARCHAR,
+    membership_id  VARCHAR REFERENCES get_fit_now_member(id),
     check_in_date  DATE,
     check_in_time  TIME,
     check_out_time TIME
 );
 
 CREATE TABLE income (
-    ssn           INTEGER PRIMARY KEY,
+    ssn           INTEGER PRIMARY KEY REFERENCES person(ssn),
     annual_income INTEGER
 );
 
 CREATE TABLE facebook_event_checkin (
     id         INTEGER PRIMARY KEY,
-    person_id  INTEGER,
+    person_id  INTEGER REFERENCES person(id),
     event_id   INTEGER,
     event_name VARCHAR,
     date       DATE

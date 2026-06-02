@@ -1,5 +1,15 @@
 -- Run from the repo root:
 --   duckdb duckdb/nycflights.duckdb -f scripts/nycflights_to_duckdb.sql
+--
+-- Note: flights.tailnum FK to planes is intentionally omitted. The nycflights13
+-- dataset includes synthetic placeholder tailnums (e.g. N3XXAA) for flights
+-- whose real registrations were unavailable; these are NULLed out below.
+-- DuckDB v1.5 does not support ALTER TABLE ADD FOREIGN KEY, so the FK cannot
+-- be added after the tailnum cleanup. The data is clean; the constraint is not.
+--
+-- Note: time_hour stored as VARCHAR — the source format includes a timezone
+-- offset (2013-01-01 06:00:00.000000 +00:00) that DuckDB COPY cannot parse
+-- as TIMESTAMP. Use STRPTIME(time_hour, '%Y-%m-%d %H:%M:%S.%f %z') to convert.
 
 CREATE TABLE airlines (
     carrier VARCHAR PRIMARY KEY,
@@ -30,7 +40,7 @@ CREATE TABLE planes (
 );
 
 CREATE TABLE weather (
-    origin     VARCHAR,
+    origin     VARCHAR REFERENCES airports(faa),
     year       INTEGER,
     month      INTEGER,
     day        INTEGER,
@@ -58,11 +68,11 @@ CREATE TABLE flights (
     arr_time       INTEGER,
     sched_arr_time INTEGER,
     arr_delay      INTEGER,
-    carrier        VARCHAR,
+    carrier        VARCHAR REFERENCES airlines(carrier),
     flight         INTEGER,
     tailnum        VARCHAR,
-    origin         VARCHAR,
-    dest           VARCHAR,
+    origin         VARCHAR REFERENCES airports(faa),
+    dest           VARCHAR REFERENCES airports(faa),
     air_time       INTEGER,
     distance       INTEGER,
     hour           INTEGER,
@@ -76,3 +86,7 @@ COPY airports FROM 'databases/nycflights/airports.csv' (DELIMITER ',', HEADER fa
 COPY planes   FROM 'databases/nycflights/planes.csv'   (DELIMITER ',', HEADER false);
 COPY weather  FROM 'databases/nycflights/weather.csv'  (DELIMITER ',', HEADER false);
 COPY flights  FROM 'databases/nycflights/flights.csv'  (DELIMITER ',', HEADER false);
+
+-- NULL out synthetic placeholder tailnums that have no matching planes record
+UPDATE flights SET tailnum = NULL
+WHERE tailnum IS NOT NULL AND tailnum NOT IN (SELECT tailnum FROM planes);

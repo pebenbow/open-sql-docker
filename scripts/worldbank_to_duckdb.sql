@@ -61,3 +61,4 @@ COPY lending_types FROM 'databases/worldbank/lending_types.txt' (DELIMITER '|', 
 COPY countries     FROM 'databases/worldbank/countries.txt'     (DELIMITER '|', HEADER false);
 COPY series        FROM 'databases/worldbank/series.txt'        (DELIMITER '|', HEADER false);
 COPY indicators    FROM 'databases/worldbank/indicators.txt'    (DELIMITER '|', HEADER false);
+

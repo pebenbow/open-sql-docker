@@ -3,6 +3,8 @@
 --
 -- Note: photo/picture BYTEA columns are stored as empty strings in the source
 -- files and are loaded as VARCHAR here.
+-- Note: employees.reports_to self-referential FK is omitted — DuckDB cannot
+-- enforce it during COPY since the referenced row may not yet exist.
 
 CREATE TABLE region (
     region_id          INTEGER PRIMARY KEY,
@@ -87,14 +89,14 @@ CREATE TABLE employees (
 CREATE TABLE territories (
     territory_id          VARCHAR PRIMARY KEY,
     territory_description VARCHAR,
-    region_id             INTEGER
+    region_id             INTEGER REFERENCES region(region_id)
 );
 
 CREATE TABLE products (
     product_id        INTEGER PRIMARY KEY,
     product_name      VARCHAR,
-    supplier_id       INTEGER,
-    category_id       INTEGER,
+    supplier_id       INTEGER REFERENCES suppliers(supplier_id),
+    category_id       INTEGER REFERENCES categories(category_id),
     quantity_per_unit VARCHAR,
     unit_price        DECIMAL(10,2),
     units_in_stock    INTEGER,
@@ -104,25 +106,25 @@ CREATE TABLE products (
 );
 
 CREATE TABLE customer_customer_demo (
-    customer_id      VARCHAR,
-    customer_type_id VARCHAR,
+    customer_id      VARCHAR REFERENCES customers(customer_id),
+    customer_type_id VARCHAR REFERENCES customer_demographics(customer_type_id),
     PRIMARY KEY (customer_id, customer_type_id)
 );
 
 CREATE TABLE employee_territories (
-    employee_id  INTEGER,
-    territory_id VARCHAR,
+    employee_id  INTEGER REFERENCES employees(employee_id),
+    territory_id VARCHAR  REFERENCES territories(territory_id),
     PRIMARY KEY (employee_id, territory_id)
 );
 
 CREATE TABLE orders (
     order_id          INTEGER PRIMARY KEY,
-    customer_id       VARCHAR,
-    employee_id       INTEGER,
+    customer_id       VARCHAR  REFERENCES customers(customer_id),
+    employee_id       INTEGER  REFERENCES employees(employee_id),
     order_date        DATE,
     required_date     DATE,
     shipped_date      DATE,
-    ship_via          INTEGER,
+    ship_via          INTEGER  REFERENCES shippers(shipper_id),
     freight           DECIMAL(10,2),
     ship_name         VARCHAR,
     ship_address      VARCHAR,
@@ -133,8 +135,8 @@ CREATE TABLE orders (
 );
 
 CREATE TABLE order_details (
-    order_id   INTEGER,
-    product_id INTEGER,
+    order_id   INTEGER REFERENCES orders(order_id),
+    product_id INTEGER REFERENCES products(product_id),
     unit_price DECIMAL(9,2),
     quantity   INTEGER,
     discount   DECIMAL(5,2),
