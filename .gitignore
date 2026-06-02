@@ -1,4 +1,4 @@
 README_files/*
 README.html
 **/.DS_Store
-*.duckdb
+duckdb/*.duckdb

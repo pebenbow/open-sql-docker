@@ -1,5 +1,5 @@
 -- Run from the repo root:
---   duckdb worldbank.duckdb -f scripts/worldbank_to_duckdb.sql
+--   duckdb duckdb/worldbank.duckdb -f scripts/worldbank_to_duckdb.sql
 
 CREATE TABLE regions (
     region_id   SMALLINT PRIMARY KEY,
