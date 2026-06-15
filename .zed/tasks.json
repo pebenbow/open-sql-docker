@@ -1,0 +1,18 @@
+[
+  {
+    "label": "Pull latest image from Docker Hub",
+    "command": "docker pull pebenbow/open-sql-docker:latest"
+  },
+  {
+    "label": "Start postgres container",
+    "command": "docker run -d --name my-postgres -p 5432:5432 -v postgres-data:/var/lib/postgresql/data pebenbow/open-sql-docker:latest"
+  },
+  {
+    "label": "Stop postgres container",
+    "command": "docker stop my-postgres"
+  },
+  {
+    "label": "Remove container and volume (fresh restart)",
+    "command": "docker stop my-postgres; docker rm my-postgres; docker volume rm postgres-data"
+  }
+]

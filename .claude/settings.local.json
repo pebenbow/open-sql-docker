@@ -6,7 +6,14 @@
       "Bash(docker rm:*)",
       "Bash(docker volume:*)",
       "Bash(docker run:*)",
-      "Bash(docker pull:*)"
+      "Bash(docker pull:*)",
+      "Bash(Remove-Item \"C:\\\\Users\\\\pebenbow\\\\Documents\\\\repos\\\\sql-textbook\\\\open-sql-docker\\\\actors.csv\")",
+      "PowerShell(Remove-Item \"C:\\\\Users\\\\pebenbow\\\\Documents\\\\repos\\\\sql-textbook\\\\open-sql-docker\\\\actors.csv\" -Confirm:$false)",
+      "PowerShell(docker stop my-postgres 2>$null)",
+      "PowerShell(docker rm my-postgres 2>$null)",
+      "PowerShell(duckdb --version 2>&1)",
+      "PowerShell(python --version 2>&1)",
+      "PowerShell(python -c \"import duckdb; print\\(duckdb.__version__\\)\" 2>&1)"
     ]
   }
 }
