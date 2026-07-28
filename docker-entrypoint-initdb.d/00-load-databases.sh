@@ -29,7 +29,7 @@ load_dir_into_db () {
 
   # Enable nullglob for this function
   shopt -s nullglob
-  
+
   # Check for backup files
   backup_files=("${dir}"/backup.*)
   sql_files=("${dir}"/*.sql)
