@@ -236,8 +236,8 @@
 236|50176|7305|-- Bill Hoest|2017-05-25
 237|90251|5727|Worst Vegetable of the Year: The brussels sprout. This is also the|2018-04-25
 238|90251|3992|Why isn't there a special name for the tops of your feet?|2017-02-02
-239|48656|4149|"The climate of Bombay is such that its inhabitants have to live	2017-08-21
-48656	3244	Acid -- better"|2017-04-05
+239|48656|4149|The climate of Bombay is such that its inhabitants have to live|2017-08-21
+19460|48656|3244|Acid -- better|2017-04-05
 240|49234|2033|Life is like an onion: you peel off layer after layer, then you find|2017-10-02
 241|50931|4331|Keep emotionally active. Cater to your favorite neurosis.|2017-07-18
 242|50931|9159|"""He was so narrow minded he could see through a keyhole with both"|2017-08-03
@@ -307,8 +307,8 @@
 306|30771|6986|Matrimony isn't a word, it's a sentence.|2017-02-01
 307|30771|8468|Why did the Roman Empire collapse? What is the Latin for office|2017-03-24
 308|30771|4723|bogglingly big it is. I mean, you may think it's a long way down the|2017-08-27
-309|30887|9273|"All my friends and I are crazy. That's the only thing that keeps us	2017-03-25
-30887	6148	A: Three. "|2017-12-28
+309|30887|9273|All my friends and I are crazy. That's the only thing that keeps us|2017-03-25
+19461|30887|6148|A: Three. |2017-12-28
 310|98797|712||2018-01-20
 311|64827|276|in eucalyptus trees.|2017-06-06
 312|64827|1365|POP UP, PUSH DOWN, BYTE, BYTE, BYTE!|2018-04-09
@@ -797,8 +797,8 @@
 794|23087|4723|-- Alan Perlis|2017-01-18
 795|66003|2404|upon to act in accordance with the dictates of reason.|2018-02-06
 796|71883|2506|example.|2017-12-05
-797|69407|6439|"Here at the Phone Company, we serve all kinds of people; from	2017-03-16
-50346	6515	-- The Brigader,"|2017-01-15
+797|69407|6439|Here at the Phone Company, we serve all kinds of people; from|2017-03-16
+19462|50346|6515|-- The Brigader,|2017-01-15
 798|43382|658|Worst Month of 1981 for Downhill Skiing: January. The lines are the|2017-09-16
 799|33303|8476|-- Peter S. Beagle|2017-12-22
 800|33303|4235|A candidate is a person who gets money from the rich and votes from the|2017-09-27
@@ -1081,8 +1081,8 @@
 1078|43223|9362|to reform.|2017-01-25
 1079|57354|1925|flag.|2017-03-11
 1080|57354|4583|It's not that I'm afraid to die. I just don't want to be there when it|2017-03-02
-1081|57354|5240|"There are three possibilities: Pioneer's solar panel has turned away	2017-01-01
-87874	4507	Computer "|2018-02-05
+1081|57354|5240|There are three possibilities: Pioneer's solar panel has turned away|2017-01-01
+19463|87874|4507|Computer |2018-02-05
 1082|85721|341|...And malt does more than Milton can|2017-03-25
 1083|80248|9250|-- Peggy Joyce|2017-01-26
 1084|80248|1552|Military intelligence is a contradiction in terms.|2017-07-18
@@ -1110,8 +1110,8 @@
 1106|67262|8605|mail. Corresponding errors will show up in the duplicate while the|2018-01-30
 1107|23383|1675|after the age of 12.|2018-03-11
 1108|83474|9520|You can measure a programmer's perspective by noting his attitude on|2017-10-27
-1109|83474|9780|"I know not with what weapons World War III will be fought, but	2017-05-31
-83474	709	USER n.: A progr"|2018-02-22
+1109|83474|9780|I know not with what weapons World War III will be fought, but|2017-05-31
+19464|83474|709|USER n.: A progr|2018-02-22
 1110|41715|9880|-- Herbert Prochnow|2018-01-18
 1111|85555|8504|-- Mark Twain|2018-05-01
 1112|17282|3841|Condense soup, not books!|2017-07-16
@@ -1477,8 +1477,8 @@
 1472|18583|5415|three friends. If they're ok, you're it.|2017-05-03
 1473|92514|9564|-- Oscar Wilde|2017-05-11
 1474|80737|7181|-- Paul McCracken|2017-07-01
-1475|92185|1649|"Who cares if it doesn't do anything? It was made with our new	2017-08-27
-24333	7315	Conscience is th"|2017-05-06
+1475|92185|1649|Who cares if it doesn't do anything? It was made with our new|2017-08-27
+19465|24333|7315|Conscience is th|2017-05-06
 1476|86040|2403|"2) ""You and what army?"""|2017-05-08
 1477|25763|1155|Antonym: The opposite of the word you're trying to think of.|2017-02-19
 1478|88079|3629|The National Short-Sleeved Shirt Association says:|2017-01-26
@@ -1542,8 +1542,8 @@
 1536|51266|9630|Insanity is hereditary. You get it from your kids.|2018-03-31
 1537|93824|8666|have nothing whatever to do with it.|2018-03-15
 1538|93824|9222|system, in which all of its major weaknesses have been exposed,|2017-06-12
-1539|93824|8576|"It's Fabulous! We haven't seen anything like it in the last half an	2017-10-06
-31363	8559	You cannot"|2018-03-03
+1539|93824|8576|It's Fabulous! We haven't seen anything like it in the last half an|2017-10-06
+19466|31363|8559|You cannot|2018-03-03
 1540|40920|994|You've been leading a dog's life. Stay off the furniture.|2017-06-30
 1541|40920|5867|Keep America beautiful. Swallow your beer cans.|2018-04-29
 1542|80951|9406|Flappity, floppity, flip|2018-04-01
@@ -1644,8 +1644,8 @@
 1637|19182|5030|America may be unique in being a country which has leapt from barbarism|2017-09-01
 1638|19182|9776|stupidity.|2017-04-27
 1639|93318|4867|-- Eleanor Roosevelt|2017-02-23
-1640|70340|3297|"All my friends and I are crazy. That's the only thing that keeps us	2017-05-14
-20227	2513	It seems l"|2017-08-02
+1640|70340|3297|All my friends and I are crazy. That's the only thing that keeps us|2017-05-14
+19467|20227|2513|It seems l|2017-08-02
 1641|66437|6642|A LISP programmer knows the value of everything, but the cost of|2017-08-12
 1642|66437|70|A truly wise man never plays leapfrog with a unicorn.|2017-08-20
 1643|66437|1093|God is not dead! He's alive and autographing bibles at Cody's|2017-12-26
@@ -1684,8 +1684,8 @@
 1676|89561|3463|Do not take life too seriously; you will never get out if it alive.|2017-09-18
 1677|89561|9145|Faith is the quality that enables you to eat blackberry jam on a picnic|2017-07-12
 1678|96094|176|"3) ""If you were as smart as you think you are, you wouldn't be"|2017-11-18
-1679|96094|3595|"If you go on with this nuclear arms race, all you are going to do is	2017-08-23
-27366	2502	Alexander"|2017-04-10
+1679|96094|3595|If you go on with this nuclear arms race, all you are going to do is|2017-08-23
+19468|27366|2502|Alexander|2017-04-10
 1680|13945|4448|Tomorrow will be canceled due to lack of interest.|2017-01-17
 1681|65611|2270|Rivers are damp;|2017-03-30
 1682|78937|7245|will find the programmers cannot write in English.|2017-06-05
@@ -2431,8 +2431,8 @@
 2420|40745|764|"that I can."""|2017-01-16
 2421|23347|777|The average woman would rather have beauty than brains, because the|2017-08-02
 2422|24772|1852|Never try to outstubborn a cat.|2017-08-26
-2423|24772|9162|"I know not with what weapons World War III will be fought, but	2017-05-26
-97746	5385	In a five year "|2017-01-10
+2423|24772|9162|I know not with what weapons World War III will be fought, but|2017-05-26
+19469|97746|5385|In a five year |2017-01-10
 2424|76616|8431||2017-03-01
 2425|25387|9529|Computers are infalllible.|2017-08-01
 2426|42531|3797|Cigarette: A fire at one end, a fool at the other, and a bit of|2017-03-12
@@ -2727,8 +2727,8 @@
 2715|19525|1087|-- Alan Perlis|2017-06-28
 2716|19525|1519|Conway's Law:|2017-06-09
 2717|80421|1200|Every program has (at least) two purposes: the one for which it was|2018-04-04
-2718|31219|9630|"Just once, I wish we would encounter an alien menace that wasn't	2018-04-03
-31219	4884	Mickey Mouse "|2017-12-28
+2718|31219|9630|Just once, I wish we would encounter an alien menace that wasn't|2018-04-03
+19470|31219|4884|Mickey Mouse |2017-12-28
 2719|45578|8132|other.|2017-02-26
 2720|54419|9712|Never put off till tomorrow what you can avoid all together.|2018-04-29
 2721|54419|2099|never have to stop and answer the phone.|2017-04-07
@@ -2738,15 +2738,15 @@
 2725|85032|3016|Fifth Law of Applied Terror:|2017-06-25
 2726|56384|9347|If you have a procedure with 10 parameters, you probably missed some.|2017-08-20
 2727|40832|8541|Don't knock President Fillmore. He kept us out of Vietnam.|2017-01-10
-2728|40832|994|"If you go on with this nuclear arms race, all you are going to do is	2017-03-02
-28500	4818	-- Gigo	2"|2018-03-16
+2728|40832|994|If you go on with this nuclear arms race, all you are going to do is|2017-03-02
+19471|28500|4818|-- Gigo 2|2018-03-16
 2729|15376|2863|Oh, dear, where can the matter be|2017-08-10
 2730|75736|7684|One can't proceed from the informal to the formal by formal means.|2017-06-25
 2731|75736|8633|"2nd customer: ""Me, too -- and be sure the glass is clean!"""|2018-02-27
 2732|75736|2831|Oh, dear, where can the matter be|2017-01-24
 2733|54339|4149|"""Calvin Coolidge was the greatest man who ever came out of Plymouth"|2018-01-25
-2734|92075|2311|"Here at the Phone Company, we serve all kinds of people; from	2018-04-07
-61445	1567	Don't feed the b"|2017-08-19
+2734|92075|2311|Here at the Phone Company, we serve all kinds of people; from|2018-04-07
+19472|61445|1567|Don't feed the b|2017-08-19
 2735|49236|3826|Whether you can hear it or not|2017-05-08
 2736|85615|4581|Coronation: The ceremony of investing a sovereign with the outward and|2017-10-16
 2737|85615|5468|"The mouse on the m""obius strip;"|2017-06-24
@@ -3049,8 +3049,8 @@
 3032|21331|551|-- Mickey Mouse|2018-03-17
 3033|62427|5043|it.|2017-10-28
 3034|43387|4591|I wish that they would sell it.|2018-03-01
-3035|43387|6642|"Here at the Phone Company, we serve all kinds of people; from	2017-12-21
-43387	2559	Reality is an ob"|2017-03-10
+3035|43387|6642|Here at the Phone Company, we serve all kinds of people; from|2017-12-21
+19473|43387|2559|Reality is an ob|2017-03-10
 3036|97630|9103|God isn't dead, he just couldn't find a parking place.|2017-09-18
 3037|47435|5867|Californians trying to share the experience.|2017-12-12
 3038|47435|66|UFO's are for real: the Air Force doesn't exist.|2018-03-26
@@ -3172,8 +3172,8 @@
 3155|66162|7862|annoying than the piano when played by a sister or near relation.|2017-01-24
 3156|66162|517|-- Woody Allen.|2017-02-09
 3157|56949|7275|...And malt does more than Milton can|2017-03-03
-3158|56949|737|"Just once, I wish we would encounter an alien menace that wasn't	2017-10-11
-30777	2206	Next Friday w"|2017-08-07
+3158|56949|737|Just once, I wish we would encounter an alien menace that wasn't|2017-10-11
+19474|30777|2206|Next Friday w|2017-08-07
 3159|56430|3797|"""Here at the Phone Company, we serve all kinds of people; from"|2017-02-23
 3160|14939|2594|And everywhere this language went,|2017-10-13
 3161|15657|4429|God isn't dead, he just couldn't find a parking place.|2017-08-17
@@ -3318,8 +3318,8 @@
 3299|68388|8620|headed.|2018-01-11
 3302|29226|3|God did not create the world in 7 days; he screwed around for 6 days|2017-11-24
 3303|29226|706|It's because I try to put every possible syllable into that last line|2017-04-15
-3304|41102|4961|"Who cares if it doesn't do anything? It was made with our new	2017-01-26
-41102	2167	The earth is lik"|2017-09-15
+3304|41102|4961|Who cares if it doesn't do anything? It was made with our new|2017-01-26
+19475|41102|2167|The earth is lik|2017-09-15
 3305|62687|1107|Love at first sight is one of the greatest labor-saving devices the|2017-01-08
 3306|62687|3647|Paranoids are people, too; they have their own problems. It's easy to|2018-03-17
 3307|91006|5149|-- Oscar Wilde|2017-12-01
@@ -3577,8 +3577,8 @@
 3558|94452|9934|It used to point to me,|2018-04-23
 3559|41841|7130|be hard to understand.|2017-12-13
 3560|41841|2183|Christ: A man who was born at least 5,000 years ahead of his time.|2017-10-20
-3561|41841|7466|"The way to make a small fortune in the commodities market is to start	2017-06-03
-59253	4702	Lunatic "|2017-05-28
+3561|41841|7466|The way to make a small fortune in the commodities market is to start|2017-06-03
+19476|59253|4702|Lunatic |2017-05-28
 3562|86656|6869||2017-01-31
 3563|86656|6447|"create goyim?"" The generally accepted answer is ""_s_o_m_e_b_o_d_y has to buy"|2017-04-04
 3564|86656|7093|Chicken Soup: An ancient miracle drug containing equal parts of|2017-07-24
@@ -4406,8 +4406,8 @@
 4389|71305|6999|Cigarette: A fire at one end, a fool at the other, and a bit of|2017-12-27
 4390|71305|1107|And this was very odd, because it was|2017-09-17
 4391|53906|3581|Advertisement: The most truthful part of a newspaper|2017-01-12
-4392|53906|3491|"All my friends and I are crazy. That's the only thing that keeps us	2017-04-07
-53906	9335	-- Mark Tw"|2017-12-28
+4392|53906|3491|All my friends and I are crazy. That's the only thing that keeps us|2017-04-07
+19477|53906|9335|-- Mark Tw|2017-12-28
 4393|61941|364|Among economists, the real world is often a special case.|2017-10-09
 4394|61941|2227|I just need enough to tide me over until I need more.|2018-03-03
 4395|59307|7424|the bare metal. Application programming is for feebs who can't do systems|2017-12-23
@@ -4561,8 +4561,8 @@
 4542|45860|8666|-- Kehlog Albran|2018-04-08
 4543|68584|7478|Only adults have difficulty with childproof caps.|2018-04-19
 4544|68584|8455|what it is I'll get married again.|2018-04-15
-4545|68584|587|"It's Fabulous! We haven't seen anything like it in the last half an	2017-04-28
-89217	3471	that I can"|2017-08-05
+4545|68584|587|It's Fabulous! We haven't seen anything like it in the last half an|2017-04-28
+19478|89217|3471|that I can|2017-08-05
 4546|51841|8932|Dealing with failure is easy: Work hard to improve. Success is also|2017-03-15
 4547|51841|8061|Bradley's Bromide:|2017-05-18
 4548|51841|2207|Life is a yo-yo, and mankind ties knots in the string.|2017-02-10
@@ -4932,8 +4932,8 @@
 4912|47815|8902|The apple fermented|2017-09-19
 4913|75648|8566|Absent: Exposed to the attacks of friends and acquaintances; defamed;|2018-01-18
 4914|41177|1054|Egotism is the anesthetic given by a kindly nature to relieve the pain|2017-10-02
-4915|41177|6447|"Calvin Coolidge was the greatest man who ever came out of Plymouth	2017-07-05
-24776	2924	ends.	2017-"|2017-03-24
+4915|41177|6447|Calvin Coolidge was the greatest man who ever came out of Plymouth|2017-07-05
+19479|24776|2924|ends. 2017-|2017-03-24
 4916|98261|7862|In a five year period we can get one superb programming language. Only|2017-07-12
 4917|80837|6740||2018-03-26
 4918|36256|2731|A city is a large community where people are lonesome together|2017-07-26
@@ -5066,8 +5066,8 @@
 5046|17301|8932|A limerick packs laughs anatomical|2017-12-21
 5047|33920|5753|was to go away.|2018-04-02
 5048|77052|9388|-- Mark Twain|2017-12-27
-5049|17509|1329|"All my friends and I are crazy. That's the only thing that keeps us	2017-03-25
-17509	674	-- Albert E"|2017-10-30
+5049|17509|1329|All my friends and I are crazy. That's the only thing that keeps us|2017-03-25
+19480|17509|674|-- Albert E|2017-10-30
 5050|59389|1581|Screw up your courage! You've screwed up everything else.|2017-09-12
 5051|59389|8538|I just need enough to tide me over until I need more.|2017-12-17
 5052|89749|6185|Admiration: Our polite recognition of another's resemblance to|2017-12-12
@@ -5123,8 +5123,8 @@
 5102|53025|2513|Hanlon's Razor:|2017-10-26
 5103|86771|6503|-- W. Somerset Maughm|2017-05-10
 5104|86771|1365|You're being followed. Cut out the hanky-panky for a few days.|2018-04-23
-5105|86771|8997|"If you go on with this nuclear arms race, all you are going to do is	2017-09-03
-27345	346	It seems l"|2017-01-28
+5105|86771|8997|If you go on with this nuclear arms race, all you are going to do is|2017-09-03
+19481|27345|346|It seems l|2017-01-28
 5106|83509|345|Lie: A very poor substitute for the truth, but the only one discovered|2017-02-17
 5107|81225|624|Arguments with furniture are rarely productive.|2017-07-12
 5108|81225|9677|Hanlon's Razor:|2017-05-16
@@ -5200,8 +5200,8 @@
 5178|96471|4273|No one can make you feel inferior without your consent.|2018-04-18
 5179|96471|2210|When told this was so,|2017-07-26
 5180|96996|7386|"World War IV will be fought with sticks and stones."""|2017-10-25
-5181|96996|6393|"If you go on with this nuclear arms race, all you are going to do is	2018-03-10
-96996	8612	flag.	201"|2018-03-07
+5181|96996|6393|If you go on with this nuclear arms race, all you are going to do is|2018-03-10
+19482|96996|8612|flag. 201|2018-03-07
 5182|25710|7297|-- Bill Hoest|2017-07-28
 5183|57651|1202|SPELL quiche. They eat Twinkies, and Szechwan food.|2017-08-24
 5184|57651|8132|Happiness: An agreeable sensation arising from contemplating the misery|2018-03-10
@@ -5354,8 +5354,8 @@
 5331|31037|5772|"Brain, v.: [as in ""to brain""] To rebuke bluntly, but not pointedly; to"|2018-03-05
 5332|40551|7660|Every hack had seven bugs;|2017-11-24
 5333|40551|8059|-- Groucho Marx|2018-03-03
-5334|40551|6642|"All my friends and I are crazy. That's the only thing that keeps us	2018-04-13
-41970	3896	-- Ambrose"|2018-04-13
+5334|40551|6642|All my friends and I are crazy. That's the only thing that keeps us|2018-04-13
+19483|41970|3896|-- Ambrose|2018-04-13
 5335|29085|8826|Surprise your boss. Get to work on time.|2017-09-15
 5336|29085|4329|Naeser's Law:|2017-11-30
 5337|29085|2559|So seldom are clean,|2017-01-27
@@ -5423,8 +5423,8 @@
 5399|63508|3670|Menu: A list of dishes which the restaurant has just run out of|2018-03-22
 5400|63508|6437|-- Ambrose Bierce|2017-08-29
 5401|86294|1563|-- Hilaire Belloc|2017-12-24
-5402|86294|9289|"Just once, I wish we would encounter an alien menace that wasn't	2017-05-10
-15809	2230	If you make p"|2018-01-20
+5402|86294|9289|Just once, I wish we would encounter an alien menace that wasn't|2017-05-10
+19484|15809|2230|If you make p|2018-01-20
 5403|13756|6437|-- Ambrose Bierce|2017-11-18
 5404|13756|3441|You've been leading a dog's life. Stay off the furniture.|2017-08-01
 5405|40804|2153|Idiot: A member of a large and powerful tribe whose influence in human|2017-03-26
@@ -6143,8 +6143,8 @@
 6118|95512|183|Celebrate Hannibal Day this year. Take an elephant to lunch.|2017-04-30
 6119|42690|5927|-- Kehlog Albran|2017-06-28
 6120|42690|7236|What nobody is sure about.|2018-04-29
-6121|42690|4283|"There are three possibilities: Pioneer's solar panel has turned away	2017-12-11
-32696	4448	out of Ca"|2017-06-14
+6121|42690|4283|There are three possibilities: Pioneer's solar panel has turned away|2017-12-11
+19485|32696|4448|out of Ca|2017-06-14
 6122|71822|3997|-- G. B. Shaw|2017-09-15
 6123|71822|3799|Who do you trust?|2017-10-04
 6124|71822|8559|-- Lily Tomlin|2017-08-11
@@ -6190,8 +6190,8 @@
 6164|10263|8207|"""All my friends and I are crazy. That's the only thing that keeps us"|2018-02-14
 6165|10263|8559|there is nothing in it.|2017-08-31
 6166|10263|8316|Is it possible that software is not like anything else, that it is|2018-01-17
-6167|71848|7737|"The way to make a small fortune in the commodities market is to start	2018-03-17
-27594	7035	get used"|2017-05-21
+6167|71848|7737|The way to make a small fortune in the commodities market is to start|2018-03-17
+19486|27594|7035|get used|2017-05-21
 6168|12190|129|Science is what happens when preconception meets verification.|2018-03-28
 6169|12190|6669|live.|2018-01-25
 6170|92212|1386|-- Albert Einstein|2017-01-13
@@ -6331,8 +6331,8 @@
 6304|67459|5512|The strip revolved,|2017-01-11
 6305|56067|709|The First Law: You can't get anything without working for it.|2018-03-27
 6306|56067|8383|A.A.A.A.A.: An organization for drunks who drive|2018-04-28
-6307|56067|9583|"Who cares if it doesn't do anything? It was made with our new	2017-10-26
-51203	2792	Good-bye. I am l"|2017-09-16
+6307|56067|9583|Who cares if it doesn't do anything? It was made with our new|2017-10-26
+19487|51203|2792|Good-bye. I am l|2017-09-16
 6308|56415|3826|life.|2017-11-26
 6309|59167|6982|-- La Rouchefoucauld|2018-01-23
 6310|82357|5412|The apple fermented|2017-02-15
@@ -7374,8 +7374,8 @@
 7344|10443|1909|instructor will assign 200 pages on planaria.|2017-07-15
 7345|10443|4715|Modern man is the missing link between apes and human beings.|2017-04-23
 7346|41004|6505|There's no future in time travel|2017-12-30
-7347|41004|9188|"Here at the Phone Company, we serve all kinds of people; from	2017-07-25
-44622	2677	-- Herbert Hoove"|2017-05-16
+7347|41004|9188|Here at the Phone Company, we serve all kinds of people; from|2017-07-25
+19488|44622|2677|-- Herbert Hoove|2017-05-16
 7348|44622|7837|crystallography weenies.|2017-04-26
 7349|50116|3755|take a bath...|2017-04-16
 7350|32915|7509|poor to protect them from each other.|2017-04-23
@@ -7588,8 +7588,8 @@
 7558|65990|8964|Fine day to throw a party. Throw him as far as you can.|2017-01-04
 7559|65990|4448|doing.|2017-08-23
 7560|68256|5255|None. The Universe spines the bulb, and the Zen master stays out of|2018-05-01
-7561|68256|8666|"If you go on with this nuclear arms race, all you are going to do is	2017-11-26
-35852	3640	-- Albert"|2017-11-04
+7561|68256|8666|If you go on with this nuclear arms race, all you are going to do is|2017-11-26
+19489|35852|3640|-- Albert|2017-11-04
 7562|48098|3351|A baby is an alimentary canal with a loud voice at one end and no|2017-01-15
 7563|48098|4252|-- Bertold Brecht|2018-01-23
 7564|38385|2652|None. The Universe spines the bulb, and the Zen master stays out of|2017-05-29
@@ -7796,8 +7796,8 @@
 7765|33478|5829|The sun was shining on the sea,|2018-04-05
 7766|85914|5011|-- Don Quinn|2017-10-31
 7767|85914|1581|Kin: An affliction of the blood|2017-10-15
-7768|85914|3670|"It is easier for a camel to pass through the eye of a needle if it is	2017-08-31
-70526	4273	Accordin"|2017-06-25
+7768|85914|3670|It is easier for a camel to pass through the eye of a needle if it is|2017-08-31
+19490|70526|4273|Accordin|2017-06-25
 7769|31750|1229|A LISP programmer knows the value of everything, but the cost of|2018-02-04
 7770|17921|4461|-- Carl Zwanzig|2017-01-14
 7771|17921|129|Real Programmers never work 9 to 5. If any real programmers are around a 9 AM,|2017-08-28
@@ -8442,8 +8442,8 @@
 8411|77207|418|-- Woody Allen.|2017-07-31
 8412|77207|8363|-- Bellamy Brooks|2018-02-24
 8413|77207|2075|"them on the machine they can be patched into working in ""only a few"" 30-hour"|2017-11-05
-8414|81049|5344|"I know not with what weapons World War III will be fought, but	2017-09-12
-81049	2735	forecasters and"|2017-11-28
+8414|81049|5344|I know not with what weapons World War III will be fought, but|2017-09-12
+19491|81049|2735|forecasters and|2017-11-28
 8415|44719|3900|There was a young lady from Hyde|2017-10-25
 8416|44719|9388|Adolescence: The stage between puberty and adultery.|2017-11-14
 8417|44719|7995|"lightly greased."""|2017-10-29
@@ -9970,8 +9970,8 @@
 9934|87413|8826|Accuracy: The vice of being right|2017-01-24
 9935|14913|8836|Nostalgia isn't what it used to be.|2018-03-20
 9936|65153|9876|-- Finley Peter Dunne (Mr. Dooley)|2017-03-25
-9937|65153|6845|"If you go on with this nuclear arms race, all you are going to do is	2017-10-26
-65427	3634	The new C"|2017-07-23
+9937|65153|6845|If you go on with this nuclear arms race, all you are going to do is|2017-10-26
+19492|65427|3634|The new C|2017-07-23
 9938|70873|7310|flag.|2017-08-07
 9939|28811|488|A closed mouth gathers no foot.|2018-04-19
 9940|28811|9245|give it back to them.|2018-03-02
@@ -10155,8 +10155,8 @@
 10118|98527|8059|"bodies, it is customary to mention all members as honorable; as, ""the"|2017-06-11
 10119|98527|2089|-- La Rouchefoucauld|2018-01-18
 10120|98527|3470|-- Amalgamated Plastic Surgeons and Toolmakers, Ltd.|2017-07-09
-10121|43781|6154|"I know not with what weapons World War III will be fought, but	2017-08-26
-69653	2749	-- Bert Whitney"|2017-11-05
+10121|43781|6154|I know not with what weapons World War III will be fought, but|2017-08-26
+19493|69653|2749|-- Bert Whitney|2017-11-05
 10122|25967|9432|A Lisp programmer knows the value of everything, but the cost of|2017-07-29
 10123|25967|7236|Xerox does it again and again and again and ...|2017-01-20
 10124|37213|1143|SQL Symphony Concert|2017-08-03
@@ -10307,8 +10307,8 @@
 10269|41251|9599|Surprise due today. Also the rent.|2017-03-21
 10270|41251|1837|Justice: A decision in your favor.|2018-02-10
 10271|53076|8727|Optimization hinders evolution.|2017-03-18
-10272|53076|6101|"Just once, I wish we would encounter an alien menace that wasn't	2017-08-15
-53076	865	Do not drink c"|2017-02-21
+10272|53076|6101|Just once, I wish we would encounter an alien menace that wasn't|2017-08-15
+19494|53076|865|Do not drink c|2017-02-21
 10273|18486|2993|"He said, ""Yes, I know."|2017-07-14
 10274|87968|2075|How wonderful opera would be if there were no singers.|2017-06-25
 10275|87968|8279|tickets.|2017-09-14
@@ -10940,13 +10940,13 @@
 10899|67835|2863|programming languages.|2018-04-24
 10900|67835|9159|Good day for a change of scene. Repaper the bedroom wall.|2017-02-08
 10901|76712|9188|stupidity.|2017-04-14
-10902|76712|674|"All my friends and I are crazy. That's the only thing that keeps us	2018-04-02
-81689	3213	I'd give m"|2018-04-16
+10902|76712|674|All my friends and I are crazy. That's the only thing that keeps us|2018-04-02
+19495|81689|3213|I'd give m|2018-04-16
 10903|38252|6254|There cannot be a crisis next week. My schedule is already full.|2017-05-21
 10904|38252|7837|slandered.|2017-06-16
 10905|37710|5294|As far as the laws of mathematics refer to reality, they are not|2017-07-08
-10906|37710|9103|"Acting is an art which consists of keeping the audience from	2017-05-18
-37710	3284	in eucalyptus tre"|2017-01-18
+10906|37710|9103|Acting is an art which consists of keeping the audience from|2017-05-18
+19496|37710|3284|in eucalyptus tre|2017-01-18
 10907|43161|4507|A limerick packs laughs anatomical|2017-01-14
 10908|41468|3750|UFO's are for real: the Air Force doesn't exist.|2018-01-16
 10909|41468|2218|There was a young lady from Hyde|2017-06-04
@@ -11013,8 +11013,8 @@
 10970|87669|2716|Fourth Law of Applied Terror:|2017-11-25
 10971|64194|5313|Every manifestation had seven symptoms.|2017-05-11
 10972|64194|4681|Real Programmers don't write in BASIC. Actually, no programmers write in BASIC|2018-03-18
-10973|97404|7478|"The climate of Bombay is such that its inhabitants have to live	2018-01-11
-68179	8790	You will be su"|2017-06-02
+10973|97404|7478|The climate of Bombay is such that its inhabitants have to live|2018-01-11
+19497|68179|8790|You will be su|2017-06-02
 10974|30895|4464|You will be surprised by a loud noise.|2017-10-08
 10975|30895|3156|Boy: A noise with dirt on it.|2017-05-27
 10976|30895|1529|Idiot: A member of a large and powerful tribe whose influence in human|2017-04-20
@@ -11475,8 +11475,8 @@
 11435|54337|8416|Fruit flies like a banana|2018-04-16
 11436|21417|9771|Excellent day for drinking heavily. Spike office water cooler.|2017-09-13
 11437|38434|4318|I'd give my right arm to be ambidextrous.|2017-08-21
-11438|17315|2306|"The way to make a small fortune in the commodities market is to start	2017-03-09
-90436	9375	loaded S"|2017-07-27
+11438|17315|2306|The way to make a small fortune in the commodities market is to start|2017-03-09
+19498|90436|9375|loaded S|2017-07-27
 11439|90436|5606|The apple fermented|2018-01-03
 11440|90436|5963|Hail to the sun god|2017-11-18
 11441|20781|6341|Today is the first day of the rest of the mess|2018-02-21
@@ -11813,8 +11813,8 @@
 11773|82543|5255|-- Albert Einstein|2017-02-04
 11774|62636|3779|Fine day to work off excess energy. Steal something heavy.|2017-06-22
 11776|58028|5135|You could get a new lease on life -- if only you didn't need the first|2018-04-05
-11777|73505|842|"Who cares if it doesn't do anything? It was made with our new	2017-04-14
-73505	8316	find at least tw"|2017-04-16
+11777|73505|842|Who cares if it doesn't do anything? It was made with our new|2017-04-14
+19499|73505|8316|find at least tw|2017-04-16
 11778|47762|2193|"""If you go on with this nuclear arms race, all you are going to do is"|2017-04-17
 11779|47762|9974|Future looks spotty. You will spill soup in late evening.|2017-11-28
 11780|24953|9103|Thou shalt reclaim it not.|2017-08-23
@@ -13035,8 +13035,8 @@
 12994|24934|4982|works.|2017-01-23
 12995|75457|3322|Lunatic Asylum: The place where optimism most flourishes.|2017-06-04
 12996|84504|8417|system, in which all of its major weaknesses have been exposed,|2017-08-13
-12997|84504|9406|"Here at the Phone Company, we serve all kinds of people; from	2017-01-08
-59742	9559	SHIFT TO THE LEF"|2017-07-28
+12997|84504|9406|Here at the Phone Company, we serve all kinds of people; from|2017-01-08
+19500|59742|9559|SHIFT TO THE LEF|2017-07-28
 12998|60033|5089|programmers.|2017-12-06
 12999|60033|9406|Good news. Ten weeks from Friday will be a pretty good day.|2018-04-18
 13000|67702|9924|Question:|2018-04-21
@@ -13125,8 +13125,8 @@
 13083|18353|8804|usable, and it works, and if it breaks they'll quickly tell you how to|2017-12-02
 13084|18353|4652|slandered.|2018-04-04
 13085|41597|842|Year: A period of three hundred and sixty-five disappointments.|2017-11-26
-13086|41597|2679|"Might as well be frank, monsieur. It would take a miracle to get you	2017-02-25
-41597	7257	lightly g"|2017-08-15
+13086|41597|2679|Might as well be frank, monsieur. It would take a miracle to get you|2017-02-25
+19501|41597|7257|lightly g|2017-08-15
 13087|30469|6063|modify the problem, not the remedy.|2017-05-11
 13088|30469|9150|Californians trying to share the experience.|2017-03-06
 13090|67797|1393|Important letters which contain no errors will develop errors in the|2018-04-12
@@ -13218,8 +13218,8 @@
 13176|11615|4719|have nothing whatever to do with it.|2017-10-28
 13177|11615|5971|The Pig, if I am not mistaken,|2017-02-01
 13178|11615|7364|Forgetfulness: A gift of God bestowed upon debtors in compensation for|2017-03-03
-13179|61225|8335|"There are three possibilities: Pioneer's solar panel has turned away	2018-02-03
-99341	9150	God is a "|2017-04-21
+13179|61225|8335|There are three possibilities: Pioneer's solar panel has turned away|2018-02-03
+19502|99341|9150|God is a |2017-04-21
 13180|66425|9470|If the input was short of exact.|2017-11-19
 13181|41127|6105|Real Programmers don't write in PL/I. PL/I is for programmers who can't decide|2017-10-22
 13182|93236|3589|Silverman's Law:|2017-03-25
@@ -13661,8 +13661,8 @@
 13618|17141|8777|Vital papers will demonstrate their vitality by spontaneously moving|2017-05-09
 13619|17141|8468|-- Anatole France|2017-06-08
 13620|17141|7676|Good day for overcoming obstacles. Try a steeplechase.|2017-05-08
-13621|15645|3137|"Who cares if it doesn't do anything? It was made with our new	2017-07-06
-49464	7349	Do not take life"|2017-12-13
+13621|15645|3137|Who cares if it doesn't do anything? It was made with our new|2017-07-06
+19503|49464|7349|Do not take life|2017-12-13
 13622|45961|6063|the computer.|2017-02-10
 13623|73916|5778|This login session: $13.99, but for you $11.88|2017-03-03
 13624|73916|5810|If you don't care where you are, then you ain't lost.|2018-01-21
@@ -13840,8 +13840,8 @@
 13794|86956|1998|In case of atomic attack, the federal ruling against prayer in schools|2017-10-29
 13795|23244|2668|Old soldiers never die. Young ones do.|2017-01-28
 13796|56172|2735|-- Herbert Hoover|2018-02-26
-13797|18357|1389|"Might as well be frank, monsieur. It would take a miracle to get you	2017-02-26
-18357	9087	A: 33. 1 "|2018-02-28
+13797|18357|1389|Might as well be frank, monsieur. It would take a miracle to get you|2017-02-26
+19504|18357|9087|A: 33. 1 |2018-02-28
 13798|43279|136|A: Both of them.|2017-07-09
 13799|84141|4951|Real Programmers don't write specs -- users should consider themselves lucky to|2018-03-25
 13800|84141|3225|A computer, to print out a fact,|2017-06-26
@@ -14026,8 +14026,8 @@
 13978|96986|5149|to date.|2017-12-10
 13979|96986|2499|But this output can be|2018-04-14
 13980|66991|5925|bogglingly big it is. I mean, you may think it's a long way down the|2017-09-21
-13981|66991|1837|"It is easier for a camel to pass through the eye of a needle if it is	2017-11-19
-66991	3209	Today is"|2018-01-05
+13981|66991|1837|It is easier for a camel to pass through the eye of a needle if it is|2017-11-19
+19505|66991|3209|Today is|2018-01-05
 13982|48415|3484|mail. Corresponding errors will show up in the duplicate while the|2017-10-20
 13983|48415|4554|Surprise due today. Also the rent.|2017-12-19
 13984|30022|8869|Real Programmers don't play tennis, or any other sport that requires you to|2017-12-06
@@ -14197,8 +14197,8 @@
 14147|39820|9167|Old soldiers never die. Young ones do.|2017-09-06
 14148|46179|1171|-- Kehlog Albran|2018-03-23
 14149|10236|9564|It's made by our favorite monopoly!|2018-03-21
-14150|10236|5396|"Who cares if it doesn't do anything? It was made with our new	2018-04-19
-10236	1468	Screw up your co"|2017-04-01
+14150|10236|5396|Who cares if it doesn't do anything? It was made with our new|2018-04-19
+19506|10236|1468|Screw up your co|2017-04-01
 14151|67792|4381|Genius may have its limitations, but stupidity is not thus|2017-06-29
 14152|94494|1396|headed.|2017-06-13
 14153|94494|4804|Slang is language that takes off its coat, spits on its hands, and goes|2017-08-02
@@ -14541,8 +14541,8 @@
 14491|92675|315|There was a young lady from Hyde|2017-04-05
 14492|64562|7333|It is easier to change the specification to fit the program than vice|2017-06-12
 14493|64562|9177|Limericks are art forms complex,|2017-08-15
-14494|64562|8631|"Who cares if it doesn't do anything? It was made with our new	2017-09-20
-92282	865	There cannot be a"|2017-08-10
+14494|64562|8631|Who cares if it doesn't do anything? It was made with our new|2017-09-20
+19507|92282|865|There cannot be a|2017-08-10
 14495|47783|6156|Future looks spotty. You will spill soup in late evening.|2017-03-12
 14496|75421|4193|-- Eleanor Roosevelt|2018-04-09
 14497|75421|777|Give your child mental blocks for Christmas.|2017-07-16
@@ -14818,8 +14818,8 @@
 14768|78652|8790|"1) ""Don't worry, I can handle it."""|2017-05-01
 14769|77197|2230|If there are epigrams, there must be meta-epigrams.|2017-10-30
 14770|77197|5287|In any organization there will always be one person who knows|2018-04-01
-14771|37007|8650|"There are three possibilities: Pioneer's solar panel has turned away	2017-12-05
-37007	1468	Collabora"|2017-01-20
+14771|37007|8650|There are three possibilities: Pioneer's solar panel has turned away|2017-12-05
+19508|37007|1468|Collabora|2017-01-20
 14772|43455|4520|Give your child mental blocks for Christmas.|2017-11-10
 14773|40216|3869|I'm not as think as you stoned I am.|2017-07-09
 14774|40216|7929|Don't hate yourself in the morning -- sleep till noon.|2017-05-23
@@ -14924,8 +14924,8 @@
 14872|24249|2875|mistake when you make it again.|2017-02-18
 14873|24249|1520|Matrimony isn't a word, it's a sentence.|2017-03-23
 14874|95577|7271|"loaded Star Trek 3.2 into our video processor."""|2018-03-04
-14875|95577|9669|"He was so narrow minded he could see through a keyhole with both	2017-06-21
-95577	5061	Future looks "|2017-07-22
+14875|95577|9669|He was so narrow minded he could see through a keyhole with both|2017-06-21
+19509|95577|5061|Future looks |2017-07-22
 14876|85748|6878|Stay away from hurricanes for a while.|2017-02-07
 14877|38315|6999|Register Allocation in Optimizing Compilers|2018-02-22
 14878|38315|2755|Accordion: A bagpipe with pleats.|2017-04-02
@@ -14946,8 +14946,8 @@
 14893|67969|746|-- Henry Kissinger|2017-04-16
 14894|59969|5396|Message will arrive in the mail. Destroy, before the FBI sees it.|2017-09-10
 14895|59969|43|Real Programmers don't write in PASCAL, or BLISS, or ADA, or any of those pinko|2017-03-30
-14896|59969|5282|"Just once, I wish we would encounter an alien menace that wasn't	2018-03-22
-14888	6236	-- Mark Twain"|2017-10-22
+14896|59969|5282|Just once, I wish we would encounter an alien menace that wasn't|2018-03-22
+19510|14888|6236|-- Mark Twain|2017-10-22
 14897|71685|4193|>from where you left them to where you can't find them.|2018-03-26
 14898|48047|7113|SHIFT TO THE LEFT! SHIFT TO THE RIGHT!|2018-03-14
 14899|48047|816|Thy programs run, thy syscalls done,|2018-02-12
@@ -15026,8 +15026,8 @@
 14972|35895|4193|A LISP programmer knows the value of everything, but the cost of|2018-03-14
 14973|45159|7262|of another.|2017-09-06
 14974|70364|6142|meant to be discarded: That the whole point is to always see it as a|2017-01-19
-14975|26907|4193|"The way to make a small fortune in the commodities market is to start	2018-03-13
-26907	9053	The atte"|2017-01-07
+14975|26907|4193|The way to make a small fortune in the commodities market is to start|2018-03-13
+19511|26907|9053|The atte|2017-01-07
 14976|38847|5753|LSD consumes 47 times its weight in excess reality.|2017-05-14
 14977|38847|8363|Everyting should be built top-down, except the first time.|2018-04-18
 14978|25469|1087||2017-11-12
@@ -15045,8 +15045,8 @@
 14990|18247|2502|road to the drug store, but that's just peanuts to space.|2017-11-01
 14991|18247|9612|get any programs at all and take what they get.|2018-01-14
 14992|18247|3623|that is not being talked about.|2017-05-09
-14993|90696|1973|"Just once, I wish we would encounter an alien menace that wasn't	2018-02-14
-90696	7338	-- from the B"|2017-05-13
+14993|90696|1973|Just once, I wish we would encounter an alien menace that wasn't|2018-02-14
+19512|90696|7338|-- from the B|2017-05-13
 14994|72869|7259|-- Don Quinn|2017-03-10
 14995|72869|7535|What this country needs is a good five cent ANYTHING!|2017-08-19
 14996|43405|2241|How long a minute is depends on which side of the bathroom door you're on.|2017-10-28
@@ -15059,8 +15059,8 @@
 15004|83900|5590|Just because your doctor has a name for your condition doesn't mean he|2017-05-09
 15005|92540|4659|If you view your problem closely enough you will recognize|2018-03-06
 15006|73998|842|"""Just once, I wish we would encounter an alien menace that wasn't"|2017-04-06
-15007|73998|9171|"Here at the Phone Company, we serve all kinds of people; from	2018-02-16
-73998	8172	Paranoids are pe"|2018-01-06
+15007|73998|9171|Here at the Phone Company, we serve all kinds of people; from|2018-02-16
+19513|73998|8172|Paranoids are pe|2018-01-06
 15008|64391|488|Remember, UNIX spelled backwards is XINU.|2017-12-18
 15009|64391|6077|It was a book to kill time for those who liked it better dead.|2018-03-05
 15010|99433|7937|"bodies, it is customary to mention all members as honorable; as, ""the"|2017-10-29
@@ -15359,8 +15359,8 @@
 15305|33665|1077|-- La Rouchefoucauld|2017-06-22
 15306|33665|4300|Nihilism should commence with oneself.|2017-08-10
 15307|33665|1104|Take heart amid the deepening gloom that your dog is finally getting|2017-03-26
-15308|98952|8995|"Might as well be frank, monsieur. It would take a miracle to get you	2017-03-28
-98952	1581	Stay away"|2017-02-28
+15308|98952|8995|Might as well be frank, monsieur. It would take a miracle to get you|2017-03-28
+19514|98952|1581|Stay away|2017-02-28
 15309|51011|2671|Excellent time to become a missing person.|2017-05-27
 15310|33870|1909|Afternoon very favorable for romance. Try a single person for a|2017-06-04
 15311|33870|3190|If you view your problem closely enough you will recognize|2017-04-11
@@ -15722,8 +15722,8 @@
 15666|68713|9681|Arithmetic is being able to count up to twenty without taking off your|2017-07-14
 15667|91646|5970|"make the rubble bounce"""|2017-07-21
 15668|91646|8773|-- D. J. Hicks|2018-01-06
-15669|47930|4017|"All my friends and I are crazy. That's the only thing that keeps us	2017-02-06
-47930	8724	-- Paul Mc"|2017-04-18
+15669|47930|4017|All my friends and I are crazy. That's the only thing that keeps us|2017-02-06
+19515|47930|8724|-- Paul Mc|2017-04-18
 15670|64704|8548|What nobody is sure about.|2017-08-24
 15671|64704|1600|"Losing your drivers' license is just God's way of saying ""BOOGA, BOOGA!"""|2017-10-14
 15672|80514|1998|-- Charlie McCarthy|2018-01-26
@@ -15771,8 +15771,8 @@
 15714|18239|5772|He sure is a fun god|2018-02-06
 15715|45602|1998|I can't complain, but sometimes I still do.|2018-04-28
 15716|45602|4273||2017-05-21
-15717|45602|9133|"Just once, I wish we would encounter an alien menace that wasn't	2018-04-30
-66974	6129	in kernel as "|2018-04-07
+15717|45602|9133|Just once, I wish we would encounter an alien menace that wasn't|2018-04-30
+19516|66974|6129|in kernel as |2018-04-07
 15718|97649|4387|"Presidents and Kings to the scum of the earth..."""|2017-04-17
 15719|97649|9306|The National Short-Sleeved Shirt Association says:|2017-10-08
 15720|40418|3799|for a dial tone.|2018-03-08
@@ -16558,8 +16558,8 @@
 16501|38892|6072|Never attribute to malice that which is adequately explained by|2018-03-15
 16502|28017|2152|Space is big. You just won't believe how vastly, hugely, mind-|2017-04-27
 16503|28017|8542|If you are given an open-book exam, you will forget your book.|2017-08-27
-16504|53006|1701|"Might as well be frank, monsieur. It would take a miracle to get you	2018-02-26
-53006	5104	It's not "|2017-06-30
+16504|53006|1701|Might as well be frank, monsieur. It would take a miracle to get you|2018-02-26
+19517|53006|5104|It's not |2017-06-30
 16505|24235|8315|Genius may have its limitations, but stupidity is not thus|2018-02-24
 16506|16855|2559|He did his very best to make|2018-03-09
 16507|16855|7587|How wonderful opera would be if there were no singers.|2017-05-24
@@ -17207,8 +17207,8 @@
 17149|29608|6843|I think that I shall never see|2018-01-13
 17150|29608|4675|as afterward.|2017-07-15
 17151|37393|4674|Chicken Soup: An ancient miracle drug containing equal parts of|2017-10-07
-17152|42364|124|"Might as well be frank, monsieur. It would take a miracle to get you	2018-02-15
-18174	418	sane."|2017-03-23
+17152|42364|124|Might as well be frank, monsieur. It would take a miracle to get you|2018-02-15
+19518|18174|418|sane.|2017-03-23
 17153|18174|8071|-- R. Geis|2017-11-29
 17154|18174|5155|Mickey Mouse wears a Spiro Agnew watch.|2017-05-13
 17155|86709|5966|Die? I should say not, dear fellow. No Barrymore would allow such a|2017-05-19
@@ -17272,8 +17272,8 @@
 17212|74398|3322|-- Mark Twain|2017-06-20
 17213|74398|7259|I am not an Economist. I am an honest man!|2018-03-01
 17214|10538|6185|He looked at me as if I was a side dish he hadn't ordered.|2017-01-31
-17215|46101|865|"All my friends and I are crazy. That's the only thing that keeps us	2018-03-28
-46101	9956	Things are"|2017-05-05
+17215|46101|865|All my friends and I are crazy. That's the only thing that keeps us|2018-03-28
+19519|46101|9956|Things are|2017-05-05
 17216|52456|9110|"When someone says ""I want a programming language in which I need only"|2017-05-22
 17217|73365|6084|I must have slipped a disk -- my pack hurts|2017-02-02
 17218|73365|5135|fortune: Segmentation violation -- Core dumped|2017-03-27
@@ -17572,8 +17572,8 @@
 17512|63709|3865|means the price went way up.|2017-03-01
 17513|63709|7830|Kin: An affliction of the blood|2017-05-25
 17514|85259|9103|I never fail to convince an audience that the best thing they could do|2017-10-09
-17515|85259|8109|"Acting is an art which consists of keeping the audience from	2017-10-08
-54817	9768	The brain is a wo"|2017-02-03
+17515|85259|8109|Acting is an art which consists of keeping the audience from|2017-10-08
+19520|54817|9768|The brain is a wo|2017-02-03
 17516|15552|1552|In case of atomic attack, the federal ruling against prayer in schools|2017-01-23
 17517|15552|5042||2017-05-18
 17518|35527|8949|Arguments with furniture are rarely productive.|2017-08-29
@@ -17751,8 +17751,8 @@
 17690|93721|3376|"""Here at the Phone Company, we serve all kinds of people; from"|2017-12-24
 17691|48724|4781|-- Kehlog Albran|2017-02-07
 17692|48724|4149||2017-08-20
-17693|48724|1574|"The way to make a small fortune in the commodities market is to start	2018-03-03
-43549	1625	And this"|2017-02-23
+17693|48724|1574|The way to make a small fortune in the commodities market is to start|2018-03-03
+19521|43549|1625|And this|2017-02-23
 17694|27101|792|knows what it is.|2017-01-04
 17695|27101|4352|Avoid reality at all costs.|2017-12-20
 17696|27101|9630|Chicken Little was right.|2017-06-22
@@ -18679,8 +18679,8 @@
 18614|45194|5735|Good-bye. I am leaving because I am bored.|2017-11-12
 18615|45194|7711|Automobile: A four-wheeled vehicle that runs up hills and down|2017-09-04
 18616|71114|2338|Their topics run chiefly to sex.|2017-11-08
-18617|91445|8932|"All my friends and I are crazy. That's the only thing that keeps us	2017-12-27
-91445	2433	listings o"|2018-02-21
+18617|91445|8932|All my friends and I are crazy. That's the only thing that keeps us|2017-12-27
+19522|91445|2433|listings o|2018-02-21
 18618|53716|7424|slandered.|2017-11-23
 18619|53716|5539|Will divide, multiply, and subtract.|2017-12-31
 18620|53716|7684|"immune to bullets"""|2018-01-15
@@ -19212,8 +19212,8 @@
 19146|97660|9395|Fine day to work off excess energy. Steal something heavy.|2018-01-30
 19147|97660|6236|-- Anatole France|2017-03-28
 19148|32549|6463|"""Here at the Phone Company, we serve all kinds of people; from"|2017-03-06
-19149|62977|1193|"The climate of Bombay is such that its inhabitants have to live	2017-02-14
-54318	2295	one.	2017-10-0"|2017-06-19
+19149|62977|1193|The climate of Bombay is such that its inhabitants have to live|2017-02-14
+19523|54318|2295|one. 2017-10-0|2017-06-19
 19150|65075|61|>from where you left them to where you can't find them.|2017-04-17
 19151|79868|8207|Every instructor assumes that you have nothing else to do|2017-08-06
 19152|79868|4207|yourself as part of the problem.|2017-11-17
