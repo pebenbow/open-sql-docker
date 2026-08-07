@@ -7,6 +7,13 @@ PGUSER="${POSTGRES_USER:-postgres}"
 echo "==> Custom init: loading databases from subdirectories in ${INIT_DIR}"
 echo "==> POSTGRES_USER=${PGUSER}"
 
+# Returns 0 (success) if the database was just created, 1 if it already
+# existed. Callers use this to decide whether to load data into it --
+# __create_tables.sql/__load_tables.sql are not safe to re-run against a
+# database that's already populated (CREATE TABLE has no IF NOT EXISTS,
+# and COPY has no dedup), which matters once init files are re-run on
+# every container start rather than only on first init (see
+# entrypoint-monkeypatch.sh).
 create_db_if_missing () {
   local db="$1"
   echo "==> Ensuring database exists: ${db}"
@@ -14,10 +21,12 @@ create_db_if_missing () {
   if psql -v ON_ERROR_STOP=1 --username "$PGUSER" --dbname postgres -tAc \
       "SELECT 1 FROM pg_database WHERE datname='${db}'" | grep -q 1; then
     echo "    (already exists)"
+    return 1
   else
     psql -v ON_ERROR_STOP=1 --username "$PGUSER" --dbname postgres \
       -c "CREATE DATABASE \"${db}\";"
     echo "    (created)"
+    return 0
   fi
 }
 
@@ -77,6 +86,9 @@ for db_dir in "${INIT_DIR}"/*/; do
     continue
   fi
 
-  create_db_if_missing "$dbname"
-  load_dir_into_db "$dbname" "${db_dir%/}"
+  if create_db_if_missing "$dbname"; then
+    load_dir_into_db "$dbname" "${db_dir%/}"
+  else
+    echo "    (skipping load: ${dbname} already exists)"
+  fi
 done
