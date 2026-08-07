@@ -1,0 +1,24 @@
+1|Adventure
+2|Biography
+3|Business
+4|Cooking
+5|Drama
+6|Fantasy
+7|Fiction
+8|Historical Fiction
+9|History
+10|Horror
+11|Humor
+12|Mystery & Detective
+13|Philosophy
+14|Poetry
+15|Psychology
+16|Romance
+17|Science
+18|Science Fiction
+19|Self-Help
+20|Short Stories
+21|Thriller
+22|Travel
+23|True Crime
+24|Young Adult

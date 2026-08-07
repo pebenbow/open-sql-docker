@@ -1,0 +1,11 @@
+COPY public.publishers    FROM '/docker-entrypoint-initdb.d/library/publishers.txt'    DELIMITER '|' CSV;
+COPY public.authors       FROM '/docker-entrypoint-initdb.d/library/authors.txt'       DELIMITER '|' CSV;
+COPY public.genres        FROM '/docker-entrypoint-initdb.d/library/genres.txt'        DELIMITER '|' CSV;
+COPY public.books         FROM '/docker-entrypoint-initdb.d/library/books.txt'         DELIMITER '|' CSV;
+COPY public.book_authors  FROM '/docker-entrypoint-initdb.d/library/book_authors.txt'  DELIMITER '|' CSV;
+COPY public.book_genres   FROM '/docker-entrypoint-initdb.d/library/book_genres.txt'   DELIMITER '|' CSV;
+COPY public.staff         FROM '/docker-entrypoint-initdb.d/library/staff.txt'         DELIMITER '|' CSV;
+COPY public.patrons       FROM '/docker-entrypoint-initdb.d/library/patrons.txt'       DELIMITER '|' CSV;
+COPY public.copies        FROM '/docker-entrypoint-initdb.d/library/copies.txt'        DELIMITER '|' CSV;
+COPY public.checkouts     FROM '/docker-entrypoint-initdb.d/library/checkouts.txt'     DELIMITER '|' CSV;
+COPY public.fines         FROM '/docker-entrypoint-initdb.d/library/fines.txt'         DELIMITER '|' CSV;

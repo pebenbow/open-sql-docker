@@ -1,0 +1,746 @@
+1|Jane Austen|1775
+2|Lewis Carroll|1832
+3|Charles Dickens|1812
+4|Oscar Wilde|1854
+5|Emily Brontë|1818
+6|Mark Twain|1835
+7|Nathaniel Hawthorne|1804
+8|Daniel Defoe|1661
+9|William Shakespeare|1564
+10|Mary Shelley|1797
+11|L. Frank Baum|1856
+12|Robert Louis Stevenson|1850
+13|Bram Stoker|1847
+14|Louisa May Alcott|1832
+15|Jonathan Swift|1667
+16|Jack London|1876
+17|Frances Hodgson Burnett|1849
+18|Miguel de Cervantes Saavedra|1547
+19|Gustave Flaubert|1821
+20|孙武 (Sun Tzu)|
+21|Stephen F. Kaufman|
+22|Lionel Giles|1875
+23|Onésimo Colavidas|
+24|Arthur Conan Doyle|1859
+25|Niccolò Machiavelli|
+26|Kenneth Grahame|1859
+27|Dante Alighieri|
+28|Лев Толстой|1828
+29|Lucy Maud Montgomery|1874
+30|F. Scott Fitzgerald|1896
+31|Fyodor Dostoyevsky|1821
+32|Wilkie Collins|1824
+33|William Collins|
+34|Edith Nesbit|1858
+35|H. G. Wells|1866
+36|Joseph Conrad|1857
+37|Emma Orczy|1865
+38|Edgar Allan Poe|1809
+39|Agatha Christie|1890
+40|Raymond Chandler|1888
+41|Joseph Smith Fletcher|1863
+42|Mark Haddon|1962
+43|Stephen King|1947
+44|Stephenie Meyer|1973
+45|Erich Kästner|1899
+46|Gertrude Chandler Warner|1890
+47|Enid Blyton|1897
+48|Graham Greene|1904
+49|A. A. Milne|1882
+50|Dorothy L. Sayers|1893
+51|Aldous Huxley|1894
+52|Charlotte Perkins Gilman|1860
+53|Edwin Abbott Abbott|1838
+54|George Orwell|1903
+55|George MacDonald|1824
+56|Edgar Rice Burroughs|1875
+57|Gilbert Keith Chesterton|1874
+58|Jules Verne|1828
+59|Margaret Cavendish, Duchess of Newcastle|1624
+60|Ian Randal Strock|
+61|Shailesh Kori|
+62|Erika Garcia|
+63|William Morris|1834
+64|E. M. Forster|1879
+65|Edwin Lester Linden Arnold|1857
+66|Richard Jefferies|1848
+67|Edward Bulwer Lytton, Baron Lytton|1803
+68|Ray Bradbury|1920
+69|John Ruskin|1819
+70|A. Merritt|1882
+71|Евгений Иванович Замятин|1884
+72|Antoine de Saint-Exupéry|1900
+73|J.R.R. Tolkien|1892
+74|J. M. Barrie|1860
+75|Charlotte Brontë|1816
+76|Edith Wharton|1862
+77|Alexandre Dumas|1802
+78|Zane Grey|1872
+79|Harriet Beecher Stowe|1811
+80|D. H. Lawrence|1885
+81|H. Rider Haggard|1856
+82|Elizabeth Cleghorn Gaskell|1810
+83|Henry James|1843
+84|Thomas Hardy|1840
+85|Stendhal|1783
+86|James Fenimore Cooper|1789
+87|Arnold Bennett|1867
+88|Anthony Trollope|1815
+89|Boris Leonidovich Pasternak|1890
+90|E. L. James|1963
+91|Auguste Maquet|1813
+92|Upton Sinclair|1878
+93|Stephen Crane|1871
+94|Willa Cather|1873
+95|James Joyce|1882
+96|Victor Hugo|1802
+97|Sir Walter Scott|1771
+98|Washington Irving|1783
+99|Henryk Sienkiewicz|1846
+100|Virginia Woolf|1882
+101|Lucius Apuleius|
+102|William Adlington|
+103|Lucio Apuleyo|
+104|Lucio Apuleio|
+105|Apuleio|
+106|Apuleius|
+107|Marina Cavalli|
+108|Costanza Viareggi|
+109|Firenzuola, Agnolo|
+110|Matteo Maria Boiardo|
+111|Nicolò Zoppino|1508
+112|Vicentio|
+113|Henry David Thoreau|1817
+114|Frederick Douglass|1818
+115|Solomon Northup|1808
+116|Rudyard Kipling|1865
+117|Walt Whitman|1819
+118|Ovid|
+119|William S. Anderson|
+120|Mary Frederick|
+121|Rolfe Humphries|1894
+122|John Dryden|1631
+123|Samuel Garth|
+124|Jack Shapiro|
+125|Ovid|
+126|Robert Squillace|
+127|Frank Justus Miller|
+128|Ovidio|
+129|Julius Ziehen|
+130|Banier (Antoine|
+131|M L'Abbe)|
+132|Niklas Holzberg|
+133|Lee Fratantuono|
+134|A D Melville|
+135|Emeritus Kennedy Professor of Latin Fellow E J Kenney|
+136|Ovide|
+137|William Scovil Anderson|
+138|Stephanie McCarter|
+139|Gerhard Fink|
+140|Alexander Pope|
+141|Joseph Addison|
+142|William Congreve|1670
+143|Gottlieb Erdmann Gierig|
+144|Jan Minell|
+145|Pieter Rabus|
+146|Alexander Pope|1688
+147|Sir Samuel Garth|
+148|John Godwin|
+149|OVIDIO|
+150|Publio Nasone Ovidio|
+151|Ovidi|
+152|Xavier Mata Oroval|
+153|Claude-Pierre Goujet|
+154|Claude-Pierre Banier|
+155|Publius Ovidius Naso|
+156|Edward Brooks|
+157|Edward Ovid|
+158|Ovidius|
+159|Ernest Ensor Publius Ovidius Naso|
+160|Ovídio|
+161|Pierre Du Ryer|
+162|Publio Ovidio Nason|
+163|Johannes Minellius|1625
+164|Nathan Bailey|
+165|J., F., and C. Rivington (Firm)|
+166|G. G. J. and J. Robinson (Paternoster-Row, London, England)|
+167|Scatcherd and Whitaker|
+168|Publius Ovidius Naso|
+169|Mathieu Guillaume Thérès de Villenave|
+170|Rudolf Merkel|
+171|Ovid Giovanni Andrea Dell' Anguillara|
+172|C. Luke Soucy|
+173|Publius Ovidius Naso|
+174|Joseph Gaspard Dubois-Fontanelle|
+175|Villenave|
+176|Moriz Haupt|
+177|Otto Korn|
+178|Otto Ovid|
+179|J. J. J.J. Howard|
+180|Henry Riley|
+181|Théodose Burette|
+182|Etienne Gros|
+183|John Clarke|
+184|John Ovid|
+185|William Thane Peck|
+186|Moriz Haupt|1808
+187|Hermann Johannes Müller|1844
+188|Otto Korn|1858
+189|Henry T. Riley|1816
+190|Banier M. l'abbé|1673
+191|Bernard Picart|1673
+192|Arthur Golding|1536
+193|William White|1934
+194|William Seres|
+195|J. H. Haydon|
+196|Maximus Planudes|
+197|Jean François Boissonade|1774
+198|Garth, Samuel Sir|1661
+199|Joseph Addison|1672
+200|Laurence Eusden|1688
+201|Arthur Maynwaring|1668
+202|Samuel Croxall|1688
+203|Nahum Tate|1652
+204|John Gay|1685
+205|Freigius|
+206|Moritz Haupt|1808
+207|Otto Korn|1849
+208|Ovide Ovide|
+209|George Sewell|
+210|Ovid Vergil|
+211|Ovide (Ovid) ; Georges Lafaye|
+212|Rolfe (Translated by) Ovid and Humphries|
+213|Ernst Karl Christian Bach|
+214|Rudolf Ehwald|
+215|Ovidb C -17 or 18 a D|
+216|Daniel Crespin|
+217|Anton Zingerle|
+218|Heinrich Stefan Sedlmayer|
+219|José Carlos Fernández Corte|
+220|María Josefa Cantó Llorca|
+221|Charles Martin|1942
+222|Emily R. Wilson|1971
+223|Ovide|
+224|Henry T. Riley|
+225|translated by frank jsutus miller Ovid|
+226|Moriz Haupt P. Ovidius Naso|
+227|43 B. C. -17 or 18 A. D. Ovid|
+228|N. C. (Nathan Covington) 180 Brooks|
+229|José-Román Bravo Díaz|
+230|Publio Ovidio Nasón|
+231|Antonio Ruiz de Elvira Prieto|
+232|Bartolomé Segura Ramos|
+233|OVIDIO; BONIFAZ NU;O, RUBEN INTRODUCION, VERSION|
+234|OVIDIO; BONIFAZ NU;O, RUBEN INTRODUCION, VERSION|
+235|Publius Ovidius Naso Ovide|
+236|OVIDE|
+237|43 B. C. -17 A. D. or 18 A. D. Ovid|
+238|Stamperia del Seminario (Padua)|
+239|Publius Ovidius Publius Ovidius Naso|
+240|Henry Thomas Riley|
+241|Publi Ovidi Nasó|
+242|Donald E. Hill|
+243|J. R. Jenkinson|
+244|K. Sara Myers|
+245|Ovid Poet|
+246|John Laney|
+247|Hermann Breitenbach|
+248|Rudolf Merkel|1811
+249|Rudolf Ehwald|1847
+250|Ange-François Fariau de Saint-Ange|1747
+251|Pablo Picasso|1881
+252|Jean Gaspard Dubois-Fontanelle|1737
+253|Giuseppe Zocchi|1711
+254|Joseph Chamonard|1866
+255|Diedrich Ernest Bosselaar|1899
+256|Thomas Farnaby|1575
+257|Friedrich Polle|1830
+258|Johannes Siebelis|1817
+259|Bernardino Stagnino|
+260|Carolus Vivianus|
+261|Ovide (Ovid)|
+262|Georges Lafaye|
+263|George Sandys|1578
+264|Richard Badger|
+265|Johann Raener|
+266|Henricus Glareanus|
+267|Thomas Purfoot|
+268|Charles Simmons|
+269|Lodovico Dolce|1508
+270|Jakob Moltzer|1503
+271|Ercole Ciofani|
+272|Daniel Heinsius|1580
+273|Nicolaas Heinsius|1620
+274|Pieter Burman|1668
+275|Johann Wilhelm Capoferrius|
+276|Charles de Massac|
+277|Raymond de Massac|
+278|George Sewell|
+279|Raffaele Regio|
+280|Giovanni de Buonsignore|
+281|Luca-Antonio Giunta|
+282|William Caxton|
+283|George Hibbert|1757
+284|Roxburghe Club|
+285|Erich Rösch|
+286|Joseph Davidson|
+287|Claude-Pierre Goujet|1697
+288|N. Bailey|
+289|Banier (Antoine)|1673
+290|Jean Matheus|1616
+291|Isaac Briot|1585
+292|Pierre Firens|
+293|Michael Faulte|
+294|Gerard Jean-Baptiste Scotin|
+295|Antoine Humblot|
+296|Virgil Solis|1514
+297|Vasiliĭ Maĭkov|1728
+298|Gerhard Lorich|
+299|Marguerite Carnec|
+300|Olivier Sers|
+301|SparkNotes|
+302|Georges Lafaye|1854
+303|Raphaello Regius|
+304|Josse Badius|
+305|Gottlieb Erdmann Gierig|1753
+306|Almeno pseud|
+307|Ēlias Tsirinkakēs|1967
+308|Jordi Parramon Blasco|
+309|John Clarke|1687
+310|Jacobus Rubeus|
+311|Henry N. Heale|
+312|William Scovil Anderson|1927
+313|Gianpiero Rosati|1951
+314|Giovanna Faranda Villa|
+315|Rossella Corti|
+316|Nicolas Renouard|
+317|Publius Vergilius Maro|
+318|Henry King|
+319|Karl Hermann Weise|1787
+320|Jorge de Bustamante|
+321|Pierre Bellère|
+322|Fitzwilliam, William Charles de Meuron Earl|1872
+323|Edward Glaser|1918
+324|Giovanni de' Buonsignori|
+325|Gregor Bersmann|1538
+326|Pieter Rabus|1660
+327|'Introductiones' Printer of Nebrissensis|
+328|Hannibal Gamon|
+329|Clifden, Arthur Victor Agar-Robartes Viscount|1887
+330|England) Lanhydrock House (Cornwall|
+331|Giovanni Andrea dell' Anguillara|1519
+332|Francesco Turchi|
+333|Clarke, John|1687
+334|Karl Paul Otto Korn|1842
+335|H. J. Müller|
+336|Otto Korn|1842
+337|Johann Balthasar Sedkezki|
+338|Stephen Gaselee|1882
+339|H. F. B. Brett-Smith|
+340|Pepys Library|
+341|Raphaello Regius|
+342|Paul Brandt|1875
+343|Pierre Du Ryer|1600
+344|Gwilym Aneurin Tudor Davies|
+345|Ovid, 43 BCE-18, 43 BCE-18|
+346|Geoffrey Chaucer|
+347|John E. Cunningham|1927
+348|Peter Ackroyd|1949
+349|Ted Stearn|
+350|V. A. Kolve|
+351|Glending Olson|
+352|John Bunyan|1628
+353|Benjamin Franklin|1706
+354|Titus Livius|
+355|Anne Brontë|1820
+356|Karl Marx|1818
+357|Friedrich Engels|1820
+358|Augustine of Hippo|
+359|Booker T. Washington|1856
+360|John Milton|1608
+361|Harriet A. Jacobs|1813
+362|Bible|
+363|Jerome Klapka Jérôme|1859
+364|Herman Melville|1819
+365|Voltaire|1694
+366|Titus Lucretius Carus|
+367|Richard Henry Dana|1815
+368|Houghton Mifflin Company Staff|
+369|Ἡρόδοτος|
+370|Charles Darwin|1809
+371|Alan R. Katritzky|
+372|Jeanne Mund Lagowski|1929
+373|A. J. Boulton|
+374|Richard Hakluyt|1552
+375|Jack Beeching|1922
+376|Richard David|1912
+377|Edmund Goldsmid|
+378|Gerard J. Tortora|1940
+379|Bryan H. Derrickson|
+380|Brendan Burkett|
+381|Danielle Dye|
+382|Julie Cooke|
+383|HOUGHTON MIFFLIN HARCOURT|
+384|Gregory Peoples|
+385|Tara Diversi|
+386|Mark McKean|
+387|Latika Samalia|
+388|Rebecca Mellifont|
+389|Richard G. Smith undifferentiated|
+390|Gerald J. Tortura|
+391|Sandra R. Grabowski|
+392|Tortora|
+393|Sandra Reynolds Grabowski|
+394|Plutarch|
+395|Francis Bacon|1561
+396|Georges-Louis Leclerc, comte de Buffon|1707
+397|Georges Louis Leclerc De Buffon|
+398|Peter Kropotkin|1842
+399|René Descartes|1596
+400|Charles Fort|1874
+401|Philip Pullman|1946
+402|Rand McNally|1856
+403|Henri Bergson|1859
+404|CHAILLAND|
+405|Éditions CdBF|
+406|Stephen Hawking|1942
+407|John Stuart Mill|1806
+408|Jean Louis Hippolyte Peisse|1803
+409|John Mill|
+410|George Bourne|1863
+411|Kwang W. Jeon|
+412|Johann Wolfgang von Goethe|1749
+413|Bertrand Russell|1872
+414|Albert Einstein|1879
+415|Anthony J. F. Griffiths|
+416|Susan R. Wessler|
+417|Richard C. Lewontin|1929
+418|William M. Gelbart|
+419|David T. Suzuki|1936
+420|Jeffrey H. Miller|
+421|Leonardo da Vinci|
+422|Kunster|
+423|Erfinder|
+424|Wissenschaftler|
+425|Michael Desmond|1950
+426|Carlo Pedretti|
+427|Aristotle|
+428|Yuval Noah Harari|1976
+429|Graham A. Webb|
+430|Berdell R. Funke|
+431|Christine L. Case|1948
+432|Plato|
+433|James Allen|1864
+434|老子|
+435|Marcus Aurelius|
+436|Friedrich Nietzsche|1844
+437|Okakura Kakuzō|1863
+438|Blaise Pascal|1623
+439|Philippe Sellier|
+440|William Finlayson Trotter|1871
+441|T. S. Eliot|1888
+442|Blaise Perier|
+443|Margival Henri|
+444|H. F. Stewart|
+445|James George Frazer|1854
+446|David Hume|1711
+447|Ayn Rand|1905
+448|classics jifara|
+449|Spectrum Spectrum Classics|
+450|Montaigne, Michel de|1533
+451|Thomas Aquinas|
+452|Kennedy, Daniel Joseph, 1862-1930|
+453|Όμηρος|
+454|Kahlil Gibran|1883
+455|Clement Clarke Moore|1779
+456|William Wordsworth|1770
+457|Luís de Camões|1524
+458|Souza Botelho|
+459|Gertrude Stein|1874
+460|Charles Baudelaire|1821
+461|Jean de La Fontaine|1621
+462|Robert Burns|1759
+463|Andrew Lang|1844
+464|Alfred Lord Tennyson|1809
+465|Anonymous|
+466|Samuel Johnson|1709
+467|Salvatore Quasimodo|1901
+468|Editorial Editorial World|
+469|Robert Robert Thompson|
+470|Roald Dahl|1916
+471|Susan Coolidge|1835
+472|Jessie Mcdermot|
+473|Suzanne Collins|1962
+474|Henrik Ibsen|1828
+475|Markus Zusak|1975
+476|Friedrich de la Motte-Fouqué|1777
+477|Friedrich Heinrich Kar La Motte-Fouqué|
+478|Rick Riordan|1964
+479|C. S. Forester|1899
+480|C. S. Forrester|
+481|c.s. forester|
+482|John Boyne|1971
+483|Neil Gaiman|1960
+484|Eoin Colfer|1965
+485|Christopher Paolini|1983
+486|G. A. Henty|1832
+487|Veronica Roth|1988
+488|Ursula K. Le Guin|1929
+489|Louis Sachar|1954
+490|John Green|1977
+491|Daniel Keyes|1927
+492|Dodie Smith|1896
+493|Danide|
+494|Núria Pradas|
+495|Carmen Gil|
+496|Bram Stoker|
+497|Juan Antonio Molina Foix|
+498|Mario Montalbán|
+499|Leonard Wolf|
+500|ClassyBookRead|
+501|BRAM STOCKER|
+502|BRAM STOKER|
+503|Anna Gasol Trullols|
+504|Destinyalready Creative Writing Ink|
+505|Bram Stroker|
+506|Fay Weldon|1931
+507|Bram Stoker.|
+508|Bess Georges|
+509|Alba Pagán|
+510|David Stuart Davies|1946
+511|David Rogers|
+512|A. R. S. BEL|
+513|Ferdinand Du Chevalier|
+514|Abraham Stoker|
+515|Sarah Prescott|
+516|Alex Rouse|
+517|Bram Stoke|
+518|A. Nessi|
+519|Bram Stoker|
+520|Sheridan Le Fanu|1814
+521|Arthur Machen|1863
+522|Bram Bram Stoker|
+523|Sax Rohmer|1883
+524|Saki|1870
+525|Guy de Maupassant|1850
+526|Michael Sims|1958
+527|Varla Ventura|
+528|James Anderson Foster|
+529|E. F. Benson|1867
+530|Paul Boehmer|
+531|Gabrielle de Cuir|1954
+532|Kate Orsini|
+533|Bram StokerDracula's Guest is a short story by Bram Stoker and published in the short story collection Dracula's Guest and Other Weir|
+534|Najam Saqib|
+535|Luis Angel O. E.|
+536|Bram Stocker|
+537|M. Kellermeyer|
+538|Stoker Bram|
+539|Shanower Eric|
+540|Michael Sims|
+541|John William Polidori|1795
+542|Algernon Blackwood|1869
+543|Ambrose Bierce|1842
+544|A Bierce|
+545|William Peter Blatty|1928
+546|Peter Straub|1943
+547|Dan Brown|1964
+548|Ian Fleming|1908
+549|Ken Follett|1949
+550|John Grisham|1955
+551|Michael Crichton|1942
+552|Edgar Wallace|1875
+553|Daphne du Maurier|1907
+554|Patricia Cornwell|1956
+555|Thomas Harris|1940
+556|Peter Benchley|1940
+557|James Patterson|1947
+558|Maj Sjöwall|1935
+559|Per Wahlöö|1926
+560|Joseph Murphy|1898
+561|Norman Vincent Peale|1898
+562|Sylvia S. Mader|
+563|Mader|
+564|MADER|
+565|Michael Windelspecht|
+566|Claude M. Bristol|1891
+567|Robert Greene|1959
+568|David J. Pelzer|
+569|Malcolm Gladwell|1963
+570|Oliver Sacks|1933
+571|Elizabeth Gilbert|1969
+572|Jeffrey Weeks|1945
+573|Jordan B. Peterson|1962
+574|Geoff Blackwell|
+575|Ruth Hobday|
+576|Jay Shetty|1987
+577|Jack Canfield|1944
+578|Dave Barry|1947
+579|Jack Canfield|
+580|Marci Shimoff|
+581|Mark Victory Hansen|
+582|Jennifer Read Hawthorne|
+583|Mark Victor Hansen|1948
+584|Carren Strock|
+585|Neville Goddard|1905
+586|Robin S. Sharma|1964
+587|Marion Milner|1900
+588|Mary-Lou Galician|
+589|Annie Payson Call|1853
+590|Lori Gottlieb|
+591|Jen Sincero|1965
+592|Laura Archera Huxley|1911
+593|Gavin de Becker|1954
+594|Margaret A. Boden|1936
+595|Paul Tillich|1886
+596|Ichirō Kishimi|1956
+597|Fumitake Koga|
+598|Mark Manson|1984
+599|Carlos Ramos Malavé|
+600|Emily Nagoski|1977
+601|Blanca González Villegas|
+602|Brian Tracy|1944
+603|Judith Butler|1956
+604|J. Butler|
+605|Henry Cloud|
+606|John Sims Townsend|1952
+607|Henry O. Arnold|
+608|Alan Barker|1956
+609|Adrian Barton|
+610|J. Mark G. Williams|1952
+611|Ann C. Crouter|
+612|Alan Booth|
+613|Li, Hongzhi|1951
+614|Li Hongzhi|
+615|Ziulian Dafa|
+616|Napoleon Hill|1883
+617|P. T. Barnum|1810
+618|P. T. Barnum|
+619|John Woods|
+620|Russell Herman Conwell|1843
+621|Robert Shackleton - undifferentiated|
+622|John Wanamaker|1838
+623|Robert Collier|
+624|John Wanamaker|
+625|George S. Clason|1874
+626|Thorstein Veblen|1857
+627|Ford, Henry|1863
+628|Henry Ford|
+629|Samuel Crowther|1880
+630|Henry, Ford|
+631|Ford Henry 1863-1947|
+632|Mrs Henry Ford|
+633|E. Kalita|
+634|Ford, Henry, Crowther, Samuel|
+635|Henry Henry Ford|
+636|Samuel Crowther|
+637|Charles F. Haanel|1866
+638|Ruth L. Miller|
+639|Donald Gordon Carty|
+640|Mauricio Chaves Mesén|
+641|Helmar Rudolph|
+642|Joe Vitale|1953
+643|Oliver Jesberger|
+644|Adam Smith|1723
+645|Jean Pierre Félicien Mallefille|1813
+646|Carter Godwin Woodson|1875
+647|George G.M. James|
+648|Beryl T. Atkins|
+649|HarperCollins|
+650|Alain Duval|
+651|Robert Collins - undifferentiated|
+652|Collectif|
+653|Robert Staff|
+654|Frances Ilingworth|
+655|Collins-Robert|
+656|Collins Robert Staff|
+657|Staff of Dictionnaires Robert|
+658|Rosemary Milne|
+659|Pierre-Henri Cousin|
+660|Helene M. A. Lewis|
+661|Lorna A. Sinclair|
+662|Renee O. Birks|
+663|Marie-Noelle Lamy|
+664|B. T. S. Atkins|
+665|Paul Robert|
+666|Collins|
+667|Collins Publishers|
+668|Rosemary C. Milne|
+669|Michela Clari|
+670|Martyn Back|
+671|Jean-François Allain|1948
+672|Collectif Lorna Knight|
+673|T|
+674|-|
+675|Edwin Lefèvre|1871
+676|Price Tim|
+677|Roger Lowenstein|
+678|Richard Richard Wyckoff|
+679|Richard D. Wyckoff|
+680|Richard D. Wyckoff|
+681|Jerry J. Weygandt|1942
+682|Stephen R. Covey|1932
+683|Sean Covey|1964
+684|Steven D. Levitt|1967
+685|Stephen J. Dubner|
+686|Andrea Montero Cusset|
+687|Walter Isaacson|1952
+688|Benjamin Graham|1894
+689|Jason Zweig|
+690|Atsuhiro Dokō|
+691|Kazumi Masuzawa|
+692|Miwa Niimi|
+693|Warren Buffett|1930
+694|Yonatan Bar|
+695|Kenneth C. Laudon|1944
+696|Arthur Hailey|1920
+697|Edward G. Martin|
+698|Charles S. Parker|1945
+699|Charles E. Kee|
+700|Andrew Carnegie|1835
+701|Peter F. Drucker|1909
+702|Joseph A. Maciariello|
+703|Jim Collins|
+704|Tim Andres Pabon|
+705|Zachary First|
+706|Joseph Alois Schumpeter|1883
+707|Stephen Haag|
+708|Simone de Beauvoir|1908
+709|Patrick O'Brian|1914
+710|José Bianco|
+711|Joan Oliver|
+712|Margarete Kraft|1944
+713|Timothy Ferriss|1977
+714|James M. Kouzes|1945
+715|Barry Z. Posner|
+716|Elaine Biech|
+717|Barry Posner|
+718|Barbara Taylor Bradford|1933
+719|Truman Capote|1924
+720|John Berendt|1939
+721|John E. Douglas|1945
+722|Mark Olshaker|1951
+723|Jon Krakauer|1954
+724|David Grann|1967
+725|Luis Murillo Fort|
+726|Magdalen Nabb|1947
+727|Douglas Preston|1956
+728|Mario Spezi|
+729|David Simon|1960
+730|Martin Dugard|
+731|Scott B. MacDonald|
+732|Scott MacDonald|1942
+733|Jane E. Hughes|
+734|Donald Rumbelow|
+735|T. J. English|1957
+736|T. J. English|
+737|T. J. English|
+738|Owen Beattie|
+739|O. Beattie|
+740|J. Geiger|
+741|John Geiger|1960
+742|Jimmy Breslin|1928
+743|Dick Lehr|
+744|Gerard O'Neill|
+745|Sandra Harmon|
+746|Roberto Saviano|1979

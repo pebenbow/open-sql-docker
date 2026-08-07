@@ -1,0 +1,500 @@
+1|9787511024831|Pride and Prejudice|1|2017|456|eng|Paperback
+2|9780575043329|Alice's Adventures in Wonderland|2|1988|158|eng|Paperback
+3|9781978127074|Christmas Carol|3|2017|120|eng|Paperback
+4|9789815204230|The Picture of Dorian Gray|4|2024|219|eng|Paperback
+5|9781535297127|Emily Brontë|3|2016|150|eng|Paperback
+6|9781080829637|Adventures of Huckleberry Finn||2019||eng|Paperback
+7|9798525080881|Illustrated Scarlet Letter|5|2021|273|eng|Paperback
+8|9780553213737|Robinson Crusoe (Bantam Classic)|6|1982|278|eng|Paperback
+9|9781544792378|Hamlet|3|2017|174|eng|Paperback
+10|9780141199528|Emma|7|2012|496|eng|Paperback
+11|9788307010540|Przygody Oliwera Twista|8|1985|447|eng|Paperback
+12|9781774530511|Frankenstein|9|2020|242|eng|eBook
+13|9780241734872|Sense and Sensibility|10|2025|432|eng|Paperback
+14|9798598606681|Tale of Two Cities by Charles Dickens|5|2021||eng|Paperback
+15|9780789444448|Young Classics|11|2001|48|eng|Hardcover
+16|9781984916129|Treasure Island|3|2018|208|eng|Paperback
+17|9786052492840|Dracula|12|2021|404|eng|Paperback
+18|9781423652113|Little Women|13|2019|507|eng|Hardcover
+19|9781978181151|Macbeth (Annotated)|3|2017|100|eng|Paperback
+20|9786071642158|Viajes de Gulliver|14|2016|516|eng|Paperback
+21|9781673349511|The Call of the Wild|15|2019|108|eng|Paperback
+22|9781511571845|König Lear / King Lear|3|2015|100|ger|Paperback
+23|9781540383198|Secret Garden Frances Hodgson Burnett|3|2016|246|eng|Paperback
+24|9798602784480|Don Quixote|5|2020||eng|Paperback
+25|9781727475883|Madame Bovary|3|2018|726|eng|Paperback
+26|9781581735871|The Art of War|16|2007|383|eng|Paperback
+27|9781778786754|Midsummer Night's Dream|17|2024|88|eng|Hardcover
+28|9781405880350|Peguin Readers 6|18|2008||eng|Paperback
+29|9781975704087|Julius Caesar|3|2017|80|eng|Paperback
+30|9781774537923|A Study in Scarlet|9|2022|159|eng|eBook
+31|9780553212785|The Prince|19|2003|176|eng|Paperback
+32|9781529095906|Through the Looking-Glass|20|2025|224|eng|Paperback
+33|9781312899148|Wind in the Willows|21|2015|192|eng|Paperback
+34|9781607109914|The Divine Comedy|22|2013|600|eng|Paperback
+35|9786071414939|Ana Karenina. Prologo con resena critica de la obra, vida y obra del autor, y marco historico.|23|2013|695|eng|Paperback
+36|9781648333293|The Hound of the Baskervilles|24|2022|185|eng|Paperback
+37|9781790312924|Anne of Green Gables|5|2018||eng|Paperback
+38|9781493599110|Persuasion||2013|174|eng|Paperback
+39|9780199536405|The great Gatsby|25|2008|151|eng|Paperback
+40|9781546458555|Crime and Punishment|3|2017|108|eng|Paperback
+41|9781774537916|The Adventures of Sherlock Holmes|9|2022|337|eng|eBook
+42|9781523994311|Piedra Lunar|3|2016|344|eng|Paperback
+43|9788417079390|THE SIGN OF THE FOUR|26|2017|128|eng|Paperback
+44|9780582430297|The Woman in White|27|2000|462|eng|Paperback
+45|9781725129177|Story of the Amulet|3|2018|216|eng|Paperback
+46|9781541245259|Invisible Man|3|2016|192|eng|Paperback
+47|9788490019382|The return of Sherlock Holmes|28|2015|386|eng|Paperback
+48|9798504489995|Memoirs of Sherlock Holmes by Sir Arthur Ignatius Conan Doyle|5|2021|305|eng|Paperback
+49|9789992487297|The Strange Case of Dr. Jekyll and Mr. Hyde|29|1990|238|eng|Hardcover
+50|9781729605820|Secret Agent|3|2018|502|eng|Paperback
+51|9788490019351|The case book of Sherlock Holmes|28|2015|296|eng|Paperback
+52|9788481942743|TOM SAWYER|30|1999|104|eng|Paperback
+53|9781548800253|Old Man in the Corner|3|2017|214|eng|Paperback
+54|9781727294613|Gold-Bug|3|2018|38|eng|Paperback
+55|9788467053647|El misterio de la guía de ferrocarriles|31|2018|272|eng|Paperback
+56|9781725530935|Purloined Letter|3|2018|546|eng|Paperback
+57|9780385006897|The Complete Sherlock Holmes|32|1970|1122|eng|Hardcover
+58|9788374703727|Gleboki sen|33|2018|192|eng|Paperback
+59|9789752107502|Cenazeden Sonra|34|2006|320|eng|Paperback
+60|9788408213871|Los elefantes pueden recordar|35|2019|224|eng|Paperback
+61|9781414272801|Scarhaven Keep|36|2004|220|eng|Hardcover
+62|9780385678834|The Curious Incident of the Dog in the Night-Time|37|2012|242|eng|Paperback
+63|9780445031883|Murder in three acts|38|1975|175|eng|Paperback
+64|9780671776084|Nemesis|39|1973|229|eng|Paperback
+65|9780063376892|Hallowe'en Party : A Hercule Poirot Mystery|40|2025|272|eng|Paperback
+66|9788327151087|Spotkanie w Bagdadzie|41|2014|256|eng|Paperback
+67|9788483001608|LA CURSA DEL BUMERANG|42|1996|1|eng|Paperback
+68|9783896045720|The Green Mile|43|2000|272|eng|Paperback
+69|9780316067928|Breaking dawn|44|2008|756|eng|Paperback
+70|9780582426993|Emil and the Detectives (Penguin Readers, Level 3)|45|2001|51|eng|Paperback
+71|9788327150981|Entliczek pentliczek|41|2015|180|eng|Paperback
+72|9781979335331|Box-Car Children by Gertrude Chandler Warner|3|2017|62|eng|Paperback
+73|9781444937749|The Famous Five|46|2016|182|eng|Paperback
+74|9789752120501|Sonsuz Gece|47|2015|248|eng|Paperback
+75|9780140185386|The Confidential Agent|48|1992|208|eng|Paperback
+76|9780099521273|The Red House Mystery (Vintage Classics)|49|2009|224|eng|Paperback
+77|9780745162607|Nine Tailors (Lord Peter Wimsey Mysteries)|50|1992||eng|Audiobook
+78|9781499181890|The Time Machine|3|2014|80|eng|Paperback
+79|9788845251603|Il mondo perduto|51|2002||eng|Paperback
+80|9780375712364|Brave New World|52|2013||eng|Paperback
+81|9781406927252|The Jewel of Seven Stars|53|2006|178|eng|Paperback
+82|9780704347007|Herland (A Women's Press Classic)|54|2001|176|eng|Paperback
+83|9798744519681|Iron Heel|5|2021|155|eng|Paperback
+84|9780465011230|The annotated flatland|55|2008|239|eng|Paperback
+85|9781976304699|1984|3|2017|232|eng|Paperback
+86|9798624963269|Princess and Curdie|5|2020||eng|Paperback
+87|9780060791247|The War of the Worlds Adventure Classic (Adventure Classics)|56|2005|240|eng|Paperback
+88|9780345331380|A Princess of Mars (Mars (del Rey Books Numbered))|57|1985|160|eng|Paperback
+89|9781548600587|Napoleon of Notting Hill|3|2017|160|eng|Paperback
+90|9781840224030|The Last Man (Wordsworth Classics) (Wordsworth Classics)|58|2004|432|eng|Paperback
+91|9781548312459|Around the World in Eighty Days|59|2017|122|eng|Paperback
+92|9780345324535|Warlord of Mars  (Del Rey Books) (Mars (del Rey Books Numbered))|60|1985|30|eng|Paperback
+93|9781774022382|Twenty Thousand Leagues Under The Sea|61|2025|501|eng|Hardcover
+94|9780140433722|The Blazing World and Other Writings|48|1994|272|eng|Paperback
+95|9780521422338|Morris|62|1995|263|eng|Paperback
+96|9781537125855|The Poison Belt|3|2016|76|eng|Paperback
+97|9780345324399|Gods of Mars (Mars (del Rey Books Numbered))|57|1985|30|eng|Paperback
+98|9781835912690|Chessmen of Mars|63|2023|212|eng|Paperback
+99|9781722101138|Machine Stops|3|2018|36|eng|Paperback
+100|9782377350384|L'île du Docteur Moreau|64|2017||eng|Paperback
+101|9781481276351|Gulliver of Mars|3|2012|124|eng|Paperback
+102|9781426475382|After London (Large Print Edition)|65|2007|254|eng|Paperback
+103|9781406521580|The Coming Race (Dodo Press)|66|2007|152|eng|Paperback
+104|9780329046491|Fahrenheit 451|67|1993|190|eng|Paperback
+105|9781514177679|Wood Beyond the World|3|2015|106|eng|Paperback
+106|9781725198845|King of the Golden River or the Black Brothers a Legend of Stiria|3|2018|48|eng|Paperback
+107|9781545391532|The Moon Pool|59|2017|234|eng|Paperback
+108|9781482565317|At the Earth`s Core|3|2013|130|eng|Paperback
+109|9781725502109|In the Days of the Comet|3|2018|240|eng|Paperback
+110|9781720430810|WE, Yevgeny Zamyatin|3|2018|112|eng|Paperback
+111|9782743454661|De la Terre à la Lune|68|2005|254|fre|Paperback
+112|9780060537241|Five Children and It Book and Charm (Charming Classics)|56|2004|246|eng|Paperback
+113|9780722175125|Princess and the Goblin|69|1971|496|eng|Paperback
+114|9781542937528|Marvelous Land of Oz; Being an Account of the Further Adventures of the Scarecrow and Tin Woodman ... a Sequel to the Wizard of Oz (Illustrated)|3|2017|312|eng|Paperback
+115|9781985385986|Ozma of OzA Record of Her Adventures with Dorothy Gale of Kansas, the Yellow Hen, the Scarecrow, the Tin Woodman, Tiktok, the Cowardly Lion, and the Hungry Tiger; Besides Other Good People Too Numero|70|2018|120|eng|Paperback
+116|9781494975081|Piccolo Principe|3|2014|96|eng|Paperback
+117|9781542550116|Emerald City of Oz Lyman Frank Baum|3|2017|130|eng|Paperback
+118|9781539149804|Dorothy and the Wizard in Oz|3|2016|152|eng|Paperback
+119|9781522857693|Lost Princess of Oz|3|2015|108|eng|Paperback
+120|9781592240036|The Complete Life and Adventures of Santa Claus|71|2002|148|eng|Hardcover
+121|9781441344953|Alice's Adventures in Wonderland and Through the Looking Glass (Masterpiece Library Edition)|72|2024|240|eng|Hardcover
+122|9781727690422|Road to Oz|3|2018|128|eng|Paperback
+123|9781421817880|The Sea Fairies|73|2006|192|eng|Hardcover
+124|9780929605753|Baum's American Fairy Tales|74|1997|176|eng|Paperback
+125|9781406536713|Sky Island (Dodo Press)|66|2007|176|eng|Paperback
+126|9781727101027|Scarecrow of Oz|3|2018|90|eng|Paperback
+127|9781722803544|Patchwork Girl of Oz : Published In|75|2018|132|eng|Paperback
+128|9780345282354|The Magic of Oz|57|1981|256|eng|Paperback
+129|9781495215209|Tik-Tok of Oz|3|2014|162|eng|Paperback
+130|9781421933498|Rinkitink in Oz|36|2006|156|eng|Paperback
+131|9780345339683|The Hobbit|76|1937|306|eng|Paperback
+132|9781725531970|Enchanted Castle|3|2018|186|eng|Paperback
+133|9786057762092|Fantastes|77|2019|256|eng|Paperback
+134|9781406500790|The Tin Woodman of Oz|66|2005|144|eng|Paperback
+135|9781414215570|Glinda of Oz|78|2004|136|eng|Paperback
+136|9780929605623|The Magic City|79|1996|256|eng|Hardcover
+137|9780956613660|Peter and Wendy|80|2011|220|eng|Paperback
+138|9781853261558|Phoenix and the Carpet (Wordsworth Children's Classics) (Wordsworth Children's Classics)|58|1999|224|eng|Paperback
+139|9780141305370|Jane Eyre|81|1999|1|eng|Paperback
+140|9781481968867|Northanger Abbey|82|2014|180|eng|Paperback
+141|9781609422943|Ethan Frome|83|2010|104|eng|Paperback
+142|9781404327542|Room With A View, A|78|2002|228|eng|Hardcover
+143|9789753203203|The Count of Monte Cristo|84|2000|152|eng|Paperback
+144|9781723528347|Riders of the Purple Sage, the Unabridged Western Classic : (RGV Old West Classic)|3|2018|222|eng|Paperback
+145|9780861161348|Uncle Tom's Cabin|85|1979|212|eng|Paperback
+146|9781800760035|Side of Paradise|86|2020|200|eng|Paperback
+147|9781540804136|Women in Love|3|2016|782|eng|Paperback
+148|9789753204767|Heart of Darkness|87|2012|136|eng|Paperback
+149|9780451525840|She|88|1994|352|eng|Paperback
+150|9781975879082|Howards End|3|2017|468|eng|Paperback
+151|9781582870236|Cranford|89|1998|205|eng|Hardcover
+152|9781503115521|Portrait of a Lady|3|2014|426|eng|Paperback
+153|9780333047491|Jude the Obscure|90|1957|424|eng|Paperback
+154|9781537150253|Under the Greenwood Tree|3|2016|206|eng|Paperback
+155|9782035844491|Le Rouge et le Noir|91|2009||eng|Paperback
+156|9781521965320|Woodlanders|5|2017||eng|Paperback
+157|9798630593900|Pioneers Annotated the Adventure Historical Book|5|2020|473|eng|Paperback
+158|9781727688252|Lone Star Ranger : a Romance of the Border|3|2018|174|eng|Paperback
+159|9781516940677|Ghost|3|2015|100|eng|Paperback
+160|9781729504338|Framley Parsonage|3|2018|420|eng|Paperback
+161|9781398813670|Age of Innocence|92|2024|320|eng|Paperback
+162|9781847498656|Daisy Miller|93|2021|101|eng|Paperback
+163|9788378393962|Ambasadorowie|94|2012|664|eng|Hardcover
+164|9781450577694|Washington Square|95|2010|128|eng|Paperback
+165|9788327151001|Poirot prowadzi sledztwo|41|2014|166|eng|Paperback
+166|9781591940449|The Return of the Native (Townsend Library Edition)|96|2005|136|eng|Paperback
+167|9788324589333|Smierc na Nilu|97|2015|336|eng|Paperback
+168|9780307390950|Doctor Zhivago|98|2011|673|eng|Paperback
+169|9781523849918|Fifty Shades of Grey|3|2016|354|eng|Paperback
+170|9780393042740|Pride and Prejudice|99|1970|450|eng|Paperback
+171|9798855090963|Twilight|100|2005|498|eng|Paperback
+172|9788324030910|Trzej muszkieterowie|101|2014|688|eng|Hardcover
+173|9781725153998|The adventures of Tom Sawyer|59|2018|212|eng|Paperback
+174|9782277229902|Le dernier des Mohicans|102|1999|484|eng|Paperback
+175|9788772475080|David Copperfield|103|1997|64|eng|Hardcover
+176|9781537428420|The Prince and the Pauper|3|2016|184|eng|Paperback
+177|9781539952916|Upton Sinclair - the Jungle|3|2016|142|eng|Paperback
+178|9781535299534|War And Peace|3|2016|498|eng|Paperback
+179|9781517511241|The Red Badge of Courage|3|2015|152|eng|Paperback
+180|9780812520767|O Pioneers! (Tor Classics)|104|1992|192|eng|Paperback
+181|9781721068074|Ulysses|3|2018|562|eng|Paperback
+182|9781034234869|La Pimpinela Escarlata|105|2021|316|eng|Paperback
+183|9798739808493|His Last Bow : (First New York Library)|5|2021|164|eng|Paperback
+184|9788377790014|Shirley|106|2011|640|eng|Hardcover
+185|9781467797894|Misérables|107|2015|1332|eng|Paperback
+186|9782019198800|Oeil-de-Faucon, tueur de daims|108|2018|334|eng|Paperback
+187|9781578400638|Ivanhoe (Classics Illustrated)|109|1997|64|eng|Paperback
+188|9781594626197|Knickerbocker's History of New York|110|2007|260|eng|Paperback
+189|9780341831358|The House of Seven Gables|111|2018|340|eng|Hardcover
+190|9781577487777|Quo Vadis|112|2000|496|eng|Paperback
+191|9781974366781|Orlando|3|2017|86|eng|Paperback
+192|9781976355684|Golden Asse|3|2017|116|eng|Paperback
+193|9781516901753|The Red Badge of Courage|3|2015|126|eng|Paperback
+194|9781502865106|The Idiot [Large Print Unabridged Edition]|113|2015|814|eng|Paperback
+195|9781095033852|Walden|5|2019|175|eng|Paperback
+196|9781974384594|Narrative of the Life of Frederick Douglass|3|2017||eng|Paperback
+197|9782940426270|Douze ans d'esclavage|114|2013|288|eng|Paperback
+198|9781535565462|Dubliners (Original World's Classics)|3|2016|164|eng|Paperback
+199|9781537591230|Troilus and Cressida|3|2016|190|eng|Paperback
+200|9788472540460|CAPÌTANES INTRÉPIDOS|115|2021|202|eng|Paperback
+201|9780395083567|My Antonia|116|1954|372|eng|Paperback
+202|9788491816966|Hojas de hierba|117|1969|171|spa|Paperback
+203|9781548760106|Metamorphoses of Publius Ovidus Naso in English Blank Verse Vols. I and II|3|2017|608|eng|Paperback
+204|9781547702060|The Canterbury Tales|118|2019|321|eng|Paperback
+205|9780371914885|Pilgrim's Progress from This World to That Which Is to Come Delivered under the Similitude of a Dream|119|2020|494|eng|Paperback
+206|9781435109292|The Autobiography of Benjamin Franklin|120|2008||eng|Paperback
+207|9781722504540|Complete Sonnets|121|2024|116|eng|Paperback
+208|9781517567873|Life of King Henry V|3|2015|156|eng|Paperback
+209|9781508764304|Second Jungle Book : (Rudyard Kipling Classics Collection)|3|2015|146|eng|Paperback
+210|9781419166297|The History Of Rome|122|2004|324|eng|Paperback
+211|9781519569271|The Tenant of Wildfell Hall|3|2015|332|eng|Paperback
+212|9781500923815|Orthodoxy|3|2014|156|eng|Paperback
+213|9780755100248|Saint Francis of Assisi (Chesterton's Biographies)|123|2000|86|eng|Paperback
+214|9788437222301|El libro de la selva|124|1998|95|eng|Paperback
+215|9781542981583|My Bondage and My Freedom|3|2017|350|eng|Paperback
+216|9781420954548|The Metamorphoses|125|2017|498|eng|Paperback
+217|9781727799811|At the Back of the North Wind|3|2018|268|eng|Paperback
+218|9781490928760|Lilith|3|2013|290|eng|Paperback
+219|9781983645686|Man Who Would Be King|3|2018|40|eng|Paperback
+220|9783886193226|Das Kommunistische Manifest|126|2019|80|eng|Paperback
+221|9781406955804|The Confessions of St. Augustine|53|2006|180|eng|Paperback
+222|9780192835628|Up from Slavery|127|2000|240|eng|Paperback
+223|9781494810184|Roughing It|3|2013|368|eng|Paperback
+224|9780820704043|"""Paradise Lost"|128|2007|680|eng|Hardcover
+225|9781454959762|Incidents in the Life of a Slave Girl|129|2025|248|eng|Paperback
+226|9780340909539|Holy Bible|130|2006|1280|eng|Paperback
+227|9781547092031|Three Men in a Boat|3|2017|264|eng|Paperback
+228|9781475172577|Taming of the Shrew|3|2012|88|eng|Paperback
+229|9782413019756|Moby Dick|131|2021|48|eng|Hardcover
+230|9781725862135|Fortunes and Misfortunes of the Famous Moll Flanders &c|3|2018|284|eng|Paperback
+231|9781496007063|Candide|3|1918|76|eng|Paperback
+232|9788429752212|Temps difícils|132|2002|480|eng|Paperback
+233|9781541160019|Legend of Sleepy Hollow Washington Irving|3|2016|32|eng|Paperback
+234|9781499217780|Romeo and Juliet|3|2014|158|eng|Paperback
+235|9780801850554|On the Nature of Things|133|1995|312|eng|Paperback
+236|9781236710482|Two Years Before the Mast|134|2013||eng|Paperback
+237|9780618758463|Houghton Mifflin Science California|135|2006||eng|Paperback
+238|9780143107545|The Histories|48|2015|880|eng|Paperback
+239|9781987499254|On the Origin of Species By Means of Natural Selection|3|2018|90|eng|Paperback
+240|9780618623600|Houghton Mifflin Science Leveled Readers|135|2005||eng|Paperback
+241|9780120206483|Advances in Heterocyclic Chemistry|136|1990|393|eng|Hardcover
+242|9783752318920|The Principal Navigations, Voyages, Traffiques and Discoveries...|137|2020|560|eng|Paperback
+243|9780471718710|Principles of Anatomy and Physiology|138|2005|1146|eng|Paperback
+244|9780674992702|Plutarch|139|1931|608|eng|Hardcover
+245|9781428023116|Essays|78|2006|172|eng|Hardcover
+246|9782013066624|Histoire naturelle, générale et particuliére|140|2018|630|eng|Paperback
+247|9781725173941|Mutual Aid|3|2018|200|eng|Paperback
+248|9782091808345|Discours de la méthode|141|1998|143|eng|Paperback
+249|9781542706988|Book of the Damned (1919) by Charles Fort|3|2017|202|eng|Paperback
+250|9780345413352|The Golden Compass|57|1997|351|eng|Paperback
+251|9780102734959|1st Report [Session 1994-95]|142|1994|93|eng|Paperback
+252|9781534887404|Creative Evolution|3|2016|136|eng|Paperback
+253|9788466401838|HISTORIA DEL TEMPS -|42|2002|1|eng|Paperback
+254|9782870093344|Système de logique|143|1995|561|eng|Paperback
+255|9780123645036|International Review of Cytology|144|1986|396|eng|Hardcover
+256|9780543842800|Goethes Werke|145|2002|536|ger|Paperback
+257|9781134026807|ABC of Relativity|146|2009|168|eng|Paperback
+258|9783322983190|Über die Spezielle und Allgemeine Relativitätstheorie|147|1963|113|eng|Paperback
+259|9780123943057|International Review of Cell and Molecular Biology|148|2012|340|eng|Paperback
+260|9780102494969|4th Report [Session 1995-96]|142|1996|182|eng|Paperback
+261|9780716726043|An Introduction to Genetic Analysis|149|1996|916|eng|Hardcover
+262|9781863170819|Leonardo Da Vinci|150|2001|168|eng|Paperback
+263|9780674992818|Aristotle: The Physics|139|2006|464|eng|Hardcover
+264|9780099590088|Sapiens|98|2015|498|eng|Paperback
+265|9780080551944|Annual reports on NMR spectroscopy|151|2007||eng|eBook
+266|9781521861028|New Atlantis|15|2017|48|eng|Paperback
+267|9780134605180|Microbiology|18|2018|960|eng|Hardcover
+268|9780857860217|Notes from Underground|152|2012|160|eng|Paperback
+269|9783730607312|Der Staat|153|2019|480|eng|Hardcover
+270|9781523642892|As a Man Thinketh - James Allen|3|2006|64|eng|Paperback
+271|9781973775133|Tao Te Ching|3|2017|84|eng|Paperback
+272|9780345472373|Meditations|154|2004|226|eng|Paperback
+273|9781719479271|Thus Spake Zarathustra|3|2018|362|eng|Paperback
+274|9780915145676|Aristotle|155|1995|650|eng|Paperback
+275|9798739484697|Book of Tea : (Annotated Edition)|5|2021|52|eng|Paperback
+276|9781795245128|On Liberty|5|2019||eng|Paperback
+277|9780672602566|Nicomachean Ethics|156|1962|316|eng|Paperback
+278|9781545323304|Beyond Good and Evil|3|2017|134|eng|Paperback
+279|9781721698783|Pensees|3|2018|806|eng|Paperback
+280|9781406834604|The Antichrist|157|2006|68|eng|Paperback
+281|9781512035230|Golden Bough - Volume II|158|2015|282|eng|Paperback
+282|9788026859420|Das Gastmahl : Gespräch über Liebe und Erotik|159|2018|44|eng|Paperback
+283|9781511815154|Dialogues Concerning Natural Religion|158|2015|82|eng|Paperback
+284|9781495270291|An Essay on Man|3|2014|136|eng|Paperback
+285|9781565115477|Anthem|160|2002|150|eng|Audiobook
+286|9782207123676|A Room of One's Own|161|2016||eng|Paperback
+287|9788496834170|Los ensayos|162|2007|1782|spa|Hardcover
+288|9789753854290|Phaedo - Sokrates'in Olumu|163|2015|94|eng|Paperback
+289|9781499102024|Problems of Philosophy : (Bertrand Russell Masterpiece Collection)|3|2014|90|eng|Paperback
+290|9780521821407|Aquinas|62|2006|342|eng|Hardcover
+291|9781449518615|On the Duty of Civil Disobedience|3|2009|30|eng|Paperback
+292|9780226470481|The Iliad of Homer|164|2011|608|eng|Paperback
+293|9780297871118|The Odyssey|165|1959|374|eng|Hardcover
+294|9780460001618|Virgil's Aeneid|166|1969|400|eng|Hardcover
+295|9780802016683|Faust, a tragedy|154|1950|258|eng|Paperback
+296|9780868521954|Prophet|167|1945|107|eng|Paperback
+297|9781406501018|Flower Fables|66|2005|108|eng|Paperback
+298|9780451531391|Inferno|168|2009|320|eng|Paperback
+299|9780517321058|The Night Before Christmas|169|1980|23|eng|Paperback
+300|9780806982779|Poetry for Young People|170|2003|48|eng|Hardcover
+301|9781360003405|Os Lusiadas|171|2016|304|eng|Hardcover
+302|9781406914511|Tender Buttons ObjectsFoodRooms|53|2006|132|eng|Paperback
+303|9782081279032|Les fleurs du mal|172|2012|374|eng|Paperback
+304|9782030345054|Fables Choisies (Livres 7 a 12, Tome II)|173|1971|178|eng|Paperback
+305|9781860192869|Robert Burns|174|1997|96|eng|Paperback
+306|9780460013840|Milton|175|1976|500|eng|Hardcover
+307|9781644453452|Paradiso|176|2025|472|eng|Paperback
+308|9788416365197|Cuentos de intriga y terror. El cuervo|177|2015|160|eng|Paperback
+309|9781974145805|Helen of Troy|59|2017|102|eng|Paperback
+310|9781115089067|Poems|178|2009||eng|Paperback
+311|9780143105657|The Song of the Cid|179|2009|254|eng|Paperback
+312|9781479217922|The Hunting Of The Snark|59|2012|52|eng|Paperback
+313|9780813007205|Aristotle's Poetics|180|1982|324|eng|Paperback
+314|9780342394920|History of Rasselas|111|2018|212|eng|Paperback
+315|9781421919553|Virgil's Georgics in English|36|2005|116|eng|Hardcover
+316|9781596881334|King Solomon's Mines (World Classics in Large Print: British Authors)|181|2010|284|eng|Paperback
+317|9781514296721|Fellowship of the Ring|3|2015|206|eng|Paperback
+318|9785937630148|A little princess|182|2010|317|eng|Paperback
+319|9788481471243|CHARLIE ETA TXOKOLATE-LANTEGIA - ZUBIA|183|2006|208|eng|Paperback
+320|9781406515299|What Katy Did Next (Illustrated Edition) (Dodo Press)|66|2007|156|eng|Paperback
+321|9780439023481|The Hunger Games|184|2008|374|eng|Hardcover
+322|9780439023498|Catching Fire|184|2009|391|eng|Hardcover
+323|9788200224969|Peer Gynt|185|1995|193|eng|Paperback
+324|9789132211676|Boktjuven|186|2019|1|eng|Paperback
+325|9789750713125|Undine|187|2011|112|eng|Paperback
+326|9782070601592|Sacrées sorcières|188|2016|240|eng|Paperback
+327|9780590542432|The Subtle Knife|184|1997|341|eng|Hardcover
+328|9780241777480|Percy Jackson and the Olympians|10|2025|400|eng|Paperback
+329|9781405936958|Hornblower in the West Indies|10|2018|384|eng|Paperback
+330|9781862302952|The Boy in the Striped Pyjamas|189|2007|216|eng|Paperback
+331|9780439023511|Mockingjay|184|2010|398|eng|Paperback
+332|9788418637407|Coraline|190|2021|160|eng|Hardcover
+333|9781594133541|Eclipse|191|2010|727|eng|Paperback
+334|9780670899623|Artemis Fowl|192|2001|277|eng|Paperback
+335|9798855101744|Eragon|100|2003|509|eng|Paperback
+336|9781594133305|New Moon|193|2009|649|eng|Paperback
+337|9781419111396|By Pike And Dyke A Tale Of The Rise Of The Dutch Republic|122|2004|288|eng|Paperback
+338|9789352751846|The Amber Spyglass|184|2022|560|eng|Paperback
+339|9798855115208|Divergent|100|2011|487|eng|Paperback
+340|9789753420570|Yerdeniz Buyucusu - Yerdeniz Uclemesi 1|194|2016|192|eng|Paperback
+341|9780030664120|"Holes (with ""Connections"") HRW Library (HRW library)"|195|2004|293|eng|Hardcover
+342|9780141381497|Percy Jackson and the Sea of Monsters|196|2006|288|eng|Paperback
+343|9780141355078|The fault in our stars|179|2014|336|eng|Paperback
+344|9781417630189|Flowers For Algernon|197|2004|320|eng|Paperback
+345|9788478889891|El castillo soñado|190|2005|384|eng|Hardcover
+346|9780497260804|The Mayor of Casterbridge (Webster's Chinese-Simplified Thesaurus Edition)|198|2006|392|eng|Paperback
+347|9780831766962|Frankenstein/Dracula|199|1995|528|eng|Hardcover
+348|9781541366916|Carmilla Joseph Sheridan le Fanu|3|2016|64|eng|Paperback
+349|9780312406912|The Turn of the Screw (Case Studies in Contemporary Criticism)|200|2003|386|eng|Paperback
+350|9781871592115|The Great God Pan (Creation Classics)|201|1991|128|eng|Paperback
+351|9781847022943|Dracula's Guest|157|2006|108|eng|Paperback
+352|9781419187827|The White People|122|2004|48|eng|Paperback
+353|9786257966887|Usher Evi’nin Çöküşü|202|2020|64|eng|Paperback
+354|9781603129381|Brood of the Witch-Queen|203|2007|172|eng|Hardcover
+355|9781408808252|Dracula's Guest|204|2010|480|eng|Hardcover
+356|9798617595620|Tales of Terror and Mystery|5|2020||eng|Paperback
+357|9781854770530|The Vampyre, 1819 (Revolution and Romanticism, 1789-1834)|205|1991|90|eng|Hardcover
+358|9781543240771|Tales of the Grotesque and Arabesque|3|2017|276|eng|Paperback
+359|9785170824403|Kerri|206|2014|320|eng|Hardcover
+360|9781421830179|The Damned|73|2006|108|eng|Paperback
+361|9780340920961|Misery|130|2006|384|eng|Paperback
+362|9780450032202|The Shining|207|1977|447|eng|Hardcover
+363|9789752121768|O|47|2000|1064|eng|Hardcover
+364|9780452261341|The Dark Tower|168|1988|224|eng|Paperback
+365|9780385182447|Pet Sematary|208|1983|374|eng|Hardcover
+366|9781501143816|The Dead Zone|209|1979|372|eng|Paperback
+367|9781548365189|In the Midst of Life; Tales of Soldiers and Civilians. by|3|2017|90|eng|Paperback
+368|9780886824778|The Masque of the Red Death|210|1991|32|eng|Hardcover
+369|9780450537370|The Stand|211|1991|1424|eng|Paperback
+370|9781848940680|Cujo|130|2010|300|eng|Paperback
+371|9780670315413|Firestarter|209|1980|428|eng|Hardcover
+372|9788412198867|L'exorcista|212|2021|416|eng|Hardcover
+373|9781417923472|The Haunted and the Haunters or the House and the Brain|122|2005|48|eng|Paperback
+374|9788483468005|La expedición|213|2008|368|eng|Paperback
+375|9780871917720|The Tell-Tale Heart|210|1980|31|eng|Hardcover
+376|9788483468746|La tienda|213|2009|960|eng|Paperback
+377|9780670691999|The Talisman|214|1984|644|eng|Hardcover
+378|9788378858058|Oczy smoka|215|2013|400|eng|Paperback
+379|9780385504201|The Da Vinci Code|32|2003|454|eng|Hardcover
+380|9780552148719|Angels & Demons|216|2001|620|eng|Paperback
+381|9780063298521|Casino Royale|40|2023|224|eng|Paperback
+382|9780195810875|From Russia with Love (Progress English)|25|1978|134|eng|Paperback
+383|9781561009381|Goldfinger (James Bond 007 (Nova))|217|1997|3|eng|Audiobook
+384|9780816191697|Live and Let Die/Cassettes|50|1990||eng|Hardcover
+385|9780385504225|The Lost Symbol|32|2009|509|eng|Hardcover
+386|9780142002032|Doctor No (James Bond Novels)|218|2002|240|eng|Paperback
+387|9780141028248|Diamonds are forever|179|2006|289|eng|Paperback
+388|9780688046590|The Pillars of the Earth|219|1989|973|eng|Hardcover
+389|9781852861759|The Spy Who Loved Me|220|1989|56|eng|Paperback
+390|9781517457570|Moonraker|3|2015|312|eng|Paperback
+391|9780451137081|You Only Live Twice (James Bond)|221|1965|1|eng|Paperback
+392|9788499300283|El gran engany|222|2009|576|eng|Paperback
+393|9780748703548|The Man with the Golden Gun (Bull's-eye S.)|223|1991|128|eng|Paperback
+394|9780745165363|Thunderball (James Bond Adventures)|50|1995||eng|Audiobook
+395|9781986835725|For Your Eyes Only|3|2018|260|eng|Paperback
+396|9780091365813|On Her Majesty's Secret Service|224|1979|127|eng|Paperback
+397|9789955134640|Skaitmeninė tvirtovė|225|2014|416|eng|Paperback
+398|9780922066728|A Time to Kill|226|1989|425|eng|Hardcover
+399|9781664626874|The Lost World|227|1999|1|eng|Audiobook
+400|9780684853505|Bag of Bones|228|1998|529|eng|Hardcover
+401|9781880418383|Wizard and Glass|229|1997|787|eng|Hardcover
+402|9780937986172|The Waste Lands|230|1991|512|eng|Hardcover
+403|9781848940956|Girl Who Loved Tom Gordon|130|2010|300|eng|Paperback
+404|9781976555572|Ringer|3|2017|394|eng|Paperback
+405|9781548009182|Scapegoat|3|2017|278|eng|Paperback
+406|9782702423271|Mémoires mortes|231|1993|315|eng|Paperback
+407|9780399124426|Red Dragon|232|1981|348|eng|Hardcover
+408|9780099537199|Street Lawyer|233|2013|368|eng|Paperback
+409|9781611297225|Jaws|234|2005|311|eng|Hardcover
+410|9780755300297|The Big Bad Wolf|235|2004|416|eng|Paperback
+411|9780007232833|Roseanna|236|2006|288|eng|Paperback
+412|9780340770702|From a Buick 8|237|2002|467|eng|Paperback
+413|9781639233694|Power of Your Subconscious Mind Hardcover|238|2008|128|eng|Paperback
+414|9789388118729|The Power of Positive Thinking|239|2018|242|eng|Hardcover
+415|9781259254161|Inquiry into Life|240|2016|848|eng|Paperback
+416|9782920000186|La Magie de Croire|241|1990|256|eng|Paperback
+417|9780733612275|Power|242|1999|182|eng|Paperback
+418|9780585101521|"A child called ""It"""|243|1995|184|eng|Paperback
+419|9781718629011|Blink|3|2018|278|eng|Paperback
+420|9781400040810|Musicophillia|244|2007|381|eng|Hardcover
+421|9788380626331|Wielka Magia|245|2019|336|eng|Paperback
+422|9780415039543|Sexuality (Key Ideas)|246|1986|128|eng|Paperback
+423|9788466424370|12 regles per viure|42|2018|496|eng|Hardcover
+424|9780473361341|I know this to be true|247|2016|316|eng|Paperback
+425|9781982134488|Think Like a Monk|248|2020|352|eng|Hardcover
+426|9781453279076|Second Chicken Soup for the Woman's Soul|249|2012|384|eng|Paperback
+427|9781135466374|Married Women Who Love Women|146|2009|288|eng|Paperback
+428|9781417980383|Feeling Is the Secret 1944|250|2004|52|eng|Paperback
+429|9780061229886|The Greatness Guide|251|2006|240|eng|Hardcover
+430|9789753429832|Kendine Ait Bir Hayat|194|2015|204|eng|Paperback
+431|9781135616465|Sex, Love, and Romance in the Mass Media|146|2004|278|eng|Paperback
+432|9780981163758|The freedom of life|252|2010|93|eng|eBook
+433|9781328663047|Maybe You Should Talk to Someone|253|2019|433|eng|eBook
+434|9780762486076|You Are a Badass®|254|2023|288|eng|Hardcover
+435|9788499086200|Lecciones sobre la vida del monje que vendió su Ferrari|213|2012|224|eng|Paperback
+436|9780756782115|You Are Not the Target|255|1998|289|eng|Paperback
+437|9781613838624|The Gift of Fear|256|1999|372|eng|Paperback
+438|9781134379552|Creative Mind|146|2004|360|eng|Paperback
+439|9780006406990|The Courage to be|257|1962|192|eng|Paperback
+440|9781501197277|The courage to be disliked|258|2018|288|eng|Hardcover
+441|9780062888464|Everything Is F*cked|236|2019|288|eng|Paperback
+442|9788415887577|Tal como eres|259|2021|448|eng|Paperback
+443|9781576753071|Goals! How to Get Everything You Want--Faster Than You Ever Thought Possible|260|2004|291|eng|Paperback
+444|9781136807121|Bodies That Matter|146|2011|226|eng|Paperback
+445|9788499087139|Sabiduría cotidiana del monje que vendió su Ferrari|213|2006|240|eng|Paperback
+446|9780310613060|Boundaries|261|1992|400|eng|Paperback
+447|9780749459116|Improve Your Communication Skills|262|2010|200|eng|eBook
+448|9781134461080|Illicit Drugs|146|2003|192|eng|Paperback
+449|9780585453170|The psychological treatment of depression|246|1992|291|eng|eBook
+450|9781135603519|Romance and Sex in Adolescence and Emerging Adulthood|146|2014|288|eng|Paperback
+451|9789575526481|Zhuan Falun|263|2002|397|eng|Paperback
+452|9788497778213|Piense y hágase rico|264|2012|320|eng|Paperback
+453|9781406509199|The Art of Money Getting (Dodo Press)|66|2006|48|eng|Paperback
+454|9781503373358|Acres of Diamonds (Dancing Unicorn Press)|3|2015|66|eng|Paperback
+455|9781508524359|The Richest Man in Babylon|3|2015|100|eng|Paperback
+456|9788420683393|Teoría de la clase ociosa|265|2014|432|eng|Paperback
+457|9781718990937|My Life and Work|3|2018|192|eng|Paperback
+458|9781503360914|Master Key System (Prancing Pony Press)|3|2015|82|eng|Paperback
+459|9781604598919|The Wealth of Nations|266|2009|692|eng|Paperback
+460|9781406870138|Ali Pacha|157|2008|88|eng|Paperback
+461|9782919215058|La mauvaise éducation du Nègre|267|2012|177|eng|Paperback
+462|9780062755193|Collins Robert French-English English-French Dictionary/Le Robert & Collins Dictionnaire Francais-Anglais Anglais-Francais|268|1995|1568|eng|Hardcover
+463|9789562911016|The Law of Success - Complete|269|2006|540|eng|Hardcover
+464|9781118161111|Reminiscences of a Stock Operator|270|2011|288|eng|Paperback
+465|9780470186091|Accounting Principles|271|2007|1792|eng|Hardcover
+466|9781982137137|The 7 Habits of Highly Effective People|248|2020|464|eng|Hardcover
+467|9780060731328|Freakonomics|272|2005|242|eng|Hardcover
+468|9781583762028|Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time|260|2001|125|eng|Hardcover
+469|9781351302487|The Theory of Business Enterprise|146|2017|420|eng|Paperback
+470|9789731931937|Steve Jobs|273|2012|664|eng|Paperback
+471|9780063497474|The Intelligent Investor|274|2026|640|eng|Paperback
+472|9780070384439|Interactive Computing Series|275|1998|160|eng|Paperback
+473|9780718113889|The Moneychangers|276|1970|441|eng|Hardcover
+474|9780030247873|Microsoft Access 97 for Windows (Dryden Exact)|277|1997|224|eng|Paperback
+475|9781376608304|Autobiography of Andrew Carnegie|178|2018|470|eng|Paperback
+476|9780060912093|Effective Executive (Harper colophon books)|278|1991|178|eng|Paperback
+477|9782080811431|Impérialisme et classes sociales|172|1999|294|eng|Paperback
+478|9780072470901|I-Series|279|2001|216|eng|Paperback
+479|9783506462145|Les belles images. (Lernmaterialien)|280|1991|134|eng|Paperback
+480|9780786149254|The 4-Hour work Week|281|2007|200|eng|Audiobook
+481|9781119278986|Leadership Challenge|270|2017|400|eng|Paperback
+482|9782253046639|Accroche-toi à ton rêve|282|1988|694|eng|Paperback
+483|9780679745587|In Cold Blood|283|1994|343|eng|Paperback
+484|9780748109494|Portrait of a Killer|69|2008|496|eng|Paperback
+485|9780739326732|The innocent man|284|2006|563|eng|Paperback
+486|9780099576112|Midnight in the Garden of Good and Evil : A Savannah Story|283|1997|388|eng|Paperback
+487|9780749322144|Mindhunter|285|1997|394|eng|Paperback
+488|9788380492400|Pod sztandarem nieba. Wiara, ktora zabija|286|2016|392|eng|Hardcover
+489|9780385534246|Killers of the Flower Moon|32|2017|338|eng|Paperback
+490|9780006499510|The Monster of Florence|287|1997|352|eng|Paperback
+491|9780449908082|Homicide|60|1992|608|eng|Paperback
+492|9781847828804|The murder of King Tut|288|2009|288|eng|Paperback
+493|9780765803566|Separating fools from their money|289|2007|264|eng|Paperback
+494|9780753541500|Complete Jack the Ripper|233|2013|400|eng|Paperback
+495|9781845962234|The Havana mob|290|2008|400|eng|Paperback
+496|9781771641739|Frozen in Time|291|2017|300|eng|Paperback
+497|9780061363887|The Good Rat LP|292|2008|400|eng|Paperback
+498|9781610391092|Black mass|293|2012|417|eng|Paperback
+499|9780312624170|Mafia Son|294|2010|288|eng|Paperback
+500|9780143109372|ZeroZeroZero|179|2016|448|eng|Paperback

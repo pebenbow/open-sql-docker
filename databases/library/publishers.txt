@@ -1,0 +1,294 @@
+1|Dolphin Books
+2|Lynx Books
+3|CreateSpace Independent Publishing Platform
+4|Penguin Random House SEA
+5|Independently Published
+6|Bantam Classics
+7|Penguin English Library
+8|Czytelnik
+9|Rakuten Kobo
+10|Penguin Books, Limited
+11|DK CHILDREN
+12|Dorlion Yayinevi
+13|Gibbs Smith
+14|Fondo de Cultura Economica
+15|Independently published
+16|Sweetwater Press
+17|AD Classic
+18|Pearson
+19|Bantam Dell
+20|Pan Macmillan
+21|Grandma's Treasures
+22|Canterbury classics
+23|Editores mexicanos unidos
+24|Page Publications
+25|Oxford University Press
+26|Plutón Ediciones
+27|Longman
+28|MAXTOR
+29|Baronet Books
+30|Edicions Voramar, S.A.
+31|Espasa
+32|Doubleday
+33|C&T
+34|Altin
+35|Booket
+36|IndyPublish.com
+37|Anchor Canada
+38|Fawcett Popular Library
+39|Pocket
+40|HarperCollins Publishers
+41|Dolnoslaskie
+42|Columna CAT
+43|Orion Books Ltd
+44|Little, Brown
+45|Pearson ESL
+46|Hodder Children's Books
+47|Altin Kitaplar
+48|Penguin Classics
+49|Random House UK
+50|Chivers Audio Books
+51|Bompiani
+52|Neal-Schuman Publishing
+53|Hard Press
+54|Women's Press Ltd,The
+55|Basic Books
+56|HarperFestival
+57|Del Rey
+58|Wordsworth Editions Ltd
+59|Createspace Independent Publishing Platform
+60|Ballantine Books
+61|Paper Mill Press
+62|Cambridge University Press
+63|Innovate Book Publisher
+64|Archipoche
+65|BiblioBazaar
+66|Dodo Press
+67|FollettBound
+68|Maxi-livres
+69|Little, Brown Book Group Limited
+70|Publishers of the Valley
+71|Borgo Press
+72|Peter Pauper Press, Incorporated
+73|1st World Library - Literary Society
+74|Wonder Publishing
+75|Hungry Engine
+76|The Random House Publishing Group
+77|İthaki Yayınları
+78|IndyPublish
+79|Books of Wonder
+80|Merchiston Publishing
+81|Penguin Publishing Group
+82|WilliamsBookseller
+83|International Alliance For Women in Music
+84|Engin
+85|Imprint unknown
+86|Public Public Books
+87|Engin Yayınevi
+88|Signet Classics
+89|North Books
+90|Macmillan
+91|Larousse
+92|Arcturus Publishing
+93|Alma Classics
+94|Prószynski
+95|CreateSpace (Independent Publishing Platform)
+96|Townsend Press
+97|Wydawnictwo Dolnoslaskie
+98|Vintage Books
+99|W. W. Norton & Company
+100|Bound to Stay Bound Books
+101|Znak
+102|J'AI LU (ÉDITIONS)
+103|Scandinavia
+104|Tor Classics
+105|Rana Cantado
+106|MG
+107|Lerner Publishing Group
+108|Hachette Livre - BNF
+109|Acclaim Books
+110|Book Jungle
+111|Franklin Classics
+112|Barbour Publishing, Incorporated
+113|Summit Classic Press
+114|Entremonde
+115|Carroggio, S.A. de Ediciones
+116|Houghton Mifflin
+117|Juárez
+118|Memoria Pr
+119|HardPress
+120|Barnes and Noble
+121|Ascent Audio
+122|Kessinger Publishing
+123|House of Stratus
+124|Altea Ediciones
+125|Digireads.com Publishing
+126|Argument
+127|Oxford University Press, USA
+128|Duquesne University Press
+129|Sterling Publishing Co., Inc.
+130|Hodder & Stoughton
+131|DELCOURT
+132|Edicions 62
+133|The Johns Hopkins University Press
+134|General Books LLC
+135|Houghton Mifflin Harcourt Publishing Company
+136|Academic Press
+137|Outlook Verlag
+138|JOHN WILEY & SONS
+139|Loeb Classical Library
+140|HACHETTE BNF
+141|Nathan
+142|Stationery Office Books
+143|Mardaga
+144|Academic Pr
+145|Adamant Media Corporation
+146|Taylor & Francis Group
+147|Vieweg+Teubner Verlag
+148|Elsevier Science & Technology Books
+149|W.H. Freeman & Company
+150|Powerhouse Publishing (AUS)
+151|Elsevier/Academic Press
+152|Canongate Books
+153|Anaconda Verlag
+154|Modern Library
+155|Hackett Publishing Company
+156|Prentice Hall
+157|Echo Library
+158|The Perfect Library
+159|E-Artnow
+160|Highbridge Audio
+161|Denöel
+162|Acantilado
+163|Oda Yayinlari
+164|University of Chicago Press
+165|WEIDENFELD & NICOLSON
+166|J M Dent & Sons Ltd
+167|Alfred A Knopf
+168|New American Library
+169|Derrydale Books
+170|Sterling
+171|Wentworth Press
+172|Flammarion
+173|Libraire Larousse
+174|Chelsea House Publications
+175|Dutton Adult
+176|Graywolf Press
+177|MESTAS Ediciones, S.L.
+178|Creative Media Partners, LLC
+179|Penguin Books
+180|Florida State University
+181|The Large Print Book Company
+182|Знання
+183|Zubia Editoriala, S.L.
+184|Scholastic Press
+185|Aschehoug AS
+186|B Wahlströms (Massolit)
+187|Can
+188|GALLIMARD JEUNE
+189|Definitions
+190|Salamandra Infantil y Juvenil
+191|Large Print Press
+192|Viking
+193|Large Print Pr
+194|Metis Yayincilik
+195|Holt Rinehart and Winston
+196|Puffin Books
+197|Turtleback Books
+198|ICON Reference
+199|Smithmark Publishers
+200|Bedford/St. Martin's
+201|Creation Books
+202|Zeplin Kitap
+203|Aegypan
+204|Bloomsbury UK
+205|Woodstock Books
+206|AST
+207|New English Library
+208|Doubleday & Company
+209|Viking Press
+210|Creative Education
+211|NEL
+212|Obscura Editorial, SL
+213|Debolsillo
+214|Viking / G.P. Putnam's Sons
+215|Albatros
+216|Corgi Books
+217|Nova Audio Books
+218|Penguin (Non-Classics)
+219|William Morrow and Company
+220|Titan Books
+221|Signet
+222|labutxaca
+223|Nelson Thornes Ltd
+224|Hutchinson
+225|Jotema
+226|Wynwood Press
+227|Recorded Books, Inc. and Blackstone Publishing
+228|Scribner
+229|Donald M. Grant, Publisher
+230|Donald M. Grant Publisher
+231|Librairie des Champs-Elysées
+232|Putnam
+233|Penguin Random House
+234|Random House
+235|Headline
+236|Harper
+237|New English Library / Hodder & Stoughton
+238|Lushena Books Inc
+239|General Press
+240|McGraw-Hill Education
+241|Monde Different
+242|Hachette Australia
+243|Health Communications
+244|Alfred A. Knopf
+245|Rebis
+246|Routledge
+247|PQ Blackwell
+248|Simon & Schuster
+249|Chicken Soup for the Soul Publishing, LLC
+250|Kessinger Publishing, LLC
+251|Collins
+252|Asteroid Pub.
+253|Mariner Books
+254|Running Press Adult
+255|Diane Pub Co
+256|Perfection Learning
+257|Yale
+258|Atria Books
+259|Neo Person
+260|Berrett-Koehler Publishers
+261|Zondervan
+262|Kogan Page Publishers
+263|Yih Chyun Book Co., Ltd.
+264|Ediciones Obelisco S.L.
+265|Alianza Editorial
+266|Thrifty Books
+267|AFROMUNDI
+268|HarperResource
+269|bnpublishing.com
+270|Wiley & Sons, Incorporated, John
+271|John Wiley & Sons Inc
+272|William Morrow
+273|Editura Publica
+274|Harper Business
+275|Irwin/McGraw-Hill
+276|Michael Joseph Ltd
+277|Harcourt Brace College Publishers
+278|HarperCollins Publishers Ltd
+279|Career Education
+280|F. Schöningh, Paderborn
+281|Blackstone Audio Inc.
+282|LGF
+283|Vintage
+284|Random House Large Print
+285|Mandarin
+286|Czarne
+287|HarperCollins
+288|Charnwood
+289|Transaction Publishers
+290|Mainstream Pub
+291|Greystone Books Ltd.
+292|HarperLuxe
+293|Public Affairs
+294|St. Martin's Griffin
