@@ -57,11 +57,13 @@ PostgreSQL's `docker-entrypoint-initdb.d/` mechanism runs all scripts in that di
 
 | Database | Description | Data Scale |
 |---|---|---|
+| `actors` | Oscar-nominee filmography/awards data | ~1 table, single-table schema |
 | `countries` | Country metadata (ISO codes, population, region, lat/lon) | ~200 rows |
+| `library` | 3NF library circulation system: real books/authors/publishers (Open Library), fabricated patrons/staff/checkouts/fines | ~500 books, ~800 copies, ~2,700 checkouts |
 | `northwind` | Classic e-commerce sample (customers, orders, products) | Medium |
 | `murdermystery` | Interactive SQL detective puzzle | Large (~1.3MB events) |
 | `nycflights` | NYC flight data for analysis practice | Large (11MB flights) |
-| `worldbank` | Placeholder — currently empty | — |
+| `worldbank` | World Bank country/indicator data (regions, income groups, indicators) | Medium |
 
 ### CI/CD
 
