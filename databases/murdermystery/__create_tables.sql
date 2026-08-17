@@ -110,3 +110,29 @@ create table if not exists public.facebook_event_checkin
 alter table public.facebook_event_checkin
     owner to postgres;
 
+-- Self-check function for the SQL Murder Mystery narrative. Not part of the
+-- original NUKnightLab project (which verifies answers via an INSERT into a
+-- solution table instead) - added here so students get instant feedback
+-- without needing a separate answer-checking table. The case is designed as
+-- a two-stage reveal: the first correct name (the shooter) confirms the
+-- immediate suspect but points toward a second, deeper answer (the person
+-- who hired him).
+create or replace function public.check_murderer(suspect varchar)
+returns varchar as $$
+begin
+    if lower(suspect) = lower('Jeremy Bowers') then
+        return 'Congratulations, you found the murderer! But wait, there''s more... '
+            || 'If you think you''re up for a challenge, try querying the interview '
+            || 'transcript of the murderer to find the real villain behind this crime.';
+    elsif lower(suspect) = lower('Miranda Priestly') then
+        return 'Congratulations, you found the real mastermind behind the murder! '
+            || 'You have completed the SQL Murder Mystery. Great job!';
+    else
+        return 'That''s not the right person. Keep investigating!';
+    end if;
+end;
+$$ language plpgsql;
+
+alter function public.check_murderer(varchar)
+    owner to postgres;
+
