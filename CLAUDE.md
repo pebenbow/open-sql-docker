@@ -53,11 +53,20 @@ PostgreSQL's `docker-entrypoint-initdb.d/` mechanism runs all scripts in that di
    - Data files (`.csv`, `.txt`) in the same directory
 3. The database name will match the subdirectory name
 
+For a source that's already a database (not raw data files) -- e.g. `civilization`,
+generated from a SQLite file via `scripts/civilization_sqlite_to_postgres.py` -- write a
+single `databases/<dbname>/backup.sql` instead (`00-load-databases.sh` loads it via `psql`
+just like the split `__create_tables.sql`/`__load_tables.sql` pair). Keep the original source
+file under `scripts/source-data/` (not under `databases/`, which gets copied verbatim into
+the image) and the conversion script alongside the other `scripts/*.py` generators, so the
+whole database can be regenerated from scratch rather than hand-maintained.
+
 ### Existing Databases
 
 | Database | Description | Data Scale |
 |---|---|---|
 | `actors` | Oscar-nominee filmography/awards data | ~1 table, single-table schema |
+| `civilization` | Sid Meier's Civilization V's shipped ruleset database (units, buildings, techs, civs, etc.) | 367 tables, ~22k rows |
 | `countries` | Country metadata (ISO codes, population, region, lat/lon) | ~200 rows |
 | `library` | 3NF library circulation system: real books/authors/publishers (Open Library), fabricated patrons/staff/checkouts/fines | ~500 books, ~800 copies, ~2,700 checkouts |
 | `northwind` | Classic e-commerce sample (customers, orders, products) | Medium |
