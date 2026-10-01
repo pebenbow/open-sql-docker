@@ -26,7 +26,10 @@ OUT_DIR = Path(__file__).resolve().parent.parent / "databases" / "library"
 random.seed(153)  # reproducible output across re-runs
 
 HISTORY_YEARS = 2
-END_DATE = date.today()
+# Pinned (not date.today()) so re-running reproduces the committed data
+# files exactly; a moving END_DATE would shift every generated date and
+# silently change query output throughout the textbook.
+END_DATE = date(2026, 8, 7)
 START_DATE = END_DATE - timedelta(days=365 * HISTORY_YEARS)
 LOAN_PERIOD_DAYS = 21
 DAILY_LATE_FEE = 0.25

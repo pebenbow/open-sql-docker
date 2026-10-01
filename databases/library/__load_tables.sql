@@ -9,3 +9,9 @@ COPY public.patrons       FROM '/docker-entrypoint-initdb.d/library/patrons.txt'
 COPY public.copies        FROM '/docker-entrypoint-initdb.d/library/copies.txt'        DELIMITER '|' CSV;
 COPY public.checkouts     FROM '/docker-entrypoint-initdb.d/library/checkouts.txt'     DELIMITER '|' CSV;
 COPY public.fines         FROM '/docker-entrypoint-initdb.d/library/fines.txt'         DELIMITER '|' CSV;
+COPY public.circulation_scans  FROM '/docker-entrypoint-initdb.d/library/circulation_scans.txt'  DELIMITER '|' CSV;
+COPY public.study_rooms        FROM '/docker-entrypoint-initdb.d/library/study_rooms.txt'        DELIMITER '|' CSV;
+COPY public.room_reservations  FROM '/docker-entrypoint-initdb.d/library/room_reservations.txt'  DELIMITER '|' CSV;
+COPY public.legacy_checkouts   FROM '/docker-entrypoint-initdb.d/library/legacy_checkouts.txt'   DELIMITER '|' CSV;
+COPY public.signup_submissions FROM '/docker-entrypoint-initdb.d/library/signup_submissions.txt' DELIMITER '|' CSV;
+COPY public.catalog_searches   FROM '/docker-entrypoint-initdb.d/library/catalog_searches.txt'   DELIMITER '|' CSV;

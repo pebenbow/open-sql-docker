@@ -1,0 +1,5 @@
+1|Quiet Room A|2|f
+2|Quiet Room B|2|f
+3|Group Study 1|6|t
+4|Group Study 2|6|t
+5|Community Room|20|t

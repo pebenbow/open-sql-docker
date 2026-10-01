@@ -68,7 +68,9 @@ whole database can be regenerated from scratch rather than hand-maintained.
 | `actors` | Oscar-nominee filmography/awards data | ~1 table, single-table schema |
 | `civilization` | Sid Meier's Civilization V's shipped ruleset database (units, buildings, techs, civs, etc.) | 367 tables, ~22k rows |
 | `countries` | Country metadata (ISO codes, population, region, lat/lon) | ~200 rows |
-| `library` | 3NF library circulation system: real books/authors/publishers (Open Library), fabricated patrons/staff/checkouts/fines | ~500 books, ~800 copies, ~2,700 checkouts |
+| `library` | 3NF library circulation system: real books/authors/publishers (Open Library), fabricated patrons/staff/checkouts/fines, plus supplementary tables for the date/time and string chapters (scan log, room reservations, raw legacy export, raw signup forms, catalog searches) | ~500 books, ~800 copies, ~2,700 checkouts |
+
+The `library` data is generated in three steps, each reading the previous step's output files: `scripts/fetch_library_data.py` (real book data), `scripts/fabricate_circulation_data.py` (core circulation tables), then `scripts/fabricate_library_extensions.py` (supplementary tables). All are seeded and use a pinned end date, so re-running reproduces the committed files exactly. The supplementary tables are deliberately additive: the core tables are queried throughout the textbook, so their contents should not change.
 | `northwind` | Classic e-commerce sample (customers, orders, products) | Medium |
 | `murdermystery` | Interactive SQL detective puzzle | Large (~1.3MB events) |
 | `nycflights` | NYC flight data for analysis practice | Large (11MB flights) |
